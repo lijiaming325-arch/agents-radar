@@ -53,6 +53,7 @@ import {
   saveHnReport,
   savePhReport,
   saveArxivReport,
+  saveAihotReport,
   saveHfReport,
   saveCommunityReport,
 } from "./report-savers.ts";
@@ -61,6 +62,7 @@ import { fetchTrendingData, type TrendingData } from "./trending.ts";
 import { fetchHnData, type HnData } from "./hn.ts";
 import { fetchPhData, type PhData } from "./ph.ts";
 import { fetchArxivData, type ArxivData } from "./arxiv.ts";
+import { fetchAihotData, type AihotData } from "./aihot.ts";
 import { fetchHfData, type HfData } from "./hf.ts";
 import { fetchDevtoData, type DevtoData } from "./devto.ts";
 import { fetchLobstersData, type LobstersData } from "./lobsters.ts";
@@ -113,13 +115,14 @@ async function fetchAllData(
   hnData: HnData;
   phData: PhData;
   arxivData: ArxivData;
+  aihotData: AihotData;
   hfData: HfData;
   devtoData: DevtoData;
   lobstersData: LobstersData;
 }> {
   const allConfigs = [...CLI_REPOS, OPENCLAW, ...OPENCLAW_PEERS, ...INFRA_REPOS];
   console.log(
-    `  Tracking: ${allConfigs.map((r) => r.id).join(", ")}, claude-code-skills, web, hn, ph, arxiv, ` +
+    `  Tracking: ${allConfigs.map((r) => r.id).join(", ")}, claude-code-skills, web, hn, ph, arxiv, aihot, ` +
       `${fetchHf ? "hf, " : ""}devto, lobsters`,
   );
 
@@ -131,6 +134,7 @@ async function fetchAllData(
     hnData,
     phData,
     arxivData,
+    aihotData,
     hfData,
     devtoData,
     lobstersData,
@@ -191,6 +195,7 @@ async function fetchAllData(
     fetchHnData().catch((): HnData => ({ stories: [], fetchSuccess: false })),
     fetchPhData().catch((): PhData => ({ products: [], fetchSuccess: false })),
     fetchArxivData().catch((): ArxivData => ({ papers: [], fetchSuccess: false })),
+    fetchAihotData().catch((): AihotData => ({ items: [], fetchSuccess: false })),
     fetchHf
       ? fetchHfData().catch((): HfData => ({ models: [], fetchSuccess: false }))
       : Promise.resolve<HfData>({ models: [], fetchSuccess: false }),
@@ -206,6 +211,7 @@ async function fetchAllData(
     hnData,
     phData,
     arxivData,
+    aihotData,
     hfData,
     devtoData,
     lobstersData,
@@ -413,6 +419,7 @@ async function main(): Promise<void> {
     hnData,
     phData,
     arxivData,
+    aihotData,
     hfData,
     devtoData,
     lobstersData,
@@ -556,6 +563,7 @@ async function main(): Promise<void> {
     saveHnReport(hnData, utcStr, dateStr, digestRepo),
     savePhReport(phData, utcStr, dateStr, digestRepo),
     saveArxivReport(arxivData, utcStr, dateStr, digestRepo),
+    saveAihotReport(aihotData, utcStr, dateStr, digestRepo),
     saveCommunityReport(devtoData, lobstersData, utcStr, dateStr, digestRepo),
     ...(isHfWeek ? [saveHfReport(hfData, utcStr, dateStr, digestRepo)] : []),
   ]);
@@ -579,6 +587,7 @@ async function main(): Promise<void> {
     ["ai-hn", "ai-hn-en.md"],
     ["ai-ph", "ai-ph-en.md"],
     ["ai-arxiv", "ai-arxiv-en.md"],
+    ["ai-aihot", "ai-aihot-en.md"],
     ["ai-hf", "ai-hf-en.md"],
     ["ai-community", "ai-community-en.md"],
   ] as const) {

@@ -25,6 +25,8 @@ const REPORT_FILES = [
   "ai-ph-en",
   "ai-arxiv",
   "ai-arxiv-en",
+  "ai-aihot",
+  "ai-aihot-en",
   "ai-hf",
   "ai-hf-en",
   "ai-community",

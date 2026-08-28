@@ -14,6 +14,7 @@ import {
   HN_REPORT,
   PH_REPORT,
   ARXIV_REPORT,
+  AIHOT_REPORT,
   HF_REPORT,
   COMMUNITY_REPORT,
   ISSUE_LABELS,
@@ -23,6 +24,7 @@ import {
   buildHnPrompt,
   buildPhPrompt,
   buildArxivPrompt,
+  buildAihotPrompt,
   buildHfPrompt,
   buildCommunityPrompt,
 } from "./prompts-data.ts";
@@ -40,6 +42,7 @@ import type { HnData } from "./hn.ts";
 import type { PhData } from "./ph.ts";
 import type { TrendingData } from "./trending.ts";
 import type { ArxivData } from "./arxiv.ts";
+import type { AihotData } from "./aihot.ts";
 import type { HfData } from "./hf.ts";
 import type { DevtoData } from "./devto.ts";
 import type { LobstersData } from "./lobsters.ts";
@@ -300,6 +303,54 @@ export async function saveArxivReport(
     }
   } catch (err) {
     console.error(`  [arxiv] Report generation failed: ${err}`);
+  }
+}
+
+// ---------------------------------------------------------------------------
+// AIHOT report (aihot.virxact.com)
+// ---------------------------------------------------------------------------
+
+export async function saveAihotReport(
+  aihotData: AihotData,
+  utcStr: string,
+  dateStr: string,
+  digestRepo: string,
+): Promise<void> {
+  if (!aihotData.fetchSuccess) {
+    console.log("  [aihot] No data available, skipping report.");
+    return;
+  }
+
+  console.log("  [aihot] Calling LLM for AIHOT report (EN) + translation (ZH)...");
+  try {
+    const summary = await bilingualBody(buildAihotPrompt(aihotData, dateStr, "en"), LLM_TOKENS_LISTING);
+
+    for (const lang of LANGS) {
+      const fileName = lang === "en" ? "ai-aihot-en.md" : "ai-aihot.md";
+      const header =
+        lang === "en"
+          ? `# ${AIHOT_REPORT.title[lang]} ${dateStr}\n\n` +
+            `> Source: [AIHOT](https://aihot.virxact.com/all) | ` +
+            `${aihotData.items.length} items | Generated: ${utcStr} UTC\n\n` +
+            `---\n\n`
+          : `# ${AIHOT_REPORT.title[lang]} ${dateStr}\n\n` +
+            `> 数据来源: [AIHOT](https://aihot.virxact.com/all) | ` +
+            `共 ${aihotData.items.length} 条 | 生成时间: ${utcStr} UTC\n\n` +
+            `---\n\n`;
+
+      const content = header + summary[lang] + autoGenFooter(lang);
+
+      console.log(`  Saved ${saveFile(content, dateStr, fileName)}`);
+
+      if (digestRepo) {
+        const title = AIHOT_REPORT.issueTitle(dateStr, lang);
+        const label = ISSUE_LABELS.aihot[lang];
+        const url = await createGitHubIssue(title, content, label);
+        console.log(`  Created AIHOT issue (${lang}): ${url}`);
+      }
+    }
+  } catch (err) {
+    console.error(`  [aihot] Report generation failed: ${err}`);
   }
 }
 

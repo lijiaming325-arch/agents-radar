@@ -9,6 +9,7 @@ import type { TrendingData } from "./trending.ts";
 import type { HnData } from "./hn.ts";
 import type { PhData } from "./ph.ts";
 import type { ArxivData } from "./arxiv.ts";
+import type { AihotData } from "./aihot.ts";
 import type { HfData } from "./hf.ts";
 import type { DevtoData } from "./devto.ts";
 import type { LobstersData } from "./lobsters.ts";
@@ -870,6 +871,113 @@ ${lobstersText}
    - 新兴的教程、模式或最佳实践
 
 5. **值得精读** — 2~3 篇最值得深入阅读的内容
+
+语言要求：中文，简洁专业，保留所有原文链接。
+`;
+}
+
+// ---------------------------------------------------------------------------
+// AIHOT prompt (aihot.virxact.com — Chinese AI news feed)
+// ---------------------------------------------------------------------------
+
+export function buildAihotPrompt(data: AihotData, dateStr: string, lang: Lang = "zh"): string {
+  const itemsText =
+    data.items.length > 0
+      ? data.items
+          .map((it, i) => {
+            const base =
+              lang === "en"
+                ? `${i + 1}. **${it.title}**\n` + `   Link: ${it.url}\n`
+                : `${i + 1}. **${it.title}**\n` + `   链接: ${it.url}\n`;
+            const source = it.sourceUrl
+              ? `${lang === "en" ? "   Original: " : "   原文: "}${it.sourceUrl}\n`
+              : "";
+            const cat = `${lang === "en" ? "   Category: " : "   站内分类: "}${it.category || (lang === "en" ? "N/A" : "无")}\n`;
+            const time = `${lang === "en" ? "   Time: " : "   时间: "}${it.publishedAt.slice(0, 16)}`;
+            const sum = it.summary ? `\n   ${lang === "en" ? "Summary" : "摘要"}: ${it.summary}` : "";
+            return base + source + cat + time + sum;
+          })
+          .join("\n\n")
+      : lang === "en"
+        ? "(No items available)"
+        : "（暂无条目）";
+
+  if (lang === "en") {
+    return `You are a Chinese-language AI news analyst. The following are items from the AIHOT aggregator (aihot.virxact.com), a curated Chinese AI news feed, as of ${dateStr} (${data.items.length} items from the last 24 hours, newest first):
+
+---
+
+${itemsText}
+
+---
+
+Generate a structured AIHOT Chinese AI Digest in English:
+
+1. **Today's Highlights** — 3-5 sentences on the most notable AI developments covered by the Chinese AI community today
+
+2. **Top Stories** — Organized by theme, render a **Markdown table** per theme with exactly these columns:
+
+   | Title | Category | Summary |
+   | :--- | :--- | :--- |
+
+   - **Title**: title as a Markdown link to the original article URL when available, otherwise the AIHOT item page; keep any Chinese title verbatim and add a short English gloss in parentheses
+   - **Category**: the site category, copied verbatim
+   - **Summary**: 2 sentences — what happened and why it matters
+   - Select the most representative items per theme; omit a theme's table if empty
+
+   Themes:
+   - 🔬 Models & Research (model releases, papers, benchmarks)
+   - 🛠️ Tools & Engineering (frameworks, open-source projects, workflows)
+   - 📦 Applications & Products (products, use cases, vertical solutions)
+   - 📚 Tutorials & Guides (how-tos, best practices, explainers)
+   - 💬 Opinions & Analysis (industry commentary, viewpoints, trends)
+
+3. **Signal Analysis** — 100-200 words on what the Chinese AI community is paying attention to today:
+   - Which topics dominate the feed?
+   - Any divergence from the usual English-language AI discourse?
+   - Practical takeaways for developers
+
+4. **Worth Deep Reading** — List 2-3 items most worth reading in depth, with brief reasoning
+
+Style: English, concise and professional, preserve all original links and Chinese titles verbatim.
+`;
+  }
+
+  return `你是中文 AI 资讯分析师。以下是 ${dateStr} AIHOT（aihot.virxact.com，中文 AI 精选聚合）近 24 小时的内容（共 ${data.items.length} 条，按时间倒序）：
+
+---
+
+${itemsText}
+
+---
+
+请生成一份结构清晰的《AIHOT 中文热榜日报》，要求：
+
+1. **今日速览** — 3~5 句话，概括今日中文 AI 社区最值得关注的动向
+
+2. **热门内容** — 按主题分类，每个主题用 **Markdown 表格**呈现，列固定为：
+
+   | 标题 | 分类 | 简要说明 |
+   | :--- | :--- | :--- |
+
+   - **标题**：优先链接到原文 URL（无原文则链接 AIHOT 站内页），标题照抄
+   - **分类**：照抄站内分类
+   - **简要说明**：2 句话——发生了什么、为什么值得关注
+   - 每类选取最具代表性的条目；某主题为空则整张表省略
+
+   主题：
+   - 🔬 模型与研究（模型发布、论文、基准测试）
+   - 🛠️ 工具与工程（框架、开源项目、工作流）
+   - 📦 应用与产品（产品、用例、垂直方案）
+   - 📚 教程与指南（how-to、最佳实践、详解）
+   - 💬 观点与分析（行业评论、观点、趋势）
+
+3. **信号分析** — 100~200 字，分析今日中文 AI 社区的关注焦点：
+   - 哪些话题占主导？
+   - 与英文圈的主流叙事有无明显差异？
+   - 对开发者的实操启示
+
+4. **值得深读** — 列出 2~3 条最值得深入阅读的内容，简述理由
 
 语言要求：中文，简洁专业，保留所有原文链接。
 `;

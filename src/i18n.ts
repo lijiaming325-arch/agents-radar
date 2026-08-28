@@ -98,6 +98,12 @@ export const ARXIV_REPORT = {
     lang === "en" ? `📚 ArXiv AI Research Digest ${dateStr}` : `📚 ArXiv AI 研究日报 ${dateStr}`,
 } as const;
 
+export const AIHOT_REPORT = {
+  title: t("AIHOT 中文热榜日报", "AIHOT Chinese AI Digest"),
+  issueTitle: (dateStr: string, lang: Lang) =>
+    lang === "en" ? `🔥 AIHOT Chinese AI Digest ${dateStr}` : `🔥 AIHOT 中文热榜日报 ${dateStr}`,
+} as const;
+
 // The HF report runs weekly (see HF_REPORT_WEEKDAY in index.ts) — the Hub's
 // download-ranked list barely moves day to day, so the titles say "weekly".
 export const HF_REPORT = {
@@ -121,6 +127,7 @@ export const ISSUE_LABELS = {
   hn: t("hn", "hn-en"),
   ph: t("ph", "ph-en"),
   arxiv: t("arxiv", "arxiv-en"),
+  aihot: t("aihot", "aihot-en"),
   hf: t("hf", "hf-en"),
   community: t("community", "community-en"),
 } as const;
@@ -167,6 +174,8 @@ export const REPORT_LABELS: Record<string, string> = {
   "ai-ph-en": "Product Hunt AI Products Digest",
   "ai-arxiv": "ArXiv AI 研究日报",
   "ai-arxiv-en": "ArXiv AI Research Digest",
+  "ai-aihot": "AIHOT 中文热榜日报",
+  "ai-aihot-en": "AIHOT Chinese AI Digest",
   "ai-hf": "Hugging Face 热门模型周报",
   "ai-hf-en": "Hugging Face Trending Models Weekly",
   "ai-community": "技术社区 AI 动态日报",
@@ -188,6 +197,7 @@ export const NOTIFY_LABELS: Record<string, Record<Lang, string>> = {
   "ai-hn": t("HN 社区动态", "HN Community"),
   "ai-ph": t("Product Hunt", "Product Hunt"),
   "ai-arxiv": t("ArXiv 研究", "ArXiv Research"),
+  "ai-aihot": t("AIHOT 热榜", "AIHOT Digest"),
   "ai-hf": t("HF 模型", "HF Models"),
   "ai-community": t("技术社区", "Tech Community"),
 };
