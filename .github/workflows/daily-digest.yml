@@ -17,7 +17,6 @@ on:
 permissions:
   contents: write
   issues: write
-  models: read # GitHub Models inference for the github-copilot LLM provider
 
 # A late scheduled run must not overlap a manual catch-up run: both would build
 # the same CST day's digest and open a duplicate set of issues (as happened on
@@ -82,9 +81,19 @@ jobs:
       - name: Run daily digest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # Fork customization: reuse the built-in GITHUB_TOKEN via GitHub Models
-          # (zero extra keys). Switch back to "qwen" + DASHSCOPE_API_KEY if needed.
-          LLM_PROVIDER: github-copilot
+          # Fork customization: Zhipu GLM via its OpenAI-compatible coding
+          # endpoint (key in repo secrets). GitHub Models (models.github.ai)
+          # went into a retirement brownout on 2026-08-28, killing the
+          # github-copilot provider; switch back to "qwen" + DASHSCOPE_API_KEY
+          # if this endpoint ever becomes unavailable.
+          LLM_PROVIDER: openai
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: https://open.bigmodel.cn/api/coding/paas/v4
+          OPENAI_MODEL: glm-5.3-flash
+          # Zhipu rejects max_completion_tokens and is a reasoning model by
+          # default — see OpenAICompatibleProvider.maxTokensParam/extraBody.
+          LLM_MAX_TOKENS_PARAM: max_tokens
+          LLM_EXTRA_BODY: '{"thinking":{"type":"disabled"}}'
           PRODUCTHUNT_TOKEN: ${{ secrets.PRODUCTHUNT_TOKEN }}
           DIGEST_REPO: ${{ github.repository }}
         run: pnpm start
