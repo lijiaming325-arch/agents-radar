@@ -1,6 +1,6 @@
 {
   "anthropic": {
-    "lastChecked": "2026-08-28T01:34:10.931Z",
+    "lastChecked": "2026-08-28T15:10:27.723Z",
     "seenUrls": {
       "https://www.anthropic.com/news/responsible-scaling-policy-v3": "2026-02-25T23:57:06.000Z",
       "https://www.anthropic.com/research/deprecation-updates-opus-3": "2026-02-25T20:58:11.000Z",
@@ -420,7 +420,7 @@
       "https://www.anthropic.com/news/reflect-with-claude": "2026-07-09T14:22:03.000Z",
       "https://www.anthropic.com/research/claude-values-models-languages": "2026-07-13T21:10:45.000Z",
       "https://www.anthropic.com/research/claude-plays-robotics": "2026-08-26T21:22:31.000Z",
-      "https://www.anthropic.com/news/claude-for-teachers": "2026-08-27T15:07:49.000Z",
+      "https://www.anthropic.com/news/claude-for-teachers": "2026-08-28T15:01:10.000Z",
       "https://www.anthropic.com/news/canadian-ai-research": "2026-07-15T09:21:26.000Z",
       "https://www.anthropic.com/research/how-canada-uses-claude": "2026-08-25T16:13:14.000Z",
       "https://www.anthropic.com/news/rare-disease-research-grants": "2026-07-20T17:36:28.000Z",
@@ -445,12 +445,12 @@
       "https://www.anthropic.com/research/team/economics": "2026-08-26T09:21:35.000Z",
       "https://www.anthropic.com/news/wellbeing-research-grants": "2026-08-25T16:20:57.000Z",
       "https://www.anthropic.com/research/enabling-independent-research": "2026-08-26T17:01:42.000Z",
-      "https://www.anthropic.com/news/model-hardware-standard-research-preview": "2026-08-28T01:16:13.000Z",
-      "https://www.anthropic.com/news/expanding-support-for-scientists": "2026-08-27T19:19:47.000Z"
+      "https://www.anthropic.com/news/model-hardware-standard-research-preview": "2026-08-28T10:41:54.000Z",
+      "https://www.anthropic.com/news/expanding-support-for-scientists": "2026-08-28T10:42:34.000Z"
     }
   },
   "openai": {
-    "lastChecked": "2026-08-28T01:34:03.561Z",
+    "lastChecked": "2026-08-28T15:10:29.356Z",
     "seenUrls": {
       "https://openai.com/index/arvind-kc-chief-people-officer/": "2026-08-25T20:41:44.933Z",
       "https://openai.com/index/put-ai-to-work-for-your-product-team/": "2026-08-25T20:41:40.324Z",
@@ -461,7 +461,7 @@
       "https://openai.com/index/inside-our-in-house-data-agent/": "2026-08-13T23:57:08.794Z",
       "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/": "2026-06-04T10:36:44.436Z",
       "https://openai.com/index/openai-deutschland/": "2026-08-25T20:41:41.487Z",
-      "https://openai.com/news/": "2026-08-27T21:00:24.947Z",
+      "https://openai.com/news/": "2026-08-28T14:15:46.174Z",
       "https://openai.com/news/engineering/": "2026-08-27T18:36:50.339Z",
       "https://openai.com/news/safety-alignment/": "2026-08-27T18:36:51.127Z",
       "https://openai.com/news/product-releases/": "2026-08-27T18:36:51.238Z",
@@ -668,7 +668,7 @@
       "https://openai.com/index/chatgpt-plus/": "2026-08-14T20:54:25.505Z",
       "https://openai.com/index/whisper/": "2026-08-19T00:21:24.471Z",
       "https://openai.com/index/gpt-4/": "2026-08-14T20:24:53.357Z",
-      "https://openai.com/index/introducing-codex/": "2026-08-27T23:46:14.388Z",
+      "https://openai.com/index/introducing-codex/": "2026-08-28T15:10:23.514Z",
       "https://openai.com/index/chatgpt/": "2026-08-14T20:20:32.658Z",
       "https://openai.com/index/introducing-chatgpt-search/": "2026-08-14T20:26:26.838Z",
       "https://openai.com/index/healthbench/": "2026-08-26T15:25:42.954Z",
@@ -1100,7 +1100,7 @@
       "https://openai.com/index/scaling-trusted-access-for-cyber-defense/": "2026-08-26T19:11:41.995Z",
       "https://openai.com/index/the-next-evolution-of-the-agents-sdk/": "2026-07-25T07:19:23.914Z",
       "https://openai.com/index/codex-for-almost-everything/": "2026-08-19T16:45:35.336Z",
-      "https://openai.com/index/introducing-gpt-rosalind/": "2026-07-25T07:08:05.164Z",
+      "https://openai.com/index/introducing-gpt-rosalind/": "2026-08-28T11:25:29.208Z",
       "https://openai.com/index/accelerating-cyber-defense-ecosystem/": "2026-08-26T19:11:35.596Z",
       "https://openai.com/business/guides-and-resources/staying-ahead-in-the-age-of-ai/": "2026-08-13T23:37:37.303Z",
       "https://openai.com/business/guides-and-resources/the-state-of-enterprise-ai-2025-report/": "2026-07-23T20:46:09.653Z",
@@ -1214,7 +1214,7 @@
       "https://openai.com/index/building-an-ai-native-finance-function/": "2026-08-21T15:00:35.715Z",
       "https://openai.com/index/daybreak-models-are-now-available-on-aws/": "2026-08-13T22:04:00.425Z",
       "https://openai.com/index/how-enterprises-put-ai-to-work/": "2026-08-17T15:14:04.498Z",
-      "https://openai.com/index/previewing-ultrafast/": "2026-08-24T12:37:26.552Z",
+      "https://openai.com/index/previewing-ultrafast/": "2026-08-28T10:25:07.929Z",
       "https://openai.com/index/dali-rajic-chief-revenue-officer/": "2026-08-25T20:41:37.007Z",
       "https://openai.com/index/openai-joins-ports-pike-project/": "2026-08-25T12:16:43.834Z",
       "https://openai.com/index/partnering-with-codeai/": "2026-08-24T10:17:07.951Z",
@@ -1225,11 +1225,12 @@
       "https://openai.com/index/gpt-5-6-in-kiro/": "2026-08-26T19:58:44.240Z",
       "https://openai.com/index/the-full-stack-behind-abundant-intelligence/": "2026-08-27T21:39:14.954Z",
       "https://openai.com/index/jalapeno-first-results/": "2026-08-27T21:39:15.031Z",
-      "https://openai.com/index/hugging-face-incident-and-the-road-ahead/": "2026-08-28T00:23:01.616Z",
-      "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts/": "2026-08-27T19:48:34.584Z",
-      "https://openai.com/index/learning-never-stops/": "2026-08-28T00:05:47.442Z",
-      "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training/": "2026-08-28T00:03:10.197Z",
-      "https://openai.com/index/expanding-our-presence-in-brazil/": "2026-08-27T19:58:19.471Z"
+      "https://openai.com/index/hugging-face-incident-and-the-road-ahead/": "2026-08-28T12:57:01.679Z",
+      "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts/": "2026-08-28T14:42:30.622Z",
+      "https://openai.com/index/learning-never-stops/": "2026-08-28T14:54:28.479Z",
+      "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training/": "2026-08-28T12:37:57.972Z",
+      "https://openai.com/index/expanding-our-presence-in-brazil/": "2026-08-28T09:54:15.485Z",
+      "https://openai.com/index/supporting-next-generation-ai-startups-thailand/": "2026-08-28T09:00:00.093Z"
     }
   }
 }

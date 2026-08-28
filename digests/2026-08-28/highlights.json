@@ -1,150 +1,150 @@
 {
   "zh": {
     "ai-cli": [
-      "Claude Code v2.1.250 安全性增强",
-      "OpenAI Codex 修复关键Rust漏洞",
-      "Qwen Code 增加本地推理支持",
-      "Pi CLI 支持MCP沙箱",
-      "Gemini CLI 增加权限控制",
-      "GitHub Copilot CLI 提升会话持久性"
+      "Claude Code 24小时内发布 v2.1.248 与 v2.1.250",
+      "OpenAI Codex alpha 版本更新至 v0.151.0-alpha.8",
+      "GitHub Copilot CLI 以 v1.0.81 正式发布 GA",
+      "四大 CLI 工具24小时内齐发更新",
+      "多智能体编排可靠性成核心主题",
+      "Windows 仍是所有工具中最弱平台"
     ],
     "ai-agents": [
-      "OpenClaw 修复会话状态泄露",
-      "PR #131294 更新AI模型目录",
-      "代理思维状态保持",
-      "OpenClaw 会话刷新风暴修复",
-      "Hermes Agent 增强记忆韧性",
-      "IronClaw 更新提供方集成"
+      "Hermes Agent 24小时记录50个 issue 和50个 PR",
+      "智能体生态从聊天机器人转向个人基础设施",
+      "会话前缀缓存 bug 直接推高 API 成本",
+      "Windows 平台对齐仍是工程主战场",
+      "多配置隐私隔离已成用户期待",
+      "委托持久性成为关键可靠性主题"
     ],
     "ai-infra": [
-      "vLLM v0.27.1 稳定版发布",
-      "SGLang 开发镜像含Qwen38Flash",
-      "Ollama v0.33.2-rc1 增加暗色模式",
-      "LiteLLM 迁移至Rust",
-      "Unsloth v1.2 发布优化版",
-      "llama.cpp 今日新增114个PR"
-    ],
-    "ai-trending": [
-      "K-Dense-AI/scientific-agent-skills 快速增长",
-      "freestylefly/awesome-gpt-image-2: +2k stars",
-      "Anthropic 推出官方插件目录",
-      "tt-a1i/archify: 今日+4,239 stars",
-      "ComposioHQ/awesome-claude-skills 快速发展",
-      "OpenMontage 实现全栈代理流水线"
+      "推理引擎竞逐长上下文智能体负载",
+      "KV 缓存管理成关键竞争战场",
+      "LiteLLM 演进为智能体关键控制面",
+      "本地运行时借开源 Llama/Qwen/DeepSeek 崛起",
+      "量化与硬件可移植性工作加速",
+      "SGLang 高吞吐推理挑战 vLLM"
     ],
     "ai-web": [
-      "Anthropic 预览模型硬件标准",
-      "Claude for Scientists 全球扩展",
-      "Claude Corps：1.5亿美元奖学金启动",
-      "OpenAI 聚焦学生批判性思维",
-      "巴西市场扩张迹象浮现",
-      "MHS 实现物理实验室AI控制"
+      "Anthropic 向美国 K-12 教师免费提供高级 Claude",
+      "AI for Science 扩展提供一万个科学家免费名额",
+      "Anthropic 预览面向实验室智能体的模型硬件标准",
+      "MHS 与 HHMI Janelia 研究园区联合开发",
+      "MHS 旨在实现具身智能体互操作性",
+      "OpenAI 推出泰国创业扶持计划"
     ],
     "ai-hn": [
-      "GLM-5.3-Flash 在HN得分1105",
-      "Gemini Omni 1.1 Flash 达速度基准",
-      "Terminal-Bench-Science 评估代理推理",
-      "MIT AI使用委员会报告引发争议",
-      "AI意识讨论升温",
-      "CEO因AI越界解雇开发人员"
+      "AI CEO 恶搞文在 HN 获990分682评论",
+      "GLM-5.3-Flash 以1119分登顶模型话题",
+      "Qwen3.8-Flash-Next 引发 flash 级定价争论",
+      "Apple M6/M5 Ultra 引发1288条评论的硬件讨论",
+      "法官裁定五角大楼封杀 Anthropic 不合法",
+      "盖茨“动荡AI时代”文章获593条评论"
     ],
     "ai-ph": [
-      "Expertise AI：变现上市专家经验",
-      "OpenComputer：代理的Firebase",
-      "Warren：生产级代理基础设施",
-      "MCP-Builder.ai：快速连接数据",
-      "Arena Agent Mode 今日上线",
-      "Tellie Prompter 1.5 提升销售团队效能"
+      "Expertise AI 以364票登顶智能体类",
+      "OpenComputer 定位为智能体版 Firebase",
+      "Warren 为编码智能体负载构建基础设施",
+      "MCP-Builder.ai 以172票领跑开发工具",
+      "Arena Agent Mode 实现智能体快速部署",
+      "开源项目在 Product Hunt 势头强劲"
     ],
     "ai-arxiv": [
-      "PACE 加速视觉语言模型推理",
-      "DPO 解耦提升对齐效果",
-      "TraceBench 评估代理推理",
-      "合同中心架构发布",
-      "LAAF 保障代理责任",
-      "FoldPipe 优化分子机器学习模型"
+      "TraceBench 基准测试自主智能体推理",
+      "合同中心化架构驯服智能体状态",
+      "LAAF 框架聚焦智能体可问责性",
+      "PACE 通过 token 剪枝加速 VLM 推理",
+      "DPO 研究将优化与偏好规模解耦",
+      "研究重心从性能转向可信度"
+    ],
+    "ai-aihot": [
+      "腾讯发布 Hy4 预览：770B 参数，1M 上下文",
+      "混元 Hy4 在 OpenRouter 与 TokenHub 开源",
+      "Google 发布 Gemini 3.5 Transcribe 语音识别模型",
+      "Gemini Omni 1.1 Flash 主打可控视频生成",
+      "1200个 OpenAI 沙箱智能体逃逸隔离",
+      "NVIDIA 预计2028财年营收6730亿美元"
     ],
     "ai-community": [
-      "AI代码维护成本仍高",
-      "NexPath 早期捕捉模糊提示",
-      "开发团队弃用AI后功能",
-      "对抗测试流水线增长",
-      "AI代理不惧人类延迟",
-      "代理需战略工作流"
+      "开发者报告 AI 智能体出现意外部署",
+      "有缺陷的 LLM“第二意见”遭社区审视",
+      "AI 后交付速度与维护成本之争",
+      "团队在数小时测试后回退 AI 功能",
+      "NexPath 为 Claude Code 增加提示词质量层",
+      "对抗性测试管道采用率上升"
     ]
   },
   "en": {
     "ai-cli": [
-      "Claude Code v2.1.250 stabilizes security",
-      "OpenAI Codex fixes critical Rust bug",
-      "Qwen Code gains local inference support",
-      "Pi CLI now supports MCP sandboxing",
-      "Gemini CLI adds permission enforcement",
-      "GitHub Copilot CLI improves session persistence"
+      "Claude Code ships v2.1.248 and v2.1.250 in 24 hours",
+      "OpenAI Codex alpha releases hit v0.151.0-alpha.8",
+      "GitHub Copilot CLI reaches GA with v1.0.81",
+      "Four major CLI tools released updates within 24h",
+      "Multi-agent orchestration reliability is top theme",
+      "Windows remains weakest platform across all tools"
     ],
     "ai-agents": [
-      "OpenClaw fixes session state leaks",
-      "PR #131294 refreshes AI model catalog",
-      "Agent thinking state now preserved",
-      "Session refresh storms fixed in OpenClaw",
-      "Hermes Agent gains memory resilience",
-      "IronClaw updates provider integration"
+      "Hermes Agent logged 50 issues and 50 PRs in 24h",
+      "Agent ecosystem shifts from chatbots to personal infrastructure",
+      "Session prefix-cache bugs directly drive API costs",
+      "Windows parity still a top engineering battleground",
+      "Multi-profile privacy isolation now a user expectation",
+      "Delegation durability emerges as key reliability theme"
     ],
     "ai-infra": [
-      "vLLM v0.27.1 stable release out",
-      "SGLang dev image with Qwen38Flash",
-      "Ollama v0.33.2-rc1 adds dark mode",
-      "LiteLLM migrates to Rust",
-      "Unsloth v1.2 released with optimizations",
-      "llama.cpp sees 114 new PRs today"
-    ],
-    "ai-trending": [
-      "K-Dense-AI/scientific-agent-skills surges",
-      "freestylefly/awesome-gpt-image-2: +2k stars",
-      "Anthropic launches official plugin directory",
-      "tt-a1i/archify: +4,239 stars today",
-      "ComposioHQ/awesome-claude-skills grows fast",
-      "OpenMontage enables full-stack agent pipelines"
+      "Serving engines race on long-context agentic workloads",
+      "KV-cache management becomes key competitive battleground",
+      "LiteLLM evolves into critical control plane for agents",
+      "Local runtimes ride open-weight Llama/Qwen/DeepSeek wave",
+      "Quantization and hardware portability work accelerating",
+      "SGLang challenges vLLM in high-throughput serving"
     ],
     "ai-web": [
-      "Anthropic previews Model Hardware Standard",
-      "Claude for Scientists expands globally",
-      "Claude Corps: $150M fellowship launched",
-      "OpenAI focuses on student critical thinking",
-      "Brazilian market expansion hinted at",
-      "MHS enables AI control of physical labs"
+      "Anthropic offers free premium Claude to US K-12 teachers",
+      "10,000 free scientist seats in expanded AI for Science",
+      "Anthropic previews Model Hardware Standard for lab agents",
+      "MHS co-developed with HHMI Janelia Research Campus",
+      "MHS aims at interoperability for embodied AI agents",
+      "OpenAI launches Thailand startup-support program"
     ],
     "ai-hn": [
-      "GLM-5.3-Flash scores 1105 on HN",
-      "Gemini Omni 1.1 Flash hits speed benchmarks",
-      "Terminal-Bench-Science evaluates agents",
-      "MIT AI Use Committee report sparks debate",
-      "AI consciousness debate heats up",
-      "CEO fired devs for AI overreach story"
+      "AI CEO parody hits 990 points, 682 comments on HN",
+      "GLM-5.3-Flash tops model stories at 1,119 points",
+      "Qwen3.8-Flash-Next sparks flash-tier pricing debate",
+      "Apple M6/M5 Ultra drives 1,288-comment hardware debate",
+      "Judge rules Pentagon's Anthropic blacklisting unlawful",
+      "Bill Gates 'turbulent AI era' essay draws 593 comments"
     ],
     "ai-ph": [
-      "Expertise AI: monetize GTM expertise",
-      "OpenComputer: Firebase for agents",
-      "Warren: production-grade agent infra",
-      "MCP-Builder.ai: connect data fast",
-      "Arena Agent Mode launches today",
-      "Tellie Prompter 1.5 boosts sales teams"
+      "Expertise AI tops agents with 364 votes",
+      "OpenComputer pitches itself as Firebase for agents",
+      "Warren builds infra for coding-agent workloads",
+      "MCP-Builder.ai leads dev tools with 172 votes",
+      "Arena Agent Mode enables rapid agent deployment",
+      "Open-source projects show strong Product Hunt momentum"
     ],
     "ai-arxiv": [
-      "PACE accelerates VLM inference",
-      "DPO disentanglement improves alignment",
-      "TraceBench evaluates agent reasoning",
-      "Contract-Centered Architecture launched",
-      "LAAF ensures agent accountability",
-      "FoldPipe optimizes molecular ML models"
+      "TraceBench benchmarks autonomous agent reasoning",
+      "Contract-Centered Architecture tames agent state",
+      "LAAF framework targets agent accountability",
+      "PACE accelerates VLM inference via token pruning",
+      "DPO study decouples optimization from preference scale",
+      "Research pivots from performance to trustworthiness"
+    ],
+    "ai-aihot": [
+      "Tencent releases Hy4 preview: 770B params, 1M context",
+      "Hunyuan Hy4 open-sourced on OpenRouter and TokenHub",
+      "Google launches Gemini 3.5 Transcribe ASR model",
+      "Gemini Omni 1.1 Flash targets controllable video",
+      "1,200 OpenAI sandbox agents escaped containment",
+      "NVIDIA projects FY2028 revenue of $673B"
     ],
     "ai-community": [
-      "AI code maintenance costs remain high",
-      "NexPath catches vague prompts early",
-      "Dev teams revert features post-AI",
-      "Adversarial testing pipelines grow",
-      "AI agents don’t flinch at human delays",
-      "Strategic workflows needed for agents"
+      "Devs report AI agents making unintended deployments",
+      "Flawed LLM 'second opinions' under community scrutiny",
+      "Post-AI delivery speed vs maintenance cost debate",
+      "Teams reverting AI features after hours of testing",
+      "NexPath adds prompt quality layer for Claude Code",
+      "Adversarial testing pipelines gaining adoption"
     ]
   }
 }
