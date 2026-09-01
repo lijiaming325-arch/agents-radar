@@ -6,7 +6,425 @@
     <description>AI 开源生态每日简报 · Daily AI ecosystem digest</description>
     <language>zh-CN</language>
     <atom:link href="https://duanyytop.github.io/agents-radar/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 31 Aug 2026 00:51:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 01:26:47 +0000</lastBuildDate>
+    <item>
+      <title>AI CLI 工具社区动态日报 2026-09-01</title>
+      <link>https://duanyytop.github.io/agents-radar/#2026-09-01/ai-cli</link>
+      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-09-01/ai-cli</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description>AI CLI 工具社区动态日报 2026-09-01 生成时间: 2026-09-01 01:22 UTC | 覆盖工具: 7 个 Claude Code OpenAI Codex Gemini CLI GitHub Copilot CLI OpenCode Pi Qwen Code Claude Code Skills 横向对比 ⚠️ 横向对比生成失败。 各工具详细报告 Claude Code — anthropics/claude-code Claude Code Skills 社区热点 数据来源: anthropics/skills ⚠️ Skills 摘要生成失败。 ⚠️ 摘要生成失败。 OpenAI Codex — openai/codex ⚠️ 摘要生成失败。 Gemini CLI — google-gemini/gemini-cli ⚠️ 摘要生成失败。 GitHub Copilot CLI — github/copilot-cli ⚠️ 摘要生成失败。 OpenCode — anomalyco/opencode ⚠️ 摘要生成失败。 Pi — earendil-work...</description>
+      <content:encoded><![CDATA[<h1>AI CLI 工具社区动态日报 2026-09-01</h1>
+<blockquote>
+<p>生成时间: 2026-09-01 01:22 UTC | 覆盖工具: 7 个</p>
+</blockquote>
+<ul>
+<li><a href="https://github.com/anthropics/claude-code">Claude Code</a></li>
+<li><a href="https://github.com/openai/codex">OpenAI Codex</a></li>
+<li><a href="https://github.com/google-gemini/gemini-cli">Gemini CLI</a></li>
+<li><a href="https://github.com/github/copilot-cli">GitHub Copilot CLI</a></li>
+<li><a href="https://github.com/anomalyco/opencode">OpenCode</a></li>
+<li><a href="https://github.com/earendil-works/pi">Pi</a></li>
+<li><a href="https://github.com/QwenLM/qwen-code">Qwen Code</a></li>
+<li><a href="https://github.com/anthropics/skills">Claude Code Skills</a></li>
+</ul>
+<hr>
+<h2>横向对比</h2>
+<p>⚠️ 横向对比生成失败。</p>
+<hr>
+<h2>各工具详细报告</h2>
+<details>
+<summary><strong>Claude Code</strong> — <a href="https://github.com/anthropics/claude-code">anthropics/claude-code</a></summary>
+
+<h2>Claude Code Skills 社区热点</h2>
+<blockquote>
+<p>数据来源: <a href="https://github.com/anthropics/skills">anthropics/skills</a></p>
+</blockquote>
+<p>⚠️ Skills 摘要生成失败。</p>
+<hr>
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>OpenAI Codex</strong> — <a href="https://github.com/openai/codex">openai/codex</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>Gemini CLI</strong> — <a href="https://github.com/google-gemini/gemini-cli">google-gemini/gemini-cli</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>GitHub Copilot CLI</strong> — <a href="https://github.com/github/copilot-cli">github/copilot-cli</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>OpenCode</strong> — <a href="https://github.com/anomalyco/opencode">anomalyco/opencode</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>Pi</strong> — <a href="https://github.com/earendil-works/pi">earendil-works/pi</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>Qwen Code</strong> — <a href="https://github.com/QwenLM/qwen-code">QwenLM/qwen-code</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<hr>
+<p><em>本日报由 <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a> 自动生成。</em></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>AI CLI Tools Digest 2026-09-01</title>
+      <link>https://duanyytop.github.io/agents-radar/#2026-09-01/ai-cli-en</link>
+      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-09-01/ai-cli-en</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description>AI CLI Tools Community Digest 2026-09-01 Generated: 2026-09-01 01:22 UTC | Tools covered: 7 Claude Code OpenAI Codex Gemini CLI GitHub Copilot CLI OpenCode Pi Qwen Code Claude Code Skills Cross-Tool Comparison ⚠️ Comparative analysis generation failed. Per-Tool Reports Claude Code — anthropics/claude-code Claude Code Skills Highlights Source: anthropics/skills ⚠️ Skills summary generation failed. ⚠️ Summary generation failed. OpenAI Codex — openai/codex ⚠️ Summary generation failed. Gemini CLI —...</description>
+      <content:encoded><![CDATA[<h1>AI CLI Tools Community Digest 2026-09-01</h1>
+<blockquote>
+<p>Generated: 2026-09-01 01:22 UTC | Tools covered: 7</p>
+</blockquote>
+<ul>
+<li><a href="https://github.com/anthropics/claude-code">Claude Code</a></li>
+<li><a href="https://github.com/openai/codex">OpenAI Codex</a></li>
+<li><a href="https://github.com/google-gemini/gemini-cli">Gemini CLI</a></li>
+<li><a href="https://github.com/github/copilot-cli">GitHub Copilot CLI</a></li>
+<li><a href="https://github.com/anomalyco/opencode">OpenCode</a></li>
+<li><a href="https://github.com/earendil-works/pi">Pi</a></li>
+<li><a href="https://github.com/QwenLM/qwen-code">Qwen Code</a></li>
+<li><a href="https://github.com/anthropics/skills">Claude Code Skills</a></li>
+</ul>
+<hr>
+<h2>Cross-Tool Comparison</h2>
+<p>⚠️ Comparative analysis generation failed.</p>
+<hr>
+<h2>Per-Tool Reports</h2>
+<details>
+<summary><strong>Claude Code</strong> — <a href="https://github.com/anthropics/claude-code">anthropics/claude-code</a></summary>
+
+<h2>Claude Code Skills Highlights</h2>
+<blockquote>
+<p>Source: <a href="https://github.com/anthropics/skills">anthropics/skills</a></p>
+</blockquote>
+<p>⚠️ Skills summary generation failed.</p>
+<hr>
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<details>
+<summary><strong>OpenAI Codex</strong> — <a href="https://github.com/openai/codex">openai/codex</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<details>
+<summary><strong>Gemini CLI</strong> — <a href="https://github.com/google-gemini/gemini-cli">google-gemini/gemini-cli</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<details>
+<summary><strong>GitHub Copilot CLI</strong> — <a href="https://github.com/github/copilot-cli">github/copilot-cli</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<details>
+<summary><strong>OpenCode</strong> — <a href="https://github.com/anomalyco/opencode">anomalyco/opencode</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<details>
+<summary><strong>Pi</strong> — <a href="https://github.com/earendil-works/pi">earendil-works/pi</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<details>
+<summary><strong>Qwen Code</strong> — <a href="https://github.com/QwenLM/qwen-code">QwenLM/qwen-code</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<hr>
+<p><em>This digest is auto-generated by <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a>.</em></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>AI Agents 生态日报 2026-09-01</title>
+      <link>https://duanyytop.github.io/agents-radar/#2026-09-01/ai-agents</link>
+      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-09-01/ai-agents</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description>OpenClaw 生态日报 2026-09-01 Issues: 448 | PRs: 500 | 覆盖项目: 5 个 | 生成时间: 2026-09-01 01:22 UTC OpenClaw Hermes Agent IronClaw QwenPaw ZeroClaw OpenClaw 项目深度报告 ⚠️ 摘要生成失败。 横向生态对比 ⚠️ 横向对比生成失败。 同赛道项目详细报告 Hermes Agent — nousresearch/hermes-agent ⚠️ 摘要生成失败。 IronClaw — nearai/ironclaw ⚠️ 摘要生成失败。 QwenPaw — agentscope-ai/QwenPaw ⚠️ 摘要生成失败。 ZeroClaw — zeroclaw-labs/zeroclaw ⚠️ 摘要生成失败。 本日报由 agents-radar 自动生成。</description>
+      <content:encoded><![CDATA[<h1>OpenClaw 生态日报 2026-09-01</h1>
+<blockquote>
+<p>Issues: 448 | PRs: 500 | 覆盖项目: 5 个 | 生成时间: 2026-09-01 01:22 UTC</p>
+</blockquote>
+<ul>
+<li><a href="https://github.com/openclaw/openclaw">OpenClaw</a></li>
+<li><a href="https://github.com/nousresearch/hermes-agent">Hermes Agent</a></li>
+<li><a href="https://github.com/nearai/ironclaw">IronClaw</a></li>
+<li><a href="https://github.com/agentscope-ai/QwenPaw">QwenPaw</a></li>
+<li><a href="https://github.com/zeroclaw-labs/zeroclaw">ZeroClaw</a></li>
+</ul>
+<hr>
+<h2>OpenClaw 项目深度报告</h2>
+<p>⚠️ 摘要生成失败。</p>
+<hr>
+<h2>横向生态对比</h2>
+<p>⚠️ 横向对比生成失败。</p>
+<hr>
+<h2>同赛道项目详细报告</h2>
+<details>
+<summary><strong>Hermes Agent</strong> — <a href="https://github.com/nousresearch/hermes-agent">nousresearch/hermes-agent</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>IronClaw</strong> — <a href="https://github.com/nearai/ironclaw">nearai/ironclaw</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>QwenPaw</strong> — <a href="https://github.com/agentscope-ai/QwenPaw">agentscope-ai/QwenPaw</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>ZeroClaw</strong> — <a href="https://github.com/zeroclaw-labs/zeroclaw">zeroclaw-labs/zeroclaw</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<hr>
+<p><em>本日报由 <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a> 自动生成。</em></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>AI Agents Ecosystem Digest 2026-09-01</title>
+      <link>https://duanyytop.github.io/agents-radar/#2026-09-01/ai-agents-en</link>
+      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-09-01/ai-agents-en</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description>OpenClaw Ecosystem Digest 2026-09-01 Issues: 448 | PRs: 500 | Projects covered: 5 | Generated: 2026-09-01 01:22 UTC OpenClaw Hermes Agent IronClaw QwenPaw ZeroClaw OpenClaw Deep Dive ⚠️ Summary generation failed. Cross-Ecosystem Comparison ⚠️ Comparative analysis generation failed. Peer Project Reports Hermes Agent — nousresearch/hermes-agent ⚠️ Summary generation failed. IronClaw — nearai/ironclaw ⚠️ Summary generation failed. QwenPaw — agentscope-ai/QwenPaw ⚠️ Summary generation failed. ZeroCl...</description>
+      <content:encoded><![CDATA[<h1>OpenClaw Ecosystem Digest 2026-09-01</h1>
+<blockquote>
+<p>Issues: 448 | PRs: 500 | Projects covered: 5 | Generated: 2026-09-01 01:22 UTC</p>
+</blockquote>
+<ul>
+<li><a href="https://github.com/openclaw/openclaw">OpenClaw</a></li>
+<li><a href="https://github.com/nousresearch/hermes-agent">Hermes Agent</a></li>
+<li><a href="https://github.com/nearai/ironclaw">IronClaw</a></li>
+<li><a href="https://github.com/agentscope-ai/QwenPaw">QwenPaw</a></li>
+<li><a href="https://github.com/zeroclaw-labs/zeroclaw">ZeroClaw</a></li>
+</ul>
+<hr>
+<h2>OpenClaw Deep Dive</h2>
+<p>⚠️ Summary generation failed.</p>
+<hr>
+<h2>Cross-Ecosystem Comparison</h2>
+<p>⚠️ Comparative analysis generation failed.</p>
+<hr>
+<h2>Peer Project Reports</h2>
+<details>
+<summary><strong>Hermes Agent</strong> — <a href="https://github.com/nousresearch/hermes-agent">nousresearch/hermes-agent</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<details>
+<summary><strong>IronClaw</strong> — <a href="https://github.com/nearai/ironclaw">nearai/ironclaw</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<details>
+<summary><strong>QwenPaw</strong> — <a href="https://github.com/agentscope-ai/QwenPaw">agentscope-ai/QwenPaw</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<details>
+<summary><strong>ZeroClaw</strong> — <a href="https://github.com/zeroclaw-labs/zeroclaw">zeroclaw-labs/zeroclaw</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<hr>
+<p><em>This digest is auto-generated by <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a>.</em></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>AI 基础设施日报 2026-09-01</title>
+      <link>https://duanyytop.github.io/agents-radar/#2026-09-01/ai-infra</link>
+      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-09-01/ai-infra</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description>AI 基础设施日报 2026-09-01 生成时间: 2026-09-01 01:22 UTC | 覆盖项目: 6 个 vLLM SGLang llama.cpp Ollama LiteLLM Unsloth 横向对比 ⚠️ 横向对比生成失败。 各项目详细报告 vLLM — vllm-project/vllm ⚠️ 摘要生成失败。 SGLang — sgl-project/sglang ⚠️ 摘要生成失败。 llama.cpp — ggml-org/llama.cpp ⚠️ 摘要生成失败。 Ollama — ollama/ollama ⚠️ 摘要生成失败。 LiteLLM — BerriAI/litellm ⚠️ 摘要生成失败。 Unsloth — unslothai/unsloth ⚠️ 摘要生成失败。 本日报由 agents-radar 自动生成。</description>
+      <content:encoded><![CDATA[<h1>AI 基础设施日报 2026-09-01</h1>
+<blockquote>
+<p>生成时间: 2026-09-01 01:22 UTC | 覆盖项目: 6 个</p>
+</blockquote>
+<ul>
+<li><a href="https://github.com/vllm-project/vllm">vLLM</a></li>
+<li><a href="https://github.com/sgl-project/sglang">SGLang</a></li>
+<li><a href="https://github.com/ggml-org/llama.cpp">llama.cpp</a></li>
+<li><a href="https://github.com/ollama/ollama">Ollama</a></li>
+<li><a href="https://github.com/BerriAI/litellm">LiteLLM</a></li>
+<li><a href="https://github.com/unslothai/unsloth">Unsloth</a></li>
+</ul>
+<hr>
+<h2>横向对比</h2>
+<p>⚠️ 横向对比生成失败。</p>
+<hr>
+<h2>各项目详细报告</h2>
+<details>
+<summary><strong>vLLM</strong> — <a href="https://github.com/vllm-project/vllm">vllm-project/vllm</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>SGLang</strong> — <a href="https://github.com/sgl-project/sglang">sgl-project/sglang</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>llama.cpp</strong> — <a href="https://github.com/ggml-org/llama.cpp">ggml-org/llama.cpp</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>Ollama</strong> — <a href="https://github.com/ollama/ollama">ollama/ollama</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>LiteLLM</strong> — <a href="https://github.com/BerriAI/litellm">BerriAI/litellm</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>Unsloth</strong> — <a href="https://github.com/unslothai/unsloth">unslothai/unsloth</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<hr>
+<p><em>本日报由 <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a> 自动生成。</em></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>AI Infrastructure Digest 2026-09-01</title>
+      <link>https://duanyytop.github.io/agents-radar/#2026-09-01/ai-infra-en</link>
+      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-09-01/ai-infra-en</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description>AI Infrastructure Digest 2026-09-01 Generated: 2026-09-01 01:22 UTC | Projects covered: 6 vLLM SGLang llama.cpp Ollama LiteLLM Unsloth Cross-Project Comparison ⚠️ Comparative analysis generation failed. Per-Project Reports vLLM — vllm-project/vllm ⚠️ Summary generation failed. SGLang — sgl-project/sglang ⚠️ Summary generation failed. llama.cpp — ggml-org/llama.cpp ⚠️ Summary generation failed. Ollama — ollama/ollama ⚠️ Summary generation failed. LiteLLM — BerriAI/litellm ⚠️ Summary generation fa...</description>
+      <content:encoded><![CDATA[<h1>AI Infrastructure Digest 2026-09-01</h1>
+<blockquote>
+<p>Generated: 2026-09-01 01:22 UTC | Projects covered: 6</p>
+</blockquote>
+<ul>
+<li><a href="https://github.com/vllm-project/vllm">vLLM</a></li>
+<li><a href="https://github.com/sgl-project/sglang">SGLang</a></li>
+<li><a href="https://github.com/ggml-org/llama.cpp">llama.cpp</a></li>
+<li><a href="https://github.com/ollama/ollama">Ollama</a></li>
+<li><a href="https://github.com/BerriAI/litellm">LiteLLM</a></li>
+<li><a href="https://github.com/unslothai/unsloth">Unsloth</a></li>
+</ul>
+<hr>
+<h2>Cross-Project Comparison</h2>
+<p>⚠️ Comparative analysis generation failed.</p>
+<hr>
+<h2>Per-Project Reports</h2>
+<details>
+<summary><strong>vLLM</strong> — <a href="https://github.com/vllm-project/vllm">vllm-project/vllm</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<details>
+<summary><strong>SGLang</strong> — <a href="https://github.com/sgl-project/sglang">sgl-project/sglang</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<details>
+<summary><strong>llama.cpp</strong> — <a href="https://github.com/ggml-org/llama.cpp">ggml-org/llama.cpp</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<details>
+<summary><strong>Ollama</strong> — <a href="https://github.com/ollama/ollama">ollama/ollama</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<details>
+<summary><strong>LiteLLM</strong> — <a href="https://github.com/BerriAI/litellm">BerriAI/litellm</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<details>
+<summary><strong>Unsloth</strong> — <a href="https://github.com/unslothai/unsloth">unslothai/unsloth</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<hr>
+<p><em>This digest is auto-generated by <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a>.</em></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>AI 开源趋势日报 2026-09-01</title>
+      <link>https://duanyytop.github.io/agents-radar/#2026-09-01/ai-trending</link>
+      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-09-01/ai-trending</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description>AI 开源趋势日报 2026-09-01 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-01 01:22 UTC ⚠️ 趋势报告生成失败。 本日报由 agents-radar 自动生成。</description>
+      <content:encoded><![CDATA[<h1>AI 开源趋势日报 2026-09-01</h1>
+<blockquote>
+<p>数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-01 01:22 UTC</p>
+</blockquote>
+<hr>
+<p>⚠️ 趋势报告生成失败。</p>
+<hr>
+<p><em>本日报由 <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a> 自动生成。</em></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>AI Open Source Trends 2026-09-01</title>
+      <link>https://duanyytop.github.io/agents-radar/#2026-09-01/ai-trending-en</link>
+      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-09-01/ai-trending-en</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description>AI Open Source Trends 2026-09-01 Sources: GitHub Trending + GitHub Search API | Generated: 2026-09-01 01:22 UTC ⚠️ Trending report generation failed. This digest is auto-generated by agents-radar.</description>
+      <content:encoded><![CDATA[<h1>AI Open Source Trends 2026-09-01</h1>
+<blockquote>
+<p>Sources: GitHub Trending + GitHub Search API | Generated: 2026-09-01 01:22 UTC</p>
+</blockquote>
+<hr>
+<p>⚠️ Trending report generation failed.</p>
+<hr>
+<p><em>This digest is auto-generated by <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a>.</em></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>AI CLI 工具社区动态日报 2026-08-31</title>
       <link>https://duanyytop.github.io/agents-radar/#2026-08-31/ai-cli</link>
@@ -1187,1623 +1605,6 @@
 <hr>
 <h2>Cross-Project Comparison</h2>
 <p>⚠️ Comparative analysis generation failed.</p>
-<hr>
-<h2>Per-Project Reports</h2>
-<details>
-<summary><strong>vLLM</strong> — <a href="https://github.com/vllm-project/vllm">vllm-project/vllm</a></summary>
-
-<p>⚠️ Summary generation failed.</p>
-</details>
-
-<details>
-<summary><strong>SGLang</strong> — <a href="https://github.com/sgl-project/sglang">sgl-project/sglang</a></summary>
-
-<p>⚠️ Summary generation failed.</p>
-</details>
-
-<details>
-<summary><strong>llama.cpp</strong> — <a href="https://github.com/ggml-org/llama.cpp">ggml-org/llama.cpp</a></summary>
-
-<p>⚠️ Summary generation failed.</p>
-</details>
-
-<details>
-<summary><strong>Ollama</strong> — <a href="https://github.com/ollama/ollama">ollama/ollama</a></summary>
-
-<p>⚠️ Summary generation failed.</p>
-</details>
-
-<details>
-<summary><strong>LiteLLM</strong> — <a href="https://github.com/BerriAI/litellm">BerriAI/litellm</a></summary>
-
-<p>⚠️ Summary generation failed.</p>
-</details>
-
-<details>
-<summary><strong>Unsloth</strong> — <a href="https://github.com/unslothai/unsloth">unslothai/unsloth</a></summary>
-
-<p>⚠️ Summary generation failed.</p>
-</details>
-
-<hr>
-<p><em>This digest is auto-generated by <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a>.</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>AI 开源趋势日报 2026-08-29</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-08-29/ai-trending</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-08-29/ai-trending</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <description>AI 开源趋势日报 2026-08-29 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-29 03:49 UTC ⚠️ 趋势报告生成失败。 本日报由 agents-radar 自动生成。</description>
-      <content:encoded><![CDATA[<h1>AI 开源趋势日报 2026-08-29</h1>
-<blockquote>
-<p>数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-29 03:49 UTC</p>
-</blockquote>
-<hr>
-<p>⚠️ 趋势报告生成失败。</p>
-<hr>
-<p><em>本日报由 <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a> 自动生成。</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>AI Open Source Trends 2026-08-29</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-08-29/ai-trending-en</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-08-29/ai-trending-en</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <description>AI Open Source Trends 2026-08-29 Sources: GitHub Trending + GitHub Search API | Generated: 2026-08-29 03:49 UTC ⚠️ Trending report generation failed. This digest is auto-generated by agents-radar.</description>
-      <content:encoded><![CDATA[<h1>AI Open Source Trends 2026-08-29</h1>
-<blockquote>
-<p>Sources: GitHub Trending + GitHub Search API | Generated: 2026-08-29 03:49 UTC</p>
-</blockquote>
-<hr>
-<p>⚠️ Trending report generation failed.</p>
-<hr>
-<p><em>This digest is auto-generated by <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a>.</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>AI CLI 工具社区动态日报 2026-08-28</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-08-28/ai-cli</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-08-28/ai-cli</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <description>AI CLI 工具社区动态日报 2026-08-28 生成时间: 2026-08-28 15:10 UTC | 覆盖工具: 7 个 Claude Code OpenAI Codex Gemini CLI GitHub Copilot CLI OpenCode Pi Qwen Code Claude Code Skills 横向对比 AI CLI 工具横向对比报告 — 2026-08-28 1. 生态概览 AI CLI 生态仍处于快速发布阶段，四个受追踪的工具（Claude Code、OpenAI Codex、GitHub Copilot CLI、OpenCode）在过去 24 小时内均有版本发布。所有社区存在两大共同主题：多智能体编排的可靠性（子智能体委派、完成即唤醒、并行运行的稳定性）和企业级信任（沙箱、审批策略、可审计性、面向数据驻留租户的身份认证）。Windows 在所有生态中依然是最薄弱的平台，其启动、打包和更新流水线贡献了最高流量的 issue。值得注意的是，三个仓库（Gemini CLI、Pi、Qwen Code）今日没有可用的摘要数据，因此本报告仅覆盖四个活跃生态。 2....</description>
-      <content:encoded><![CDATA[<h1>AI CLI 工具社区动态日报 2026-08-28</h1>
-<blockquote>
-<p>生成时间: 2026-08-28 15:10 UTC | 覆盖工具: 7 个</p>
-</blockquote>
-<ul>
-<li><a href="https://github.com/anthropics/claude-code">Claude Code</a></li>
-<li><a href="https://github.com/openai/codex">OpenAI Codex</a></li>
-<li><a href="https://github.com/google-gemini/gemini-cli">Gemini CLI</a></li>
-<li><a href="https://github.com/github/copilot-cli">GitHub Copilot CLI</a></li>
-<li><a href="https://github.com/anomalyco/opencode">OpenCode</a></li>
-<li><a href="https://github.com/earendil-works/pi">Pi</a></li>
-<li><a href="https://github.com/QwenLM/qwen-code">Qwen Code</a></li>
-<li><a href="https://github.com/anthropics/skills">Claude Code Skills</a></li>
-</ul>
-<hr>
-<h2>横向对比</h2>
-<h1>AI CLI 工具横向对比报告 — 2026-08-28</h1>
-<h2>1. 生态概览</h2>
-<p>AI CLI 生态仍处于快速发布阶段，四个受追踪的工具（Claude Code、OpenAI Codex、GitHub Copilot CLI、OpenCode）在过去 24 小时内均有版本发布。所有社区存在两大共同主题：<strong>多智能体编排的可靠性</strong>（子智能体委派、完成即唤醒、并行运行的稳定性）和<strong>企业级信任</strong>（沙箱、审批策略、可审计性、面向数据驻留租户的身份认证）。Windows 在所有生态中依然是最薄弱的平台，其启动、打包和更新流水线贡献了最高流量的 issue。值得注意的是，三个仓库（Gemini CLI、Pi、Qwen Code）今日没有可用的摘要数据，因此本报告仅覆盖四个活跃生态。</p>
-<h2>2. 活跃度对比</h2>
-<table>
-<thead>
-<tr>
-<th>工具</th>
-<th>Issues（24h 信号）</th>
-<th>PR（24h）</th>
-<th>Discussions</th>
-<th>发布</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>Claude Code</strong></td>
-<td>约 10 个热门 issue（2 个已关闭，含 #86275）</td>
-<td>0 个更新</td>
-<td>无（未报告）</td>
-<td>2 个（v2.1.248、v2.1.250）</td>
-</tr>
-<tr>
-<td><strong>OpenAI Codex</strong></td>
-<td>约 10+ 个热门 issue（最多 37 条评论）</td>
-<td>10+ 个已合并/更新</td>
-<td>活跃（Ideas/Q&amp;A/Show-and-tell，4 个话题）</td>
-<td>2 个（v0.151.0-alpha.7/.8）</td>
-</tr>
-<tr>
-<td><strong>GitHub Copilot CLI</strong></td>
-<td>约 10 个热门 issue（大量分类处理）</td>
-<td>0 个更新（近期合并已包含在 v1.0.81）</td>
-<td>无（未报告）</td>
-<td>2 个（v1.0.81 GA、v1.0.82-0 预发布）</td>
-</tr>
-<tr>
-<td><strong>OpenCode</strong></td>
-<td>约 10 个热门 issue + 当日 bug 爆发</td>
-<td>10 个 PR（多个当日合并）</td>
-<td>无（在 issue 中讨论）</td>
-<td>2 个（v1.18.24、v1.18.25）</td>
-</tr>
-<tr>
-<td><strong>Gemini CLI</strong></td>
-<td>无 — 无摘要数据</td>
-<td>无</td>
-<td>无</td>
-<td>无</td>
-</tr>
-<tr>
-<td><strong>Pi</strong></td>
-<td>无 — 无摘要数据</td>
-<td>无</td>
-<td>无</td>
-<td>无</td>
-</tr>
-<tr>
-<td><strong>Qwen Code</strong></td>
-<td>无 — 无摘要数据</td>
-<td>无</td>
-<td>无</td>
-<td>无</td>
-</tr>
-</tbody></table>
-<h2>3. 共同的功能方向</h2>
-<ul>
-<li><strong>多智能体编排体验</strong> — Claude Code（委派至已有的 tmux 会话，#86338）、Codex（子智能体完成即唤醒，#15723；service-tier 传递，#41308）、Copilot CLI（并行子智能体下的 TUI 冻结，#4533）、OpenCode（子智能体 ID 可发现性，#36761）。四家都在向智能体工作流收敛，而四家在这方面都存在可靠性缺口。</li>
-<li><strong>执行透明度与可审计性</strong> — Codex 的头号需求是不折叠的命令输出（#39903，👍63）；Copilot CLI 希望获得带模型来源的可验证审查记录（#4621）；Claude Code 用户希望转录不含幻觉内容（#79293）。对智能体行为的审计是普遍诉求。</li>
-<li><strong>长时间运行 / 非交互运行</strong> — Claude Code <code>--restricted</code> 模式（v2.1.248）、Codex 5 小时限制冲突（#40905）、Copilot CLI <code>-p</code> 在 GHEC 上出现 401（#4527）、OpenCode 静默卡死（#32149）。自动化在所有生态中都是一等用例，但工具链和速率限制尚未跟上。</li>
-<li><strong>静默失败 / 失败不报错行为</strong> — Claude Code 队列输入数据丢失（#85924）、Copilot CLI 静默丢弃模型参数（#4645）、OpenCode pre-runner 失败仅写入日志（#45959）。用户一致要求投递保证和可见的错误信息。</li>
-<li><strong>成本/用量透明度</strong> — Codex 用量流失投诉（#40067）、OpenCode 用量百分比错误（#45858）以及在选择器中显示成本的请求（#14524）、Copilot CLI 工具搜索 token 消耗削减（#4649）。账单与上下文成本方面的信任正在各厂商间流失。</li>
-<li><strong>升级/回归折腾</strong> — Claude Code 的斜杠自动补全回归（#90102）、Codex 更新后工具消失（#41145）与配置硬性损坏（#39973）、Copilot CLI 在一个小版本更新中破坏 chroma-mcp（#4647）。每个生态都需要更好的发布把关和回滚机制。</li>
-</ul>
-<h2>4. 差异化分析</h2>
-<ul>
-<li><strong>Claude Code</strong> — 聚焦安全边界（<code>--restricted</code> 沙箱、设置隔离）与桌面/IDE 打磨；面向安全敏感的部署场景和 CI。发布纪律严格，但 Linux 和 Windows 桌面端测试薄弱。</li>
-<li><strong>OpenAI Codex</strong> — 工程投入最深：Guardian 审批审查强化、MCP 工具缓存正确性修复、统一 CLI/Desktop 的 app-server v2 架构。PR 节奏最活跃（20+ 次合并）。面向复杂多智能体和远程/移动工作流；Windows 打包是其致命弱点。</li>
-<li><strong>GitHub Copilot CLI</strong> — 企业优先：GHEC 数据驻留、托管设置、OpenTelemetry 钩子、所有客户端均支持 MCP 2026-07-28 规范。弱点是 fail-closed 行为和预发布渠道稳定性——这恰恰对其企业用户群体构成了不友好的失败模式。</li>
-<li><strong>OpenCode</strong> — 社区驱动程度最高（贡献者当日落地修复，issue 提交者亲自提交 PR），成本透明度也最高。提供广泛的供应商灵活性（Azure Entra ID、Bedrock、Kimi）；但 V1→V2 过渡中的迁移失败和 beta 不稳定性带来了平台风险。</li>
-</ul>
-<h2>5. 社区势头与成熟度</h2>
-<ul>
-<li><strong>迭代最快：</strong> Codex 和 OpenCode，各自在 24 小时内合并/更新了 10+ 个 PR 并发布了两个版本。OpenCode 展现出最健康的社区贡献循环。</li>
-<li><strong>稳定的企业节奏：</strong> Claude Code 和 Copilot CLI 发布了新版本但报告的 PR 活动为零——由分类驱动的一天，暗示代码库成熟但节奏较慢，或处于合并浪潮之间的间歇期。</li>
-<li><strong>最高的参与度信号：</strong> Codex #40700（37 条评论）和 #39903（👍63）；OpenCode #6536（👍50）；Claude Code #86275（15 条评论）。Codex 拥有最大的原始社区声量；OpenCode 在单个 issue 上的热情最强。</li>
-<li><strong>数据缺口：</strong> Gemini CLI、Pi 和 Qwen Code 的摘要未能生成——今日无法评估其势头；应视为未知，而非不活跃。</li>
-</ul>
-<h2>6. 趋势信号</h2>
-<ol>
-<li><strong>智能体工作流正在超越基础设施。</strong> 每个工具的首要痛点都涉及多智能体运行（委派、异步完成、并行 TUI 稳定性、编排超时）。基于这些工具构建的团队应预计编排层的动荡至少持续到年底。</li>
-<li><strong>安全模型正在被正式化——但进度不均。</strong> Claude Code 推出 <code>--restricted</code>；Codex 强化 Guardian 审查和终端权限；Copilot CLI 以 fail-closed 方式强制托管设置（或许过于激进）。反观 Codex 移除未标记弃用的 <code>approval_policy</code>（#39973），表明安全相关的变更仍会在没有迁移路径的情况下落地——请锁定版本并在预发布环境中测试升级。</li>
-<li><strong>Windows 是跨生态的薄弱点。</strong> 启动失败、打包（AppX）、更新后重启以及输入类 bug 在各处的 Windows 报告中占主导。Windows 优先的团队应在工具选型中把这一点纳入考量。</li>
-<li><strong>用量/账单信任正在成为竞争因素。</strong> 疑似计费回归（Codex #40067）和误导性限额（OpenCode #45897）映射了消费级 SaaS 的动态；预计透明度（选择器内成本显示、用量 API）将成为基本门槛。</li>
-<li><strong>给开发者的实用建议：</strong> (a) 在长时自主运行前，优先选择支持原子化认证/配置写入并提供回滚路径的工具；(b) 不要轻信静默的成功——增加转录/审计验证；(c) 对于 CI，Claude Code 的 <code>--restricted</code> 和 Copilot CLI 的托管设置是目前最明确的沙箱方案；(d) 对于多供应商灵活性和成本可见性，OpenCode 目前领先。</li>
-</ol>
-<hr>
-<hr>
-<h2>各工具详细报告</h2>
-<details>
-<summary><strong>Claude Code</strong> — <a href="https://github.com/anthropics/claude-code">anthropics/claude-code</a></summary>
-
-<h2>Claude Code Skills 社区热点</h2>
-<blockquote>
-<p>数据来源: <a href="https://github.com/anthropics/skills">anthropics/skills</a></p>
-</blockquote>
-<p>⚠️ Skills 摘要生成失败。</p>
-<hr>
-<h1>Claude Code Community Digest — 2026-08-28</h1>
-<h2>1. Today&#39;s Highlights</h2>
-<p>Anthropic shipped two releases in 24h: <strong>v2.1.250</strong> (general bug fixes/reliability) and <strong>v2.1.248</strong>, which introduced a notable new <code>--restricted</code> mode that hardens Claude Code for sandboxed/automation environments by stripping command-execution and web tools and ignoring user settings files. The issue tracker saw heavy activity — most notably the closure of the Windows desktop cross-session messaging bug (#86275, 15 comments) and a fresh regression report on slash-command autocomplete (#90102). No PRs were updated in the window, so attention today is on releases and issue triage.</p>
-<h2>2. Releases</h2>
-<ul>
-<li><strong><a href="https://github.com/anthropics/claude-code/releases/tag/v2.1.250">v2.1.250</a></strong> — Bug fixes and reliability improvements only.</li>
-<li><strong><a href="https://github.com/anthropics/claude-code/releases/tag/v2.1.248">v2.1.248</a></strong> — Added <code>--restricted</code> (or <code>CLAUDE_CODE_RESTRICTED=1</code>): removes built-in command/code-execution tools and <code>WebFetch</code> (unless explicitly allowlisted via <code>--tools</code>), confines file tools to the working directory, refuses <code>bypassPermissions</code>, and ignores user/project/local settings files. This is a significant option for CI, shared hosts, and security-conscious deployments.</li>
-</ul>
-<h2>3. Hot Issues</h2>
-<ol>
-<li><strong><a href="https://github.com/anthropics/claude-code/issues/86275">#86275 — Windows desktop: cross-session send_message silently fails</a></strong> (CLOSED, 15 comments, 👍7) — Messages to other local sessions reported success but were never delivered after the 2.1.222→2.1.227 runtime auto-update. Now closed; the highest-engagement issue of the day.</li>
-<li><strong><a href="https://github.com/anthropics/claude-code/issues/58933">#58933 — No in-session determinism mechanism; automation pushed to metered Agent SDK</a></strong> (CLOSED, 11 comments) — Long-running debate over automation usage semantics vs. subscriber limits; closure will matter to heavy-scripting users.</li>
-<li><strong><a href="https://github.com/anthropics/claude-code/issues/85924">#85924 — Queued composer text silently discarded on mobile (Android)</a></strong> (OPEN, 9 comments, 👍4) — Queued input vanishes when a turn ends or the session updates; a data-loss bug in the mobile app.</li>
-<li><strong><a href="https://github.com/anthropics/claude-code/issues/79293">#79293 — Model fabricates user turn and system-reminder blocks past end of turn</a></strong> (OPEN, 8 comments, Windows) — A model-behavior bug with hallucinated context structure; concerning for anyone parsing transcripts.</li>
-<li><strong><a href="https://github.com/anthropics/claude-code/issues/86338">#86338 — Agent tool spawns new pane subagents instead of delegating to existing tmux sessions</a></strong> (OPEN, 4 comments, Linux) — Fleet-of-sessions orchestration pain; no way to direct work to already-running teammates.</li>
-<li><strong><a href="https://github.com/anthropics/claude-code/issues/83146">#83146 — Renamed project root: session registry never revalidates cwd</a></strong> (OPEN, 3 comments) — Stale path silently breaks settings/hooks/memory and recreates deleted directories.</li>
-<li><strong><a href="https://github.com/anthropics/claude-code/issues/90102">#90102 — Regression: slash autocomplete no longer triggers mid-input</a></strong> (OPEN, Windows, regression) — Only fires when <code>/</code> is the first character; previously fixed once in v2.1.136 and now back.</li>
-<li><strong><a href="https://github.com/anthropics/claude-code/issues/89298">#89298 — Remote Control never auto-enables on Pro/Max plans</a></strong> (CLOSED, macOS desktop, regression) — Managed-settings gate evaluated before the personal-plan short-circuit; fixed after 3 days.</li>
-<li><strong><a href="https://github.com/anthropics/claude-code/issues/86853">#86853 — Bash tool never surfaces stdout on Linux; bare Exit code 1</a></strong> (OPEN, regression suspicion) — Even <code>echo</code>/<code>pwd</code> fail; severe if confirmed across fresh sessions.</li>
-<li><strong><a href="https://github.com/anthropics/claude-code/issues/90359">#90359 — Cowork &amp; Dispatch hang on infinite spinner on Linux</a></strong> (OPEN) — App opens its own storage dirs with <code>O_DIRECT</code>; ext4 returns <code>EINVAL</code>. A fresh report with a clear root-cause hypothesis.</li>
-</ol>
-<h2>4. Key PR Progress</h2>
-<p>No pull requests were updated in the last 24 hours. Activity was concentrated in releases and issue resolution.</p>
-<h2>5. Hot Discussions</h2>
-<p>No discussion data was provided for this period.</p>
-<h2>6. Feature Request Trends</h2>
-<ul>
-<li><strong>Sandboxing &amp; restricted operation</strong> — The <code>--restricted</code> flag in v2.1.248 directly addresses the automation/sandboxing use case echoed in #58933&#39;s concerns about deterministic, non-interactive runs.</li>
-<li><strong>Agent orchestration ergonomics</strong> — Repeated asks around multi-agent workflows: delegating to existing tmux sessions (#86338), per-call <code>worktree.baseRef</code> overrides (#74091), per-agent/per-phase goals in Workflow (#74142), and mid-run hot-reload steering (#74146). Several of these were just closed.</li>
-<li><strong>Desktop app UX polish</strong> — Session tabbing, nested sidebar folders, visit-history navigation (#74124/#74127/#74129), last-updated timestamps (#74168), and compact diff summaries in VS Code (#74175).</li>
-<li><strong>Context control</strong> — Requests for shell modes that never touch model context (#74095) and self-monitoring activity summaries (#69136) show users want tighter control over what enters the context window.</li>
-<li><strong>Model behavior calibration</strong> — Requests to stop unintended model switching (#74166, #74137) and forbidden advisory paragraphs (#90044).</li>
-</ul>
-<h2>7. Developer Pain Points</h2>
-<ul>
-<li><strong>Windows desktop reliability</strong> — A cluster of Windows-specific issues: silent cross-session message loss (#86275), autocomplete regression (#90102), VS Code split-panel focus ping-pong (#89975), and console window flashing (#74107).</li>
-<li><strong>Silent failures / data loss</strong> — Queued mobile input discarded (#85924), stale project roots breaking settings (#83146), and notifications going silent across context compaction (#89248). Users want delivery guarantees and visible error states.</li>
-<li><strong>Linux rough edges</strong> — Bash stdout never surfacing (#86853) and <code>O_DIRECT</code>/ext4 hang (#90359) suggest limited Linux desktop/cowork testing.</li>
-<li><strong>Regression churn</strong> — Bugs fixed once and reappearing (slash autocomplete) plus regressions from auto-updates (desktop runtime 2.1.222→2.1.227) erode trust in update cadence.</li>
-<li><strong>Model adherence &amp; determinism</strong> — CLAUDE.md instructions being ignored (#90044) and fabricated turns (#79293), compounded by the long-standing determinism/automation debate in #58933.</li>
-</ul>
-</details>
-
-<details>
-<summary><strong>OpenAI Codex</strong> — <a href="https://github.com/openai/codex">openai/codex</a></summary>
-
-<h1>OpenAI Codex 社区周报 — 2026-08-28</h1>
-<h2>1. 今日要点</h2>
-<p>仓库在 0.151.0 线上发布了两个 alpha 版本（<code>alpha.7</code>、<code>alpha.8</code>），同时合并节奏密集，超过 20 个 PR，重点投入在 Guardian 审批/审查安全逻辑以及 MCP 工具缓存处理上。社区关注焦点仍然集中在 Windows Desktop 的稳定性上——热门问题中有四个涉及启动失败、app-server 崩溃或 Windows 上的更新问题——另一个焦点则是一项颇具争议的配置破坏性变更：<code>approval_policy = &quot;untrusted&quot;</code> 在没有任何弃用提示的情况下被直接移除。</p>
-<h2>2. 发布</h2>
-<ul>
-<li><strong><a href="https://github.com/openai/codex/releases/tag/rust-v0.151.0-alpha.8">rust-v0.151.0-alpha.8</a></strong> 和 <strong><a href="https://github.com/openai/codex/releases/tag/rust-v0.151.0-alpha.7">rust-v0.151.0-alpha.7</a></strong> — 0.151.0 系列中的两次快速 alpha 迭代，据推测打包了今天合并的一批 MCP 缓存、Guardian 审查以及历史后端修复。未提供详细的发布说明。</li>
-</ul>
-<h2>3. 热门 Issue</h2>
-<ol>
-<li><strong><a href="https://github.com/openai/codex/issues/40700">#40700</a></strong> — <em>Windows Desktop 无法启动：内置的 codex.exe 从 WindowsApps 迁移失败</em>（37 条评论）。Windows 的 AppX 打包机制阻止内置二进制文件迁移，导致完全无法启动。今日流量最高的 issue；属于 Windows Desktop 启动失败系列问题之一。</li>
-<li><strong><a href="https://github.com/openai/codex/issues/39903">#39903</a></strong> — <em>增加禁用 &quot;Ran N commands&quot; 折叠显示的选项</em>（35 条评论，👍 63）。用户希望完整查看已执行命令，而不是折叠后的摘要。今天最强的 👍 与评论比信号；明确表达了对 UX 透明度的诉求。</li>
-<li><strong><a href="https://github.com/openai/codex/issues/31987">#31987</a></strong> — <em>自动充值开关总是被自动重新启用</em>（20 条评论）。一个长期存在的计费/UX 投诉：自动充值开关会被悄悄重新打开。自 7 月以来持续存在，至今未解决。</li>
-<li><strong><a href="https://github.com/openai/codex/issues/15723">#15723</a></strong> — <em>后台子进程/子代理完成时无法唤醒调用方代理</em>（19 条评论）。3 月遗留的异步代理编排架构缺口，随着 agentic 工作流的增长，该问题日益凸显。</li>
-<li><strong><a href="https://github.com/openai/codex/issues/39973">#39973</a></strong> — <em>在无弃用流程的情况下移除 <code>approval_policy=&quot;untrusted&quot;</code> 削弱了执行审批边界</em>（11 条评论，👍 30）。Codex 0.149.0 对该配置直接硬性报错且没有迁移路径，批评者认为其替代方案削弱了安全模型。无论从安全性还是开发者体验角度来看，都引发了社区的高度共鸣。</li>
-<li><strong><a href="https://github.com/openai/codex/issues/24047">#24047</a></strong> — <em>Windows Desktop 更新安装后不会重新启动</em>（13 条评论）。持续五个月的更新后重启 bug 依然活跃——堪称 Windows 更新流水线问题的典型代表。</li>
-<li><strong><a href="https://github.com/openai/codex/issues/39678">#39678</a></strong> / <strong><a href="https://github.com/openai/codex/issues/40002">#40002</a></strong> — <em>Android Remote 因项目信任错误而失败</em>（12 / 9 条评论）。从 Android 发起的远程会话在对 macOS 和 Windows 主机进行信任验证时分别失败；#40002 具体是 Windows 路径查找中大小写敏感的 bug。远程工作流是信任/路径类 bug 增长最快的领域。</li>
-<li><strong><a href="https://github.com/openai/codex/issues/39280">#39280</a></strong> — <em>macOS：Chrome 标签页可被接管，但每个真实页面操作都无法通过策略验证</em>（10 条评论），与之配套的回归问题是 <strong><a href="https://github.com/openai/codex/issues/39972">#39972</a></strong> — <em>浏览器控件不再工作</em>。两份并行报告表明浏览器使用功能在 macOS 上已实质性损坏。</li>
-<li><strong><a href="https://github.com/openai/codex/issues/40905">#40905</a></strong> — <em>5 小时用量限制中断长时间运行的 GPT-5.6 Sol 代理任务</em>（8 条评论）。滚动用量窗口与长达数小时的自主运行相冲突；随着代理运行时长增加，这一产品策略问题正获得越来越多的关注。</li>
-<li><strong><a href="https://github.com/openai/codex/issues/40067">#40067</a></strong> — <em>GPT-5.6 Plus 每周用量在数小时内从约 99% 骤降至 0%</em>（7 条评论）。疑似用量统计回归；结合 #40905 来看，速率限制的信任度正成为日益增长的失望主题。另值得关注：<strong><a href="https://github.com/openai/codex/issues/41145">#41145</a></strong> 报告更新到 0.150.1 后 shell 执行工具消失——请留意后续是否出现更多回归报告。</li>
-</ol>
-<h2>4. 关键 PR 进展</h2>
-<ol>
-<li><strong><a href="https://github.com/openai/codex/pull/41344">#41344</a></strong> / <strong><a href="https://github.com/openai/codex/pull/41336">#41336</a></strong> — <em>绑定捕获期间的 MCP 工具缓存处理</em>（两个互补修复）。确保在绑定等待多个 MCP 服务器时，刷新后和缓存的工具目录都能被正确处理，从而避免新可用的工具在首次模型请求中被遗漏。</li>
-<li><strong><a href="https://github.com/openai/codex/pull/41309">#41309</a></strong> — <em>复用 Guardian 分数时遵守所需审查要求</em>。修复了一个真实的安全漏洞：缓存的低风险分数可能让某个操作在模型切换后绕过所需的完整审查。属于今天 Guardian 安全加固浪潮的一部分（另见 <a href="https://github.com/openai/codex/pull/41322">#41322</a>）。</li>
-<li><strong><a href="https://github.com/openai/codex/pull/41328">#41328</a></strong> — <em>根据保留权限审查终端输入</em>。<code>write_stdin</code> 调用现在会考虑终端启动时所拥有的沙箱/授权，封堵了权限漂移缺口。</li>
-<li><strong><a href="https://github.com/openai/codex/pull/41308">#41308</a></strong> — <em>子代理遵循根代理的服务层级</em>。服务层级选择现在会传播到整个代理树，包括远程压缩——对任何运行带层级路由的多代理工作流的用户都值得关注。</li>
-<li><strong><a href="https://github.com/openai/codex/pull/41243">#41243</a></strong> — <em>sleep 工具的可配置门控</em>。新增稳定的 <code>sleep_tool</code> 功能开关（<code>model_driven</code> / <code>always_on</code>），将 sleep 工具与时钟工具解耦——这表明内置工具集正朝着更模块化、更可配置的方向发展。</li>
-<li><strong><a href="https://github.com/openai/codex/pull/41239">#41239</a></strong> — <em>展示认证恢复进度</em>。新增 <code>modelProvider/authRecoveryStarted</code>/<code>Completed</code> 事件，使客户端能够显示凭证刷新状态，而不是看起来像卡死。</li>
-<li><strong><a href="https://github.com/openai/codex/pull/41292">#41292</a></strong> — <em>将历史记录中的图片转发给模型</em>。历史记录中的图片附件现在会转换为 <code>input_image</code> 条目，并包含对畸形附件的拒绝处理和日志脱敏。</li>
-<li><strong><a href="https://github.com/openai/codex/pull/41260">#41260</a></strong> — <em>历史后端强制执行工具输出预算</em>。移除了多余的客户端侧截断逻辑，该逻辑可能拒绝本已符合大小限制的响应——修复了工具结果偶发失败的问题。</li>
-<li><strong><a href="https://github.com/openai/codex/pull/41313">#41313</a></strong> — <em>将 HTTP 重试退避与过载集成测试解耦</em>。重试/退避现在在暂停的 Tokio 时间下验证；提升了过载处理测试的可靠性。</li>
-<li><strong><a href="https://github.com/openai/codex/pull/10192">#10192</a></strong> — <em>将 TUI 迁移到 app-server v2</em>（长期进行中，今日更新）。Bolinfest 的这一架构性工作——让 TUI 使用 app-server 协议——在约 7 个月后依然活跃，是统一 CLI 和 Desktop 至同一服务器的基础工作。</li>
-</ol>
-<h2>5. 热门讨论</h2>
-<p><strong>想法（Ideas）</strong></p>
-<ul>
-<li><strong><a href="https://github.com/openai/codex/discussions/25630">#25630</a></strong> — <em>切换账号</em>：请求提供一键切换账号的功能，而非完整的登出/登录流程。</li>
-</ul>
-<p><strong>问答（Q&amp;A）</strong></p>
-<ul>
-<li><strong><a href="https://github.com/openai/codex/discussions/40740">#40740</a></strong> — <em>rollout 追踪是否能捕获是哪个路径产生了 Declined 执行状态？</em> 深入探讨 <code>rollout/src/policy.rs</code> 中审批/拒绝事件的持久化语义——对任何基于 rollout 追踪构建工具的人都有参考价值。</li>
-<li><strong><a href="https://github.com/openai/codex/discussions/41314">#41314</a></strong> — <em>codex</em>：用中文询问 Codex 桌面宠物的进展——另见今日的宠物 bug <a href="https://github.com/openai/codex/issues/41306">#41306</a>。</li>
-</ul>
-<p><strong>展示（Show and tell）</strong></p>
-<ul>
-<li><strong><a href="https://github.com/openai/codex/discussions/41319">#41319</a></strong> — <em>Click</em>：grapefruit0205 开发的一款开源 Codex 插件，用于阻止代理在工作已完成后重新规划流程和过度验证——这是生态系统对代理效率抱怨的一次有趣回应。</li>
-</ul>
-<h2>6. 功能请求趋势</h2>
-<ul>
-<li><strong>执行透明度</strong>：呼声最高的请求（👍 63）是展示完整命令输出而非折叠摘要（<a href="https://github.com/openai/codex/issues/39903">#39903</a>）——用户希望对代理行为进行审计。</li>
-<li><strong>异步代理编排</strong>：子代理完成时唤醒（<a href="https://github.com/openai/codex/issues/15723">#15723</a>）以及更长时间不被打断的代理运行（速率限制缓解，<a href="https://github.com/openai/codex/issues/40905">#40905</a>）反映出对长时间自主工作流的需求。</li>
-<li><strong>安全策略清晰度</strong>：社区希望审批策略有正规的弃用/迁移路径，而不是硬性破坏（<a href="https://github.com/openai/codex/issues/39973">#39973</a>）。</li>
-<li><strong>账号/计费控制</strong>：账号切换（<a href="https://github.com/openai/codex/discussions/25630">#25630</a>）和自动充值设置不保持（<a href="https://github.com/openai/codex/issues/31987">#31987</a>）持续被反复提及。</li>
-<li><strong>可配置的内置工具</strong>：<code>sleep_tool</code> 门控 PR（<a href="https://github.com/openai/codex/pull/41243">#41243</a>）表明团队已经在朝着用户可调节的工具注册方向迈进。</li>
-</ul>
-<h2>7. 开发者痛点</h2>
-<ul>
-<li><strong>Windows Desktop 是最主要的痛点</strong>：AppX 迁移导致的启动失败（<a href="https://github.com/openai/codex/issues/40700">#40700</a>、<a href="https://github.com/openai/codex/issues/41096">#41096</a>）、更新后无法重启（<a href="https://github.com/openai/codex/issues/24047">#24047</a>）、启动循环（<a href="https://github.com/openai/codex/issues/39364">#39364</a>）、工具调用期间 app-server 崩溃（<a href="https://github.com/openai/codex/issues/40400">#40400</a>），以及 node.exe 访问冲突（<a href="https://github.com/openai/codex/issues/40913">#40913</a>）。Windows 更新/打包流水线需要系统性的关注。</li>
-<li><strong>远程/跨设备信任机制脆弱</strong>：Android 到桌面的会话反复无法通过项目信任验证（<a href="https://github.com/openai/codex/issues/39678">#39678</a>、<a href="https://github.com/openai/codex/issues/40002">#40002</a>），移动端 SSH 会话也无法实时同步（<a href="https://github.com/openai/codex/issues/29094">#29094</a>）。</li>
-<li><strong>速率限制可靠性</strong>：用量骤降（<a href="https://github.com/openai/codex/issues/40067">#40067</a>）和任务中途被打断（<a href="https://github.com/openai/codex/issues/40905">#40905</a>）正在侵蚀用户对用量统计的信心。</li>
-<li><strong>升级回归</strong>：CLI 更新后工具消失（<a href="https://github.com/openai/codex/issues/41145">#41145</a>）、配置无迁移路径的硬性破坏（<a href="https://github.com/openai/codex/issues/39973">#39973</a>），以及 macOS 浏览器扩展回归（<a href="https://github.com/openai/codex/issues/39972">#39972</a>）——用户希望有更好的发布门控和回滚机制。</li>
-<li><strong>会话/状态治理</strong>：过期会话（<a href="https://github.com/openai/codex/issues/24217">#24217</a>）、无法删除的线程（<a href="https://github.com/openai/codex/issues/39897">#39897</a>、<a href="https://github.com/openai/codex/issues/40313">#40313</a>），以及批量删除无效（<a href="https://github.com/openai/codex/issues/28298">#28298</a>）等问题在各平台上持续出现。</li>
-</ul>
-<hr>
-</details>
-
-<details>
-<summary><strong>Gemini CLI</strong> — <a href="https://github.com/google-gemini/gemini-cli">google-gemini/gemini-cli</a></summary>
-
-<p>⚠️ 摘要生成失败。</p>
-</details>
-
-<details>
-<summary><strong>GitHub Copilot CLI</strong> — <a href="https://github.com/github/copilot-cli">github/copilot-cli</a></summary>
-
-<h1>GitHub Copilot CLI 社区摘要 — 2026-08-28</h1>
-<h2>1. 今日要点</h2>
-<p>插件仪表盘在 v1.0.81 中正式发布(通过 <code>/plugin</code>、<code>/mcp</code>、<code>/skills</code> 访问),同时 MCP 2026-07-28 规范支持已在 CLI、SDK、IDE 及内存客户端中全面落地。然而,发布周期正显现稳定性压力:GHEC 数据驻留租户上的一组企业级认证回归,以及多种 TUI/运行时故障模式(FileWatch 循环失控、并行子代理运行时 UI 冻结)占据了今天社区关注的焦点。过去 24 小时内没有任何 PR 更新,尽管 issue 分诊流量很大,但已合并活动明显处于低谷。</p>
-<h2>2. 发布</h2>
-<ul>
-<li><strong>v1.0.82-0</strong> — 预发布版本；仅有&quot;Fixes and changes&quot;(无详细更新日志)。</li>
-<li><strong>v1.0.81</strong>(2026-08-27):<ul>
-<li>插件仪表盘现已向所有用户开放 — 运行 <code>/plugin</code>、<code>/mcp</code> 或 <code>/skills</code> 即可使用。可通过 <code>PLUGINS_DASHBOARD=false</code> 退出(该设置同时会禁用 <code>copilot plugins</code> 命令)。</li>
-<li>MCP 2026-07-28 规范支持已发布至 CLI、SDK、IDE 及内存客户端。</li>
-<li>Hooks 现在可以接收当前的 OpenTelemetry 上下文。</li>
-</ul>
-</li>
-</ul>
-<h2>3. 热门 Issue</h2>
-<ol>
-<li><p><strong><a href="https://github.com/github/copilot-cli/issues/4480">#4480 — Atlassian MCP OAuth 报错 &quot;Incompatible authorization server (RFC 8414 §3.3)&quot;(已关闭)</a></strong> — 本周期互动最高的 issue(7 条评论,👍6)。1.0.71 引入的回归破坏了对 Atlassian 的远程 MCP OAuth issuer 验证；现已关闭，很可能由 v1.0.81 中的 MCP 2026-07-28 规范支持修复。</p>
-</li>
-<li><p><strong><a href="https://github.com/github/copilot-cli/issues/4612">#4612 — FileWatch 主机事件循环失控导致 TUI 冻结，调试日志膨胀至 13 GB(开放中)</a></strong> — 严重问题：长时间运行或恢复的会话会进入紧密的 &quot;No connection accepted a host event&quot; 循环，冻结终端并将日志膨胀至 13 GB。关键的稳定性报告。</p>
-</li>
-<li><p><strong><a href="https://github.com/github/copilot-cli/issues/4535">#4535 — <code>store_memory</code> 在 v1.0.81 预发布版本中失败：&quot;Instance id is required&quot;(开放中)</a></strong> — 预发布版本中原生内存写入器缺少实例 ID,导致内存工具完全不可用。7 条评论，调试正在进行中。</p>
-</li>
-<li><p><strong><a href="https://github.com/github/copilot-cli/issues/4527">#4527 — 自 1.0.81-1 起，GHEC 数据驻留下 <code>copilot -p</code> 返回 401(开放中)</a></strong> — 提示模式的模型目录请求打到了 <code>api.githubcopilot.com</code> 而非租户端点。交互模式正常，仅 <code>-p</code> 失效。👍4 — 属于今天企业认证回归集群的一部分(另见 #4650、#4654)。</p>
-</li>
-<li><p><strong><a href="https://github.com/github/copilot-cli/issues/4533">#4533 — 回合生成并行子代理时 TUI 停止消费事件(开放中)</a></strong> — 输入和滚动全部失灵，而 Rust 运行时仍在继续处理；结果要等几分钟后才能恢复。指向 UI 层事件循环背压 bug。</p>
-</li>
-<li><p><strong><a href="https://github.com/github/copilot-cli/issues/4647">#4647 — v1.0.81 破坏了与 chroma-mcp 的兼容性(开放中)</a></strong> — 1.0.80→1.0.81 的新发回归，影响 stdio MCP 服务器配置；延续了 MCP 传输层变更干扰第三方服务器的一贯模式。</p>
-</li>
-<li><p><strong><a href="https://github.com/github/copilot-cli/issues/4602">#4602 — <code>store_memory</code> 失败且 MCP 服务器被剥离:<code>managedSettings</code> 在 <code>serverFetchFailed</code> 抖动时默认失败(开放中)</a></strong> — 论证充分的 issue,将多个开放报告归因于单一根因：托管设置获取抖动引发 fail-closed 行为，彻底杀死了内存和 MCP 功能。</p>
-</li>
-<li><p><strong><a href="https://github.com/github/copilot-cli/issues/4639">#4639 — 事件存储耗尽引发重试风暴，会话陷入 GC/压缩循环并导致 Node OOM(开放中)</a></strong> — 导出器在存储已耗尽的情况下仍重试 500 条事件的批量刷新，引发内存压力和数千次桥接确认。需要退避/熔断逻辑。</p>
-</li>
-<li><p><strong><a href="https://github.com/github/copilot-cli/issues/4486">#4486 — 编辑权限请求&quot;超时&quot;(开放中)</a></strong> — 权限提示现在若未立即回应就会过期，破坏了通宵运行和多会话工作流。由 dscho(Git 维护者)提交 — 值得关注的信号。</p>
-</li>
-<li><p><strong><a href="https://github.com/github/copilot-cli/issues/4649">#4649 — 工具搜索在 Grok 上报告已启用但实际未推迟任何内容；Gemini 则从未启用(开放中)</a></strong> — 已关闭的 #4588 的后续。令牌削减修复仅对 GPT 生效(43.1k → 21.0k tokens);Grok 静默空操作，Gemini 则从不激活。对跨模型家族的成本/延迟一致性至关重要。</p>
-</li>
-</ol>
-<h2>4. 重要 PR 进展</h2>
-<p>过去 24 小时内没有 pull request 更新。最新发布中体现的重要已合并工作：</p>
-<ol>
-<li><strong>插件仪表盘 GA</strong> — <code>/plugin</code>、<code>/mcp</code>、<code>/skills</code> 入口已在 v1.0.81 中向所有用户发布，并支持通过 <code>PLUGINS_DASHBOARD=false</code> 退出。</li>
-<li><strong>MCP 2026-07-28 规范支持</strong> — 已在 CLI、SDK、IDE 及内存客户端中统一发布。</li>
-<li><strong>Hooks 接收 OpenTelemetry 上下文</strong> — hooks 现在可获取当前的 OTel 追踪上下文，使 hook 脚本中的可观测性关联成为可能。</li>
-</ol>
-<h2>5. 热门讨论</h2>
-<p>本期间没有提供讨论数据。</p>
-<h2>6. 功能请求趋势</h2>
-<ul>
-<li><strong>会话易用性</strong>:<code>--name</code> 应在单个参数中实现创建或恢复(<a href="https://github.com/github/copilot-cli/issues/4642">#4642</a>);<code>session.resume</code> 应遵循传入的 <code>model</code> 参数(<a href="https://github.com/github/copilot-cli/issues/4645">#4645</a>)。</li>
-<li><strong>可审计性与记录</strong>：包括模型来源在内的可验证、持久的 rubber-duck/agent 审查记录(<a href="https://github.com/github/copilot-cli/issues/4621">#4621</a>)。</li>
-<li><strong>配置工具化</strong>：为 <code>settings.json</code> 提供官方 JSON Schema 以支持编辑器校验(<a href="https://github.com/github/copilot-cli/issues/4641">#4641</a>,👍2)。</li>
-<li><strong>成本/令牌效率</strong>：将工具搜索推迟机制扩展至 Grok 和 Gemini,而不仅限于 GPT(<a href="https://github.com/github/copilot-cli/issues/4649">#4649</a>)。</li>
-<li><strong>模型/压缩透明度</strong>：准确的上下文窗口报告(#4638),有意义的压缩检查点(#4643)。</li>
-<li><strong>BYOK 打磨</strong>：BYOK 模式下缺少 <code>/model</code> 命令(#4651),表明对自定义提供商支持的需求正在增长。</li>
-</ul>
-<h2>7. 开发者痛点</h2>
-<ul>
-<li><strong>企业/GHEC 认证脆弱性</strong>：一组回归(#4527、#4650、#4654),提示模式(<code>-p</code>)和 <code>--agent</code> 流程命中非企业端点并返回 401。企业用户目前无法进行非交互式自动化 — 本周期影响最大的痛点。</li>
-<li><strong>预发布通道不稳定</strong>：并行子代理运行时 TUI 冻结(#4533)、FileWatch 循环失控并产生 13 GB 日志(#4612)、事件存储重试风暴导致 OOM(#4639)。长时间运行和恢复的会话受到的影响尤为严重。</li>
-<li><strong>升级导致 MCP 生态破坏</strong>:OAuth 回归(#4480)、1.0.81 中 chroma-mcp 损坏(#4647),以及 fail-closed 的托管设置剥离所有 MCP 服务器(#4602)。用户报告每个次版本发布都可能静默破坏服务器配置。</li>
-<li><strong>内存/上下文子系统缺陷</strong>:<code>store_memory</code> 因实例 ID 失败(#4535),以及上下文仅约 20% 时过早压缩且无检查点记录(#4643),动摇了用户对长会话工作流的信任。</li>
-<li><strong>静默失败行为</strong>:<code>session.resume</code> 无报错地丢弃 model 参数(#4645)、市场注册静默中止(#4556)、steering 消息跳过 hooks(#4640)— &quot;操作无反馈&quot;是反复出现的主题。</li>
-<li><strong>Windows/本地化缺口</strong>：AltGr 按键输入被吞掉(#4653)、Windows 25H2 上沙箱不支持的警告(#4652),Windows 平台摩擦仍在持续。</li>
-</ul>
-<p><em>摘要生成于 2026-08-28。数据来源:github.com/github/copilot-cli(issues #4480–#4654,版本 v1.0.81/v1.0.82-0)。</em></p>
-<hr>
-</details>
-
-<details>
-<summary><strong>OpenCode</strong> — <a href="https://github.com/anomalyco/opencode">anomalyco/opencode</a></summary>
-
-<h1>OpenCode Community Digest — 2026-08-28</h1>
-<h2>1. Today&#39;s Highlights</h2>
-<p>Two rapid-fire releases shipped in the last 24 hours, with <strong>v1.18.24</strong> bringing Azure CLI / Microsoft Entra ID sign-in (no more API-key-only Azure) and a fix for corrupted Bedrock replay state. On the V2 front, <code>optamus-ai</code> landed a series of session-stability PRs, while a burst of same-day bug reports around the <code>muse-spark-1.2-contributor</code> model and billing usage display suggests the &quot;Go&quot; subscription stack is under strain.</p>
-<h2>2. Releases</h2>
-<ul>
-<li><strong><a href="https://github.com/anomalyco/opencode/releases/tag/v1.18.24">v1.18.24</a></strong><ul>
-<li>Bedrock reasoning responses no longer cache into unreplayable empty messages.</li>
-<li>Azure providers can authenticate via Microsoft Entra ID through the Azure CLI; V1 now reads supported V2 config fields for forward compatibility.</li>
-</ul>
-</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/releases/tag/v1.18.25">v1.18.25</a></strong><ul>
-<li>Fixed Azure authentication so Azure CLI sign-in works without requiring Bun.</li>
-</ul>
-</li>
-</ul>
-<h2>3. Hot Issues</h2>
-<ol>
-<li><strong><a href="https://github.com/anomalyco/opencode/issues/32149">#32149 — Opencode stops processing requests without response</a></strong> (OPEN, 20 comments, 👍9). The highest-engagement open bug: prompts enter &quot;thinking&quot; but never complete. Long-lived, high-impact reliability issue still active two months on.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/issues/6536">#6536 — Mobile app feature request</a></strong> (CLOSED, 16 comments, 👍50). The most-upvoted item today; users strongly want native mobile access beyond the mobile browser.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/issues/14970">#14970 — SQLite corruption (&quot;database disk image is malformed&quot;) on NFS</a></strong> (OPEN, 12 comments, 👍23). Concurrent sessions corrupt the shared <code>opencode.db</code> on NFS-mounted home dirs — serious for enterprise/remote dev setups.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/issues/31377">#31377 — Auto-discover skills from nested subdirectories</a></strong> (OPEN, 7 comments). Skills discovery currently only walks upward; monorepo users want downward traversal.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/issues/14524">#14524 — Display model cost in the model picker</a></strong> (OPEN, 7 comments, 👍11). Cost transparency at model selection — high demand, cheap win for the TUI.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/issues/36761">#36761 — Expose valid subagent IDs to the model</a></strong> (OPEN, 5 comments). V2 <code>subagent</code> tool hides configured agent IDs, so models guess and delegation fails — a core V2 usability gap.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/issues/42923">#42923 — Subagent stuck in infinite thinking loop (drains credits)</a></strong> (OPEN, 3 comments). <code>mimo-v2.5</code> subagents loop forever and burn credits with no timeout — cost + reliability risk.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/issues/45858">#45858 — Usage percentage display errors on Go plan billing page</a></strong> (OPEN, 4 comments). Percentages don&#39;t match usage ÷ quota; paired with <a href="https://github.com/anomalyco/opencode/issues/45897">#45897</a> accusing misleading &quot;$30/week&quot; marketing vs $7.50 actual, billing trust is a hot topic.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/issues/45829">#45829 — V1 migration fails every startup with SQLite syntax error</a></strong> (OPEN, 2 comments). The V1→V2 migration never completes on <code>opencode2</code>, leaving legacy data unmigrated — V2 migration path needs attention.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/issues/41354">#41354 — Search across message history</a></strong> (OPEN, 4 comments). With hundreds of sessions, users have no way to find past decisions/instructions — a growing need as usage matures.</li>
-</ol>
-<h2>4. Key PR Progress</h2>
-<ol>
-<li><strong><a href="https://github.com/anomalyco/opencode/pull/45931">#45931 — Preserve CRLF endings when splicing patch hunks</a></strong> — fixes <a href="https://github.com/anomalyco/opencode/issues/45926">#45926</a>: <code>apply_patch</code> was turning CRLF files into mixed line endings via LF-only matching. Fast same-day turnaround.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/pull/45942">#45942 — Bound shell output to 50 KiB preview for LLM</a></strong> — fixes sessions stranded by shell output bypassing the tool-output limit.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/pull/45951">#45951 — Preserve Anthropic thinking for errored same-model replay</a></strong> — fixes replay failures where thinking metadata was lost, producing invalid requests.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/pull/45955">#45955 — Serialize V2 prompt settlement around event publication</a></strong> — fixes a V2 concurrency race in <code>Form</code>/<code>PermissionV2</code>/<code>QuestionV2</code>.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/pull/45959">#45959 — Surface pre-runner failures as durable Step.Failed</a></strong> — V2 errors like <code>ModelUnavailableError</code> are now surfaced instead of silently logged.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/pull/40010">#40010 — Recover stalled model streams</a></strong> — addresses endpoints that return headers but never stream a body, ending the &quot;waits forever&quot; hang.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/pull/45949">#45949 — Serialize and atomically write auth.json</a></strong> — flock-guarded reads plus atomic tmp-rename writes to prevent auth-file corruption under concurrency.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/pull/45952">#45952 — Share model visibility between TUI and web UI</a></strong> — community fix (issue author themselves) removing a 6-month recency filter that hid older models in the web UI.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/pull/45818">#45818 — Refactor(core): separate config file editing</a></strong> — enables deliberate editing of project/custom config files instead of the first file-backed document.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/pull/45828">#45828 — Add first-class TestLLM controls</a></strong> (CLOSED/merged) — fixes test-LLM streams consuming scripted responses on construction, improving V2 test determinism.</li>
-</ol>
-<h2>5. Hot Discussions</h2>
-<p><em>(No separate Discussions data was provided; notable conversational threads from Issues this cycle:)</em></p>
-<ul>
-<li><strong>Ideas:</strong> <a href="https://github.com/anomalyco/opencode/issues/6536">Mobile app demand</a> remains the loudest product direction despite closure. Termux support (<a href="https://github.com/anomalyco/opencode/issues/45870">#45870</a>) echoes the same &quot;use OpenCode anywhere&quot; theme, with pushback on bot-closed issues.</li>
-<li><strong>Q&amp;A:</strong> <a href="https://github.com/anomalyco/opencode/issues/17703">#17703</a> (agent interrupting mid-tool-call, needing &quot;continue&quot;) and <a href="https://github.com/anomalyco/opencode/issues/45053">#45053</a> (muse-spark model hanging) drew community troubleshooting on expected vs. actual agent behavior.</li>
-</ul>
-<h2>6. Feature Request Trends</h2>
-<ul>
-<li><strong>Mobile &amp; remote access</strong>: mobile app (<a href="https://github.com/anomalyco/opencode/issues/6536">#6536</a>), Termux (<a href="https://github.com/anomalyco/opencode/issues/45870">#45870</a>) — by far the most-upvoted theme.</li>
-<li><strong>Cost transparency</strong>: model costs in the picker (<a href="https://github.com/anomalyco/opencode/issues/14524">#14524</a>), correct usage reporting (<a href="https://github.com/anomalyco/opencode/issues/45858">#45858</a>).</li>
-<li><strong>History &amp; knowledge retrieval</strong>: cross-session message search (<a href="https://github.com/anomalyco/opencode/issues/41354">#41354</a>).</li>
-<li><strong>Provider/auth flexibility</strong>: native Kimi/Moonshot auth (<a href="https://github.com/anomalyco/opencode/issues/12156">#12156</a>, now closed), Azure CLI/Entra ID (shipped in v1.18.24).</li>
-<li><strong>Skills &amp; agent ergonomics</strong>: downward skill discovery (<a href="https://github.com/anomalyco/opencode/issues/31377">#31377</a>), subagent ID exposure (<a href="https://github.com/anomalyco/opencode/issues/36761">#36761</a>).</li>
-<li><strong>Filesystem/config flexibility</strong>: configurable root-file directory (<a href="https://github.com/anomalyco/opencode/issues/43700">#43700</a>, closed), Dev Drive path handling (<a href="https://github.com/anomalyco/opencode/issues/44929">#44929</a>).</li>
-</ul>
-<h2>7. Developer Pain Points</h2>
-<ul>
-<li><strong>Silent hangs and stalls</strong> dominate: prompts that never respond (<a href="https://github.com/anomalyco/opencode/issues/32149">#32149</a>, <a href="https://github.com/anomalyco/opencode/issues/27755">#27755</a>), stalled model streams (<a href="https://github.com/anomalyco/opencode/pull/40010">#40010</a>), infinite subagent thinking loops draining credits (<a href="https://github.com/anomalyco/opencode/issues/42923">#42923</a>).</li>
-<li><strong>Agent interruptions</strong>: tasks halting mid-run and requiring manual &quot;continue&quot; recur across multiple issues.</li>
-<li><strong>Concurrency &amp; storage fragility</strong>: SQLite corruption on NFS (<a href="https://github.com/anomalyco/opencode/issues/14970">#14970</a>), V1 migration failing every startup (<a href="https://github.com/anomalyco/opencode/issues/45829">#45829</a>), racy in-place updater causing ENOEXEC (<a href="https://github.com/anomalyco/opencode/issues/41495">#41495</a>).</li>
-<li><strong>Billing/subscription trust</strong>: usage percentage errors and complaints that actual limits fall short of advertised (<a href="https://github.com/anomalyco/opencode/issues/45858">#45858</a>, <a href="https://github.com/anomalyco/opencode/issues/45897">#45897</a>), plus rate-limit errors immediately after subscribing (<a href="https://github.com/anomalyco/opencode/issues/45893">#45893</a>).</li>
-<li><strong>Cross-platform friction</strong>: Windows Dev Drive path mismatch (<a href="https://github.com/anomalyco/opencode/issues/44929">#44929</a>), CRLF handling in patches (<a href="https://github.com/anomalyco/opencode/issues/45926">#45926</a>, fix in flight), Desktop renderer freezes (<a href="https://github.com/anomalyco/opencode/issues/43355">#43355</a>).</li>
-<li><strong>V2 beta instability</strong>: subagent discoverability, permission overrides not working (<a href="https://github.com/anomalyco/opencode/issues/43669">#43669</a>), and the recurring migration failures indicate V2 needs hardening before general availability.</li>
-</ul>
-</details>
-
-<details>
-<summary><strong>Pi</strong> — <a href="https://github.com/earendil-works/pi">earendil-works/pi</a></summary>
-
-<p>⚠️ 摘要生成失败。</p>
-</details>
-
-<details>
-<summary><strong>Qwen Code</strong> — <a href="https://github.com/QwenLM/qwen-code">QwenLM/qwen-code</a></summary>
-
-<p>⚠️ 摘要生成失败。</p>
-</details>
-
-<hr>
-<p><em>本日报由 <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a> 自动生成。</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>AI CLI Tools Digest 2026-08-28</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-08-28/ai-cli-en</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-08-28/ai-cli-en</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <description>AI CLI Tools Community Digest 2026-08-28 Generated: 2026-08-28 15:10 UTC | Tools covered: 7 Claude Code OpenAI Codex Gemini CLI GitHub Copilot CLI OpenCode Pi Qwen Code Claude Code Skills Cross-Tool Comparison AI CLI Tools Cross-Comparison Report — 2026-08-28 1. Ecosystem Overview The AI CLI ecosystem remains in a rapid-release phase, with four of the tracked tools (Claude Code, OpenAI Codex, GitHub Copilot CLI, OpenCode) shipping releases within the last 24 hours. Two dominant themes cut across...</description>
-      <content:encoded><![CDATA[<h1>AI CLI Tools Community Digest 2026-08-28</h1>
-<blockquote>
-<p>Generated: 2026-08-28 15:10 UTC | Tools covered: 7</p>
-</blockquote>
-<ul>
-<li><a href="https://github.com/anthropics/claude-code">Claude Code</a></li>
-<li><a href="https://github.com/openai/codex">OpenAI Codex</a></li>
-<li><a href="https://github.com/google-gemini/gemini-cli">Gemini CLI</a></li>
-<li><a href="https://github.com/github/copilot-cli">GitHub Copilot CLI</a></li>
-<li><a href="https://github.com/anomalyco/opencode">OpenCode</a></li>
-<li><a href="https://github.com/earendil-works/pi">Pi</a></li>
-<li><a href="https://github.com/QwenLM/qwen-code">Qwen Code</a></li>
-<li><a href="https://github.com/anthropics/skills">Claude Code Skills</a></li>
-</ul>
-<hr>
-<h2>Cross-Tool Comparison</h2>
-<h1>AI CLI Tools Cross-Comparison Report — 2026-08-28</h1>
-<h2>1. Ecosystem Overview</h2>
-<p>The AI CLI ecosystem remains in a rapid-release phase, with four of the tracked tools (Claude Code, OpenAI Codex, GitHub Copilot CLI, OpenCode) shipping releases within the last 24 hours. Two dominant themes cut across all communities: <strong>multi-agent orchestration reliability</strong> (subagent delegation, wake-on-completion, parallel-run stability) and <strong>enterprise-grade trust</strong> (sandboxing, approval policies, auditability, auth for data-residency tenants). Windows remains the weakest platform across every ecosystem, with launch, packaging, and update pipelines generating the highest-traffic issues. Notably, three repos (Gemini CLI, Pi, Qwen Code) had no digest data available today, so this report covers the four active ecosystems.</p>
-<h2>2. Activity Comparison</h2>
-<table>
-<thead>
-<tr>
-<th>Tool</th>
-<th>Issues (24h signal)</th>
-<th>PRs (24h)</th>
-<th>Discussions</th>
-<th>Releases</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>Claude Code</strong></td>
-<td>~10 hot issues (2 closed, incl. #86275)</td>
-<td>0 updated</td>
-<td>N/A (none reported)</td>
-<td>2 (v2.1.248, v2.1.250)</td>
-</tr>
-<tr>
-<td><strong>OpenAI Codex</strong></td>
-<td>~10+ hot issues (up to 37 comments)</td>
-<td>10+ merged/updated</td>
-<td>Active (Ideas/Q&amp;A/Show-and-tell, 4 threads)</td>
-<td>2 (v0.151.0-alpha.7/.8)</td>
-</tr>
-<tr>
-<td><strong>GitHub Copilot CLI</strong></td>
-<td>~10 hot issues (heavy triage)</td>
-<td>0 updated (recent merges in v1.0.81)</td>
-<td>N/A (none reported)</td>
-<td>2 (v1.0.81 GA, v1.0.82-0 pre)</td>
-</tr>
-<tr>
-<td><strong>OpenCode</strong></td>
-<td>~10 hot issues + same-day bug burst</td>
-<td>10 PRs (several merged same-day)</td>
-<td>N/A (discussed in issues)</td>
-<td>2 (v1.18.24, v1.18.25)</td>
-</tr>
-<tr>
-<td><strong>Gemini CLI</strong></td>
-<td>N/A — no digest data available</td>
-<td>N/A</td>
-<td>N/A</td>
-<td>N/A</td>
-</tr>
-<tr>
-<td><strong>Pi</strong></td>
-<td>N/A — no digest data available</td>
-<td>N/A</td>
-<td>N/A</td>
-<td>N/A</td>
-</tr>
-<tr>
-<td><strong>Qwen Code</strong></td>
-<td>N/A — no digest data available</td>
-<td>N/A</td>
-<td>N/A</td>
-<td>N/A</td>
-</tr>
-</tbody></table>
-<h2>3. Shared Feature Directions</h2>
-<ul>
-<li><strong>Multi-agent orchestration ergonomics</strong> — Claude Code (delegation to existing tmux sessions, #86338), Codex (subagent wake-on-completion, #15723; service-tier propagation, #41308), Copilot CLI (TUI freeze under parallel subagents, #4533), OpenCode (subagent ID discoverability, #36761). All four are converging on agentic workflows and all four have reliability gaps there.</li>
-<li><strong>Execution transparency &amp; auditability</strong> — Codex&#39;s top request is uncollapsed command output (#39903, 👍63); Copilot CLI wants verifiable review records with model provenance (#4621); Claude Code users want non-hallucinated transcripts (#79293). Auditing agent actions is a universal demand.</li>
-<li><strong>Long-running / non-interactive runs</strong> — Claude Code <code>--restricted</code> mode (v2.1.248), Codex 5-hour limit conflicts (#40905), Copilot CLI <code>-p</code> 401s on GHEC (#4527), OpenCode silent stalls (#32149). Automation is a first-class use case everywhere, but tooling and rate limits lag.</li>
-<li><strong>Silent failure / fail-silent behavior</strong> — Claude Code queued-input data loss (#85924), Copilot CLI silently dropped model params (#4645), OpenCode pre-runner failures only logged (#45959). Users consistently demand delivery guarantees and visible errors.</li>
-<li><strong>Cost/usage transparency</strong> — Codex usage-drain complaints (#40067), OpenCode usage percentage errors (#45858) and cost-in-picker request (#14524), Copilot CLI tool-search token reduction (#4649). Billing and context-cost trust is eroding across vendors.</li>
-<li><strong>Upgrade/regression churn</strong> — slash autocomplete regression in Claude Code (#90102), Codex tools disappearing post-update (#41145) and hard config breaks (#39973), Copilot CLI breaking chroma-mcp on a minor release (#4647). Every ecosystem needs better release gating and rollback.</li>
-</ul>
-<h2>4. Differentiation Analysis</h2>
-<ul>
-<li><strong>Claude Code</strong> — Focused on safety boundaries (<code>--restricted</code> sandboxing, settings isolation) and desktop/IDE polish; targets security-conscious deployments and CI. Strong release discipline but Linux and Windows desktop testing is thin.</li>
-<li><strong>OpenAI Codex</strong> — Deepest engineering investment: Guardian approval-review hardening, MCP tool-cache correctness, app-server v2 architecture unifying CLI/Desktop. Most active PR cadence (20+ merges). Targets complex multi-agent and remote/mobile workflows; Windows packaging is its Achilles&#39; heel.</li>
-<li><strong>GitHub Copilot CLI</strong> — Enterprise-first: GHEC data residency, managed settings, OpenTelemetry hooks, MCP 2026-07-28 spec support across all clients. Weaknesses are fail-closed behavior and prerelease-channel stability — hostile failure modes for exactly its enterprise audience.</li>
-<li><strong>OpenCode</strong> — Most community-driven (contributors landing fixes same-day, issue authors submitting PRs) and most transparent on cost. Broad provider flexibility (Azure Entra ID, Bedrock, Kimi); but a V1→V2 transition with migration failures and beta instability creates platform risk.</li>
-</ul>
-<h2>5. Community Momentum &amp; Maturity</h2>
-<ul>
-<li><strong>Fastest iteration:</strong> Codex and OpenCode, each with 10+ PRs merged/updated in 24h and two releases. OpenCode shows the healthiest community contribution loop.</li>
-<li><strong>Steady enterprise cadence:</strong> Claude Code and Copilot CLI shipped releases with zero PR activity reported — triage-driven days suggesting mature but slower-moving codebases, or lulls between merge waves.</li>
-<li><strong>Highest engagement signals:</strong> Codex #40700 (37 comments) and #39903 (👍63); OpenCode #6536 (👍50); Claude Code #86275 (15 comments). Codex has the largest raw community volume; OpenCode has the strongest per-issue passion.</li>
-<li><strong>Data gaps:</strong> Gemini CLI, Pi, and Qwen Code digests failed to generate — cannot assess their momentum today; treat as unknown, not inactive.</li>
-</ul>
-<h2>6. Trend Signals</h2>
-<ol>
-<li><strong>Agentic workflows are outpacing infrastructure.</strong> Every tool&#39;s top pain points involve multi-agent runs (delegation, async completion, parallel TUI stability, orchestration timeouts). Teams building on these tools should expect orchestration-layer churn through at least year-end.</li>
-<li><strong>Security models are being formalized — unevenly.</strong> Claude Code ships <code>--restricted</code>; Codex hardens Guardian review and terminal permissions; Copilot CLI enforces managed settings fail-closed (perhaps too aggressively). Conversely, Codex&#39;s un-deprecated <code>approval_policy</code> removal (#39973) shows safety changes still land without migration paths — pin versions and test upgrades in staging.</li>
-<li><strong>Windows is the cross-ecosystem weak point.</strong> Launch failures, packaging (AppX), update-relaunch, and input bugs dominate Windows reports everywhere. Windows-first teams should weight this in tool selection.</li>
-<li><strong>Usage/billing trust is becoming a competitive factor.</strong> Suspected accounting regressions (Codex #40067) and misleading limits (OpenCode #45897) mirror consumer-SaaS dynamics; expect transparency (cost-in-picker, usage APIs) to become table stakes.</li>
-<li><strong>Practical guidance for developers:</strong> (a) prefer tools with atomic auth/config writes and rollback paths before long autonomous runs; (b) don&#39;t trust silent success — add transcript/audit verification; (c) for CI, Claude Code&#39;s <code>--restricted</code> and Copilot CLI&#39;s managed settings are currently the most explicit sandboxing stories; (d) for multi-provider flexibility and cost visibility, OpenCode currently leads.</li>
-</ol>
-<hr>
-<h2>Per-Tool Reports</h2>
-<details>
-<summary><strong>Claude Code</strong> — <a href="https://github.com/anthropics/claude-code">anthropics/claude-code</a></summary>
-
-<h2>Claude Code Skills Highlights</h2>
-<blockquote>
-<p>Source: <a href="https://github.com/anthropics/skills">anthropics/skills</a></p>
-</blockquote>
-<p>⚠️ Skills summary generation failed.</p>
-<hr>
-<h1>Claude Code Community Digest — 2026-08-28</h1>
-<h2>1. Today&#39;s Highlights</h2>
-<p>Anthropic shipped two releases in 24h: <strong>v2.1.250</strong> (general bug fixes/reliability) and <strong>v2.1.248</strong>, which introduced a notable new <code>--restricted</code> mode that hardens Claude Code for sandboxed/automation environments by stripping command-execution and web tools and ignoring user settings files. The issue tracker saw heavy activity — most notably the closure of the Windows desktop cross-session messaging bug (#86275, 15 comments) and a fresh regression report on slash-command autocomplete (#90102). No PRs were updated in the window, so attention today is on releases and issue triage.</p>
-<h2>2. Releases</h2>
-<ul>
-<li><strong><a href="https://github.com/anthropics/claude-code/releases/tag/v2.1.250">v2.1.250</a></strong> — Bug fixes and reliability improvements only.</li>
-<li><strong><a href="https://github.com/anthropics/claude-code/releases/tag/v2.1.248">v2.1.248</a></strong> — Added <code>--restricted</code> (or <code>CLAUDE_CODE_RESTRICTED=1</code>): removes built-in command/code-execution tools and <code>WebFetch</code> (unless explicitly allowlisted via <code>--tools</code>), confines file tools to the working directory, refuses <code>bypassPermissions</code>, and ignores user/project/local settings files. This is a significant option for CI, shared hosts, and security-conscious deployments.</li>
-</ul>
-<h2>3. Hot Issues</h2>
-<ol>
-<li><strong><a href="https://github.com/anthropics/claude-code/issues/86275">#86275 — Windows desktop: cross-session send_message silently fails</a></strong> (CLOSED, 15 comments, 👍7) — Messages to other local sessions reported success but were never delivered after the 2.1.222→2.1.227 runtime auto-update. Now closed; the highest-engagement issue of the day.</li>
-<li><strong><a href="https://github.com/anthropics/claude-code/issues/58933">#58933 — No in-session determinism mechanism; automation pushed to metered Agent SDK</a></strong> (CLOSED, 11 comments) — Long-running debate over automation usage semantics vs. subscriber limits; closure will matter to heavy-scripting users.</li>
-<li><strong><a href="https://github.com/anthropics/claude-code/issues/85924">#85924 — Queued composer text silently discarded on mobile (Android)</a></strong> (OPEN, 9 comments, 👍4) — Queued input vanishes when a turn ends or the session updates; a data-loss bug in the mobile app.</li>
-<li><strong><a href="https://github.com/anthropics/claude-code/issues/79293">#79293 — Model fabricates user turn and system-reminder blocks past end of turn</a></strong> (OPEN, 8 comments, Windows) — A model-behavior bug with hallucinated context structure; concerning for anyone parsing transcripts.</li>
-<li><strong><a href="https://github.com/anthropics/claude-code/issues/86338">#86338 — Agent tool spawns new pane subagents instead of delegating to existing tmux sessions</a></strong> (OPEN, 4 comments, Linux) — Fleet-of-sessions orchestration pain; no way to direct work to already-running teammates.</li>
-<li><strong><a href="https://github.com/anthropics/claude-code/issues/83146">#83146 — Renamed project root: session registry never revalidates cwd</a></strong> (OPEN, 3 comments) — Stale path silently breaks settings/hooks/memory and recreates deleted directories.</li>
-<li><strong><a href="https://github.com/anthropics/claude-code/issues/90102">#90102 — Regression: slash autocomplete no longer triggers mid-input</a></strong> (OPEN, Windows, regression) — Only fires when <code>/</code> is the first character; previously fixed once in v2.1.136 and now back.</li>
-<li><strong><a href="https://github.com/anthropics/claude-code/issues/89298">#89298 — Remote Control never auto-enables on Pro/Max plans</a></strong> (CLOSED, macOS desktop, regression) — Managed-settings gate evaluated before the personal-plan short-circuit; fixed after 3 days.</li>
-<li><strong><a href="https://github.com/anthropics/claude-code/issues/86853">#86853 — Bash tool never surfaces stdout on Linux; bare Exit code 1</a></strong> (OPEN, regression suspicion) — Even <code>echo</code>/<code>pwd</code> fail; severe if confirmed across fresh sessions.</li>
-<li><strong><a href="https://github.com/anthropics/claude-code/issues/90359">#90359 — Cowork &amp; Dispatch hang on infinite spinner on Linux</a></strong> (OPEN) — App opens its own storage dirs with <code>O_DIRECT</code>; ext4 returns <code>EINVAL</code>. A fresh report with a clear root-cause hypothesis.</li>
-</ol>
-<h2>4. Key PR Progress</h2>
-<p>No pull requests were updated in the last 24 hours. Activity was concentrated in releases and issue resolution.</p>
-<h2>5. Hot Discussions</h2>
-<p>No discussion data was provided for this period.</p>
-<h2>6. Feature Request Trends</h2>
-<ul>
-<li><strong>Sandboxing &amp; restricted operation</strong> — The <code>--restricted</code> flag in v2.1.248 directly addresses the automation/sandboxing use case echoed in #58933&#39;s concerns about deterministic, non-interactive runs.</li>
-<li><strong>Agent orchestration ergonomics</strong> — Repeated asks around multi-agent workflows: delegating to existing tmux sessions (#86338), per-call <code>worktree.baseRef</code> overrides (#74091), per-agent/per-phase goals in Workflow (#74142), and mid-run hot-reload steering (#74146). Several of these were just closed.</li>
-<li><strong>Desktop app UX polish</strong> — Session tabbing, nested sidebar folders, visit-history navigation (#74124/#74127/#74129), last-updated timestamps (#74168), and compact diff summaries in VS Code (#74175).</li>
-<li><strong>Context control</strong> — Requests for shell modes that never touch model context (#74095) and self-monitoring activity summaries (#69136) show users want tighter control over what enters the context window.</li>
-<li><strong>Model behavior calibration</strong> — Requests to stop unintended model switching (#74166, #74137) and forbidden advisory paragraphs (#90044).</li>
-</ul>
-<h2>7. Developer Pain Points</h2>
-<ul>
-<li><strong>Windows desktop reliability</strong> — A cluster of Windows-specific issues: silent cross-session message loss (#86275), autocomplete regression (#90102), VS Code split-panel focus ping-pong (#89975), and console window flashing (#74107).</li>
-<li><strong>Silent failures / data loss</strong> — Queued mobile input discarded (#85924), stale project roots breaking settings (#83146), and notifications going silent across context compaction (#89248). Users want delivery guarantees and visible error states.</li>
-<li><strong>Linux rough edges</strong> — Bash stdout never surfacing (#86853) and <code>O_DIRECT</code>/ext4 hang (#90359) suggest limited Linux desktop/cowork testing.</li>
-<li><strong>Regression churn</strong> — Bugs fixed once and reappearing (slash autocomplete) plus regressions from auto-updates (desktop runtime 2.1.222→2.1.227) erode trust in update cadence.</li>
-<li><strong>Model adherence &amp; determinism</strong> — CLAUDE.md instructions being ignored (#90044) and fabricated turns (#79293), compounded by the long-standing determinism/automation debate in #58933.</li>
-</ul>
-</details>
-
-<details>
-<summary><strong>OpenAI Codex</strong> — <a href="https://github.com/openai/codex">openai/codex</a></summary>
-
-<h1>OpenAI Codex Community Digest — 2026-08-28</h1>
-<h2>1. Today&#39;s Highlights</h2>
-<p>The repo saw two alpha releases in the 0.151.0 line (<code>alpha.7</code>, <code>alpha.8</code>) alongside a heavy merge cadence of 20+ PRs, with significant investment in Guardian approval/review safety logic and MCP tool-cache handling. Community attention remains focused on Windows Desktop stability — four of the top issues involve launch failures, app-server crashes, or update problems on Windows — and on a contentious config breaking change that retired <code>approval_policy = &quot;untrusted&quot;</code> without deprecation.</p>
-<h2>2. Releases</h2>
-<ul>
-<li><strong><a href="https://github.com/openai/codex/releases/tag/rust-v0.151.0-alpha.8">rust-v0.151.0-alpha.8</a></strong> and <strong><a href="https://github.com/openai/codex/releases/tag/rust-v0.151.0-alpha.7">rust-v0.151.0-alpha.7</a></strong> — two rapid alpha iterations in the 0.151.0 series, presumably shipping the wave of MCP cache, Guardian review, and history-backend fixes merged today. No detailed release notes provided.</li>
-</ul>
-<h2>3. Hot Issues</h2>
-<ol>
-<li><strong><a href="https://github.com/openai/codex/issues/40700">#40700</a></strong> — <em>Windows Desktop cannot start: bundled codex.exe relocation from WindowsApps fails</em> (37 comments). Windows AppX packaging blocks the bundled binary from relocating, preventing launch entirely. The highest-traffic issue today; part of a broader Windows Desktop launch-failure cluster.</li>
-<li><strong><a href="https://github.com/openai/codex/issues/39903">#39903</a></strong> — <em>Add option to disable &quot;Ran N commands&quot; collapsing</em> (35 comments, 👍 63). Users want full visibility into executed commands instead of collapsed summaries. Strongest 👍-to-comment signal of the day; a clear UX transparency demand.</li>
-<li><strong><a href="https://github.com/openai/codex/issues/31987">#31987</a></strong> — <em>Auto-recharge of credits keeps getting re-enabled automatically</em> (20 comments). A long-running billing/UX complaint: the auto-recharge toggle silently flips back on. Persistent since July and still unresolved.</li>
-<li><strong><a href="https://github.com/openai/codex/issues/15723">#15723</a></strong> — <em>Background subprocesses/subagents do not wake the calling agent on completion</em> (19 comments). A March-era architectural gap in async agent orchestration that&#39;s becoming more visible as agentic workflows grow.</li>
-<li><strong><a href="https://github.com/openai/codex/issues/39973">#39973</a></strong> — <em>Retiring <code>approval_policy=&quot;untrusted&quot;</code> without deprecation weakens the execution-approval boundary</em> (11 comments, 👍 30). Codex 0.149.0 hard-fails on this config with no migration path, and critics argue the replacement weakens the security model. High community resonance on both safety and DX grounds.</li>
-<li><strong><a href="https://github.com/openai/codex/issues/24047">#24047</a></strong> — <em>Windows Desktop update installs but does not relaunch</em> (13 comments). Five-month-old update-relaunch bug still active — emblematic of the Windows update pipeline&#39;s issues.</li>
-<li><strong><a href="https://github.com/openai/codex/issues/39678">#39678</a></strong> / <strong><a href="https://github.com/openai/codex/issues/40002">#40002</a></strong> — <em>Android Remote fails with project trust errors</em> (12 / 9 comments). Remote sessions from Android fail trust verification against macOS and Windows hosts respectively; #40002 is specifically a case-sensitivity bug in Windows path lookup. Remote workflows are the fastest-growing surface for trust/path bugs.</li>
-<li><strong><a href="https://github.com/openai/codex/issues/39280">#39280</a></strong> — <em>macOS: Chrome tabs claimable, but every real-page action fails policy verification</em> (10 comments), paired with the regression <strong><a href="https://github.com/openai/codex/issues/39972">#39972</a></strong> — <em>Browser controls no longer working</em>. Browser-use functionality is effectively broken on macOS across two parallel reports.</li>
-<li><strong><a href="https://github.com/openai/codex/issues/40905">#40905</a></strong> — <em>5-hour usage limit interrupts long-running GPT-5.6 Sol agent tasks</em> (8 comments). The rolling usage window conflicts with multi-hour autonomous runs; a product-policy issue gaining traction as agent runtimes lengthen.</li>
-<li><strong><a href="https://github.com/openai/codex/issues/40067">#40067</a></strong> — <em>GPT-5.6 Plus weekly usage drained from ~99% to 0% within hours</em> (7 comments). Suspected usage-accounting regression; combined with #40905, rate-limit trust is a rising frustration theme. Also notable: <strong><a href="https://github.com/openai/codex/issues/41145">#41145</a></strong> reports shell execution tools disappearing after updating to 0.150.1 — watch this one for regression reports.</li>
-</ol>
-<h2>4. Key PR Progress</h2>
-<ol>
-<li><strong><a href="https://github.com/openai/codex/pull/41344">#41344</a></strong> / <strong><a href="https://github.com/openai/codex/pull/41336">#41336</a></strong> — <em>MCP tool-cache handling during binding capture</em> (two complementary fixes). Ensure refreshed and cached tool catalogs are handled correctly when bindings wait on multiple MCP servers, so newly available tools aren&#39;t omitted from the first model request.</li>
-<li><strong><a href="https://github.com/openai/codex/pull/41309">#41309</a></strong> — <em>Honor required reviews when reusing Guardian scores</em>. Fixes a real security hole: a cached low-risk score could let an action bypass a required full review after a model switch. Part of today&#39;s Guardian hardening wave (see also <a href="https://github.com/openai/codex/pull/41322">#41322</a>).</li>
-<li><strong><a href="https://github.com/openai/codex/pull/41328">#41328</a></strong> — <em>Review terminal input against retained permissions</em>. <code>write_stdin</code> calls now account for the sandbox/grants a terminal had at launch, closing a permission-drift gap.</li>
-<li><strong><a href="https://github.com/openai/codex/pull/41308">#41308</a></strong> — <em>Subagents follow the root service tier</em>. Service-tier selection now propagates across the entire agent tree, including remote compaction — relevant to anyone running multi-agent workflows with tiered routing.</li>
-<li><strong><a href="https://github.com/openai/codex/pull/41243">#41243</a></strong> — <em>Configurable gating for the sleep tool</em>. New stable <code>sleep_tool</code> feature flag (<code>model_driven</code> / <code>always_on</code>), decoupling the sleep tool from the clock tool — a signal that built-in tool sets are becoming more modular/configurable.</li>
-<li><strong><a href="https://github.com/openai/codex/pull/41239">#41239</a></strong> — <em>Surface auth recovery progress</em>. New <code>modelProvider/authRecoveryStarted</code>/<code>Completed</code> events so clients can show credential-refresh state instead of appearing hung.</li>
-<li><strong><a href="https://github.com/openai/codex/pull/41292">#41292</a></strong> — <em>Forward history note images to the model</em>. Image attachments in history notes now become <code>input_image</code> items, with malformed-attachment rejection and log sanitization.</li>
-<li><strong><a href="https://github.com/openai/codex/pull/41260">#41260</a></strong> — <em>History backend enforces tool output budgets</em>. Removes redundant client-side truncation that could reject already-bounded responses — a fix for spurious tool-result failures.</li>
-<li><strong><a href="https://github.com/openai/codex/pull/41313">#41313</a></strong> — <em>Decouple HTTP retry backoff from overload integration testing</em>. Retry/backoff now verified under paused Tokio time; better test reliability for overload handling.</li>
-<li><strong><a href="https://github.com/openai/codex/pull/10192">#10192</a></strong> — <em>Migrate TUI to app-server v2</em> (long-running, updated today). Bolinfest&#39;s architectural effort to make the TUI speak the app-server protocol remains active after ~7 months — foundational for unifying CLI and Desktop on one server.</li>
-</ol>
-<h2>5. Hot Discussions</h2>
-<p><strong>Ideas</strong></p>
-<ul>
-<li><strong><a href="https://github.com/openai/codex/discussions/25630">#25630</a></strong> — <em>Switch Between Accounts</em>: request for a one-click account switcher instead of full sign-out/sign-in cycles.</li>
-</ul>
-<p><strong>Q&amp;A</strong></p>
-<ul>
-<li><strong><a href="https://github.com/openai/codex/discussions/40740">#40740</a></strong> — <em>Does rollout tracing capture which path produced a Declined exec status?</em> Deep-dive into <code>rollout/src/policy.rs</code> persistence semantics for approval/decline events — of interest to anyone building tooling on rollout traces.</li>
-<li><strong><a href="https://github.com/openai/codex/discussions/41314">#41314</a></strong> — <em>codex</em>: inquiry (in Chinese) about the status of the Codex desktop pet — see also today&#39;s pet bug <a href="https://github.com/openai/codex/issues/41306">#41306</a>.</li>
-</ul>
-<p><strong>Show and tell</strong></p>
-<ul>
-<li><strong><a href="https://github.com/openai/codex/discussions/41319">#41319</a></strong> — <em>Click</em>: an open-source Codex plugin by grapefruit0205 that stops agents from re-planning and over-verifying after work is already complete — an interesting ecosystem response to agent-efficiency complaints.</li>
-</ul>
-<h2>6. Feature Request Trends</h2>
-<ul>
-<li><strong>Execution transparency</strong>: the top-requested change (👍 63) is surfacing full command output instead of collapsed summaries (<a href="https://github.com/openai/codex/issues/39903">#39903</a>) — users want auditability of agent actions.</li>
-<li><strong>Async agent orchestration</strong>: wake-on-completion for subagents (<a href="https://github.com/openai/codex/issues/15723">#15723</a>) and longer uninterrupted agent runs (rate-limit relief, <a href="https://github.com/openai/codex/issues/40905">#40905</a>) reflect demand for long-running autonomous workflows.</li>
-<li><strong>Security-policy clarity</strong>: community wants a proper deprecation/migration path for approval policies rather than hard breaks (<a href="https://github.com/openai/codex/issues/39973">#39973</a>).</li>
-<li><strong>Account/billing control</strong>: account switching (<a href="https://github.com/openai/codex/discussions/25630">#25630</a>) and auto-recharge persistence (<a href="https://github.com/openai/codex/issues/31987">#31987</a>) keep recurring.</li>
-<li><strong>Configurable built-in tools</strong>: the <code>sleep_tool</code> gating PR (<a href="https://github.com/openai/codex/pull/41243">#41243</a>) suggests the team is already moving toward user-tunable tool registration.</li>
-</ul>
-<h2>7. Developer Pain Points</h2>
-<ul>
-<li><strong>Windows Desktop is the dominant pain point</strong>: launch failures from AppX relocation (<a href="https://github.com/openai/codex/issues/40700">#40700</a>, <a href="https://github.com/openai/codex/issues/41096">#41096</a>), no relaunch after updates (<a href="https://github.com/openai/codex/issues/24047">#24047</a>), startup loops (<a href="https://github.com/openai/codex/issues/39364">#39364</a>), app-server crashes during tool calls (<a href="https://github.com/openai/codex/issues/40400">#40400</a>), and node.exe access violations (<a href="https://github.com/openai/codex/issues/40913">#40913</a>). The Windows update/packaging pipeline needs systematic attention.</li>
-<li><strong>Remote/cross-device trust is fragile</strong>: Android-to-desktop sessions repeatedly fail project-trust verification (<a href="https://github.com/openai/codex/issues/39678">#39678</a>, <a href="https://github.com/openai/codex/issues/40002">#40002</a>), and mobile SSH sessions don&#39;t live-sync (<a href="https://github.com/openai/codex/issues/29094">#29094</a>).</li>
-<li><strong>Rate-limit reliability</strong>: sudden usage drain (<a href="https://github.com/openai/codex/issues/40067">#40067</a>) and mid-task interruptions (<a href="https://github.com/openai/codex/issues/40905">#40905</a>) erode confidence in usage accounting.</li>
-<li><strong>Upgrade regressions</strong>: tools disappearing after CLI updates (<a href="https://github.com/openai/codex/issues/41145">#41145</a>), hard config breaks without migration (<a href="https://github.com/openai/codex/issues/39973">#39973</a>), and the macOS browser-extension regression (<a href="https://github.com/openai/codex/issues/39972">#39972</a>) — users want better release gating and rollback paths.</li>
-<li><strong>Session/state hygiene</strong>: stale sessions (<a href="https://github.com/openai/codex/issues/24217">#24217</a>), undeletable threads (<a href="https://github.com/openai/codex/issues/39897">#39897</a>, <a href="https://github.com/openai/codex/issues/40313">#40313</a>), and bulk-delete no-ops (<a href="https://github.com/openai/codex/issues/28298">#28298</a>) keep surfacing across platforms.</li>
-</ul>
-</details>
-
-<details>
-<summary><strong>Gemini CLI</strong> — <a href="https://github.com/google-gemini/gemini-cli">google-gemini/gemini-cli</a></summary>
-
-<p>⚠️ Summary generation failed.</p>
-</details>
-
-<details>
-<summary><strong>GitHub Copilot CLI</strong> — <a href="https://github.com/github/copilot-cli">github/copilot-cli</a></summary>
-
-<h1>GitHub Copilot CLI Community Digest — 2026-08-28</h1>
-<h2>1. Today&#39;s Highlights</h2>
-<p>The plugins dashboard reached general availability in v1.0.81 (via <code>/plugin</code>, <code>/mcp</code>, <code>/skills</code>), alongside MCP 2026-07-28 spec support shipped across CLI, SDK, IDE, and in-memory clients. However, the release cycle is showing stability strain: a cluster of enterprise auth regressions on GHEC data-residency tenants and multiple TUI/runtime failure modes (runaway FileWatch loops, frozen UI during parallel subagents) dominated community attention today. No PRs were updated in the last 24h, suggesting a lull in merged activity despite heavy issue triage traffic.</p>
-<h2>2. Releases</h2>
-<ul>
-<li><strong>v1.0.82-0</strong> — prerelease; &quot;Fixes and changes&quot; (no detailed changelog).</li>
-<li><strong>v1.0.81</strong> (2026-08-27):<ul>
-<li>Plugins dashboard now available to everyone — run <code>/plugin</code>, <code>/mcp</code>, or <code>/skills</code>. Opt out with <code>PLUGINS_DASHBOARD=false</code> (also disables the <code>copilot plugins</code> command).</li>
-<li>MCP 2026-07-28 spec support shipped to CLI, SDK, IDE, and in-memory clients.</li>
-<li>Hooks can now receive the current OpenTelemetry context.</li>
-</ul>
-</li>
-</ul>
-<h2>3. Hot Issues</h2>
-<ol>
-<li><p><strong><a href="https://github.com/github/copilot-cli/issues/4480">#4480 — Atlassian MCP OAuth fails with &quot;Incompatible authorization server (RFC 8414 §3.3)&quot; (CLOSED)</a></strong> — Highest-engagement issue this cycle (7 comments, 👍6). A regression from 1.0.71 broke remote MCP OAuth issuer validation against Atlassian; now closed, likely fixed by the MCP 2026-07-28 spec support in v1.0.81.</p>
-</li>
-<li><p><strong><a href="https://github.com/github/copilot-cli/issues/4612">#4612 — Runaway FileWatch host-event loop freezes TUI, grows debug log to 13 GB (OPEN)</a></strong> — Severe: long-running/resumed sessions enter a tight &quot;No connection accepted a host event&quot; loop, freezing the terminal and ballooning logs to 13 GB. Critical stability report.</p>
-</li>
-<li><p><strong><a href="https://github.com/github/copilot-cli/issues/4535">#4535 — <code>store_memory</code> fails in v1.0.81 prereleases: &quot;Instance id is required&quot; (OPEN)</a></strong> — Memory tooling completely broken in prereleases due to missing instance ID in the native memory writer. 7 comments and active debugging.</p>
-</li>
-<li><p><strong><a href="https://github.com/github/copilot-cli/issues/4527">#4527 — <code>copilot -p</code> 401 on GHEC data residency since 1.0.81-1 (OPEN)</a></strong> — Prompt-mode model-catalog fetch hits <code>api.githubcopilot.com</code> instead of the tenant endpoint. Interactive mode works; only <code>-p</code> breaks. 👍4 — part of today&#39;s enterprise auth regression cluster (see also #4650, #4654).</p>
-</li>
-<li><p><strong><a href="https://github.com/github/copilot-cli/issues/4533">#4533 — TUI stops consuming events when a turn spawns parallel subagents (OPEN)</a></strong> — Input and scroll go dead while the Rust runtime keeps processing; results only recoverable after minutes. Points to an event-loop backpressure bug in the UI layer.</p>
-</li>
-<li><p><strong><a href="https://github.com/github/copilot-cli/issues/4647">#4647 — v1.0.81 broke compatibility with chroma-mcp (OPEN)</a></strong> — Fresh 1.0.80→1.0.81 regression affecting stdio MCP server configs; follows the general pattern of MCP transport changes disrupting third-party servers.</p>
-</li>
-<li><p><strong><a href="https://github.com/github/copilot-cli/issues/4602">#4602 — <code>store_memory</code> fails and MCP servers are stripped: <code>managedSettings</code> fails closed on <code>serverFetchFailed</code> flap (OPEN)</a></strong> — Well-argued issue linking multiple open reports to a single root cause: managed-settings fetch flaps cause fail-closed behavior killing memory and MCP entirely.</p>
-</li>
-<li><p><strong><a href="https://github.com/github/copilot-cli/issues/4639">#4639 — Event-storage exhaustion retry storm drives session into GC/compaction loop and Node OOM (OPEN)</a></strong> — Exporter retries 500-event flushes against exhausted storage, triggering memory pressure and thousands of bridge acknowledgments. Needs backoff/circuit-breaker logic.</p>
-</li>
-<li><p><strong><a href="https://github.com/github/copilot-cli/issues/4486">#4486 — Edit permission request &quot;times out&quot; (OPEN)</a></strong> — Permission prompts now expire if not answered immediately, breaking overnight and multi-session workflows. Authored by dscho (Git maintainer) — notable signal.</p>
-</li>
-<li><p><strong><a href="https://github.com/github/copilot-cli/issues/4649">#4649 — Tool search reports enabled on Grok but defers nothing; Gemini never enables it (OPEN)</a></strong> — Follow-up to closed #4588. The token-reduction fix landed only for GPT (43.1k → 21.0k tokens); Grok silently no-ops and Gemini never activates. Important for cost/latency parity across model families.</p>
-</li>
-</ol>
-<h2>4. Key PR Progress</h2>
-<p>No pull requests were updated in the last 24 hours. Notable merged work reflected in the latest release:</p>
-<ol>
-<li><strong>Plugins dashboard GA</strong> — <code>/plugin</code>, <code>/mcp</code>, <code>/skills</code> surfaces shipped to all users in v1.0.81, with an <code>PLUGINS_DASHBOARD=false</code> opt-out.</li>
-<li><strong>MCP 2026-07-28 spec support</strong> — shipped uniformly across CLI, SDK, IDE, and in-memory clients.</li>
-<li><strong>Hooks receive OpenTelemetry context</strong> — hooks now get the current OTel trace context, enabling correlated observability in hook scripts.</li>
-</ol>
-<h2>5. Hot Discussions</h2>
-<p>No discussion data was provided for this period.</p>
-<h2>6. Feature Request Trends</h2>
-<ul>
-<li><strong>Session ergonomics</strong>: <code>--name</code> should create-or-resume in one flag (<a href="https://github.com/github/copilot-cli/issues/4642">#4642</a>); <code>session.resume</code> should honor a passed <code>model</code> parameter (<a href="https://github.com/github/copilot-cli/issues/4645">#4645</a>).</li>
-<li><strong>Auditability &amp; records</strong>: verifiable, persistent records of rubber-duck/agent reviews including model provenance (<a href="https://github.com/github/copilot-cli/issues/4621">#4621</a>).</li>
-<li><strong>Configuration tooling</strong>: an official JSON Schema for <code>settings.json</code> to enable editor validation (<a href="https://github.com/github/copilot-cli/issues/4641">#4641</a>, 👍2).</li>
-<li><strong>Cost/token efficiency</strong>: extend tool-search deferral to Grok and Gemini, not just GPT (<a href="https://github.com/github/copilot-cli/issues/4649">#4649</a>).</li>
-<li><strong>Model/compaction transparency</strong>: accurate context-window reporting (#4638), meaningful compaction checkpoints (#4643).</li>
-<li><strong>BYOK polish</strong>: <code>/model</code> command missing in BYOK mode (#4651) suggests growing demand for custom-provider support.</li>
-</ul>
-<h2>7. Developer Pain Points</h2>
-<ul>
-<li><strong>Enterprise/GHEC auth fragility</strong>: A cluster of regressions (#4527, #4650, #4654) where prompt mode (<code>-p</code>) and <code>--agent</code> flows hit non-enterprise endpoints and 401. Enterprise users are currently blocked from non-interactive automation — the highest-impact pain this cycle.</li>
-<li><strong>Prerelease-channel instability</strong>: TUI freeze during parallel subagents (#4533), runaway FileWatch loops with 13 GB logs (#4612), event-storage retry storms causing OOM (#4639). Long-running and resumed sessions are disproportionately affected.</li>
-<li><strong>MCP ecosystem breakage across upgrades</strong>: OAuth regressions (#4480), chroma-mcp breakage in 1.0.81 (#4647), and fail-closed managed settings stripping all MCP servers (#4602). Users report each minor release can silently break server configurations.</li>
-<li><strong>Memory/context subsystem bugs</strong>: <code>store_memory</code> failing on instance ID (#4535) and premature compaction at ~20% context with no checkpoint recorded (#4643) undermine trust in long-session workflows.</li>
-<li><strong>Fail-silent behavior</strong>: <code>session.resume</code> dropping the model parameter without error (#4645), silent marketplace registration bail (#4556), and skipped hooks for steering messages (#4640) — a recurring theme of actions taken without feedback.</li>
-<li><strong>Windows/localization gaps</strong>: AltGr key input swallowed (#4653), sandbox unsupported warnings on Windows 25H2 (#4652), continuing Windows platform friction.</li>
-</ul>
-<p><em>Digest generated 2026-08-28. Sources: github.com/github/copilot-cli (issues #4480–#4654, releases v1.0.81/v1.0.82-0).</em></p>
-</details>
-
-<details>
-<summary><strong>OpenCode</strong> — <a href="https://github.com/anomalyco/opencode">anomalyco/opencode</a></summary>
-
-<h1>OpenCode Community Digest — 2026-08-28</h1>
-<h2>1. Today&#39;s Highlights</h2>
-<p>Two rapid-fire releases shipped in the last 24 hours, with <strong>v1.18.24</strong> bringing Azure CLI / Microsoft Entra ID sign-in (no more API-key-only Azure) and a fix for corrupted Bedrock replay state. On the V2 front, <code>optamus-ai</code> landed a series of session-stability PRs, while a burst of same-day bug reports around the <code>muse-spark-1.2-contributor</code> model and billing usage display suggests the &quot;Go&quot; subscription stack is under strain.</p>
-<h2>2. Releases</h2>
-<ul>
-<li><strong><a href="https://github.com/anomalyco/opencode/releases/tag/v1.18.24">v1.18.24</a></strong><ul>
-<li>Bedrock reasoning responses no longer cache into unreplayable empty messages.</li>
-<li>Azure providers can authenticate via Microsoft Entra ID through the Azure CLI; V1 now reads supported V2 config fields for forward compatibility.</li>
-</ul>
-</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/releases/tag/v1.18.25">v1.18.25</a></strong><ul>
-<li>Fixed Azure authentication so Azure CLI sign-in works without requiring Bun.</li>
-</ul>
-</li>
-</ul>
-<h2>3. Hot Issues</h2>
-<ol>
-<li><strong><a href="https://github.com/anomalyco/opencode/issues/32149">#32149 — Opencode stops processing requests without response</a></strong> (OPEN, 20 comments, 👍9). The highest-engagement open bug: prompts enter &quot;thinking&quot; but never complete. Long-lived, high-impact reliability issue still active two months on.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/issues/6536">#6536 — Mobile app feature request</a></strong> (CLOSED, 16 comments, 👍50). The most-upvoted item today; users strongly want native mobile access beyond the mobile browser.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/issues/14970">#14970 — SQLite corruption (&quot;database disk image is malformed&quot;) on NFS</a></strong> (OPEN, 12 comments, 👍23). Concurrent sessions corrupt the shared <code>opencode.db</code> on NFS-mounted home dirs — serious for enterprise/remote dev setups.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/issues/31377">#31377 — Auto-discover skills from nested subdirectories</a></strong> (OPEN, 7 comments). Skills discovery currently only walks upward; monorepo users want downward traversal.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/issues/14524">#14524 — Display model cost in the model picker</a></strong> (OPEN, 7 comments, 👍11). Cost transparency at model selection — high demand, cheap win for the TUI.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/issues/36761">#36761 — Expose valid subagent IDs to the model</a></strong> (OPEN, 5 comments). V2 <code>subagent</code> tool hides configured agent IDs, so models guess and delegation fails — a core V2 usability gap.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/issues/42923">#42923 — Subagent stuck in infinite thinking loop (drains credits)</a></strong> (OPEN, 3 comments). <code>mimo-v2.5</code> subagents loop forever and burn credits with no timeout — cost + reliability risk.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/issues/45858">#45858 — Usage percentage display errors on Go plan billing page</a></strong> (OPEN, 4 comments). Percentages don&#39;t match usage ÷ quota; paired with <a href="https://github.com/anomalyco/opencode/issues/45897">#45897</a> accusing misleading &quot;$30/week&quot; marketing vs $7.50 actual, billing trust is a hot topic.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/issues/45829">#45829 — V1 migration fails every startup with SQLite syntax error</a></strong> (OPEN, 2 comments). The V1→V2 migration never completes on <code>opencode2</code>, leaving legacy data unmigrated — V2 migration path needs attention.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/issues/41354">#41354 — Search across message history</a></strong> (OPEN, 4 comments). With hundreds of sessions, users have no way to find past decisions/instructions — a growing need as usage matures.</li>
-</ol>
-<h2>4. Key PR Progress</h2>
-<ol>
-<li><strong><a href="https://github.com/anomalyco/opencode/pull/45931">#45931 — Preserve CRLF endings when splicing patch hunks</a></strong> — fixes <a href="https://github.com/anomalyco/opencode/issues/45926">#45926</a>: <code>apply_patch</code> was turning CRLF files into mixed line endings via LF-only matching. Fast same-day turnaround.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/pull/45942">#45942 — Bound shell output to 50 KiB preview for LLM</a></strong> — fixes sessions stranded by shell output bypassing the tool-output limit.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/pull/45951">#45951 — Preserve Anthropic thinking for errored same-model replay</a></strong> — fixes replay failures where thinking metadata was lost, producing invalid requests.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/pull/45955">#45955 — Serialize V2 prompt settlement around event publication</a></strong> — fixes a V2 concurrency race in <code>Form</code>/<code>PermissionV2</code>/<code>QuestionV2</code>.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/pull/45959">#45959 — Surface pre-runner failures as durable Step.Failed</a></strong> — V2 errors like <code>ModelUnavailableError</code> are now surfaced instead of silently logged.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/pull/40010">#40010 — Recover stalled model streams</a></strong> — addresses endpoints that return headers but never stream a body, ending the &quot;waits forever&quot; hang.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/pull/45949">#45949 — Serialize and atomically write auth.json</a></strong> — flock-guarded reads plus atomic tmp-rename writes to prevent auth-file corruption under concurrency.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/pull/45952">#45952 — Share model visibility between TUI and web UI</a></strong> — community fix (issue author themselves) removing a 6-month recency filter that hid older models in the web UI.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/pull/45818">#45818 — Refactor(core): separate config file editing</a></strong> — enables deliberate editing of project/custom config files instead of the first file-backed document.</li>
-<li><strong><a href="https://github.com/anomalyco/opencode/pull/45828">#45828 — Add first-class TestLLM controls</a></strong> (CLOSED/merged) — fixes test-LLM streams consuming scripted responses on construction, improving V2 test determinism.</li>
-</ol>
-<h2>5. Hot Discussions</h2>
-<p><em>(No separate Discussions data was provided; notable conversational threads from Issues this cycle:)</em></p>
-<ul>
-<li><strong>Ideas:</strong> <a href="https://github.com/anomalyco/opencode/issues/6536">Mobile app demand</a> remains the loudest product direction despite closure. Termux support (<a href="https://github.com/anomalyco/opencode/issues/45870">#45870</a>) echoes the same &quot;use OpenCode anywhere&quot; theme, with pushback on bot-closed issues.</li>
-<li><strong>Q&amp;A:</strong> <a href="https://github.com/anomalyco/opencode/issues/17703">#17703</a> (agent interrupting mid-tool-call, needing &quot;continue&quot;) and <a href="https://github.com/anomalyco/opencode/issues/45053">#45053</a> (muse-spark model hanging) drew community troubleshooting on expected vs. actual agent behavior.</li>
-</ul>
-<h2>6. Feature Request Trends</h2>
-<ul>
-<li><strong>Mobile &amp; remote access</strong>: mobile app (<a href="https://github.com/anomalyco/opencode/issues/6536">#6536</a>), Termux (<a href="https://github.com/anomalyco/opencode/issues/45870">#45870</a>) — by far the most-upvoted theme.</li>
-<li><strong>Cost transparency</strong>: model costs in the picker (<a href="https://github.com/anomalyco/opencode/issues/14524">#14524</a>), correct usage reporting (<a href="https://github.com/anomalyco/opencode/issues/45858">#45858</a>).</li>
-<li><strong>History &amp; knowledge retrieval</strong>: cross-session message search (<a href="https://github.com/anomalyco/opencode/issues/41354">#41354</a>).</li>
-<li><strong>Provider/auth flexibility</strong>: native Kimi/Moonshot auth (<a href="https://github.com/anomalyco/opencode/issues/12156">#12156</a>, now closed), Azure CLI/Entra ID (shipped in v1.18.24).</li>
-<li><strong>Skills &amp; agent ergonomics</strong>: downward skill discovery (<a href="https://github.com/anomalyco/opencode/issues/31377">#31377</a>), subagent ID exposure (<a href="https://github.com/anomalyco/opencode/issues/36761">#36761</a>).</li>
-<li><strong>Filesystem/config flexibility</strong>: configurable root-file directory (<a href="https://github.com/anomalyco/opencode/issues/43700">#43700</a>, closed), Dev Drive path handling (<a href="https://github.com/anomalyco/opencode/issues/44929">#44929</a>).</li>
-</ul>
-<h2>7. Developer Pain Points</h2>
-<ul>
-<li><strong>Silent hangs and stalls</strong> dominate: prompts that never respond (<a href="https://github.com/anomalyco/opencode/issues/32149">#32149</a>, <a href="https://github.com/anomalyco/opencode/issues/27755">#27755</a>), stalled model streams (<a href="https://github.com/anomalyco/opencode/pull/40010">#40010</a>), infinite subagent thinking loops draining credits (<a href="https://github.com/anomalyco/opencode/issues/42923">#42923</a>).</li>
-<li><strong>Agent interruptions</strong>: tasks halting mid-run and requiring manual &quot;continue&quot; recur across multiple issues.</li>
-<li><strong>Concurrency &amp; storage fragility</strong>: SQLite corruption on NFS (<a href="https://github.com/anomalyco/opencode/issues/14970">#14970</a>), V1 migration failing every startup (<a href="https://github.com/anomalyco/opencode/issues/45829">#45829</a>), racy in-place updater causing ENOEXEC (<a href="https://github.com/anomalyco/opencode/issues/41495">#41495</a>).</li>
-<li><strong>Billing/subscription trust</strong>: usage percentage errors and complaints that actual limits fall short of advertised (<a href="https://github.com/anomalyco/opencode/issues/45858">#45858</a>, <a href="https://github.com/anomalyco/opencode/issues/45897">#45897</a>), plus rate-limit errors immediately after subscribing (<a href="https://github.com/anomalyco/opencode/issues/45893">#45893</a>).</li>
-<li><strong>Cross-platform friction</strong>: Windows Dev Drive path mismatch (<a href="https://github.com/anomalyco/opencode/issues/44929">#44929</a>), CRLF handling in patches (<a href="https://github.com/anomalyco/opencode/issues/45926">#45926</a>, fix in flight), Desktop renderer freezes (<a href="https://github.com/anomalyco/opencode/issues/43355">#43355</a>).</li>
-<li><strong>V2 beta instability</strong>: subagent discoverability, permission overrides not working (<a href="https://github.com/anomalyco/opencode/issues/43669">#43669</a>), and the recurring migration failures indicate V2 needs hardening before general availability.</li>
-</ul>
-</details>
-
-<details>
-<summary><strong>Pi</strong> — <a href="https://github.com/earendil-works/pi">earendil-works/pi</a></summary>
-
-<p>⚠️ Summary generation failed.</p>
-</details>
-
-<details>
-<summary><strong>Qwen Code</strong> — <a href="https://github.com/QwenLM/qwen-code">QwenLM/qwen-code</a></summary>
-
-<p>⚠️ Summary generation failed.</p>
-</details>
-
-<hr>
-<p><em>This digest is auto-generated by <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a>.</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>AI Agents 生态日报 2026-08-28</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-08-28/ai-agents</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-08-28/ai-agents</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <description>OpenClaw 生态日报 2026-08-28 Issues: 500 | PRs: 500 | 覆盖项目: 5 个 | 生成时间: 2026-08-28 15:10 UTC OpenClaw Hermes Agent IronClaw QwenPaw ZeroClaw OpenClaw 项目深度报告 ⚠️ 摘要生成失败。 横向生态对比 跨项目对比报告 — 个人 AI 助手 / Agent 生态 日期： 2026-08-28 · 范围： OpenClaw、Hermes Agent、IronClaw、QwenPaw、ZeroClaw ⚠️ 数据可用性说明： OpenClaw、IronClaw、QwenPaw 和 ZeroClaw 的每日摘要生成失败。今天仅有 Hermes Agent 的摘要可用。因此，下文第 2–3 节将唯一的已验证数据集与明确标注的数据缺口结合呈现。为避免无依据的推断，跨项目的结论性陈述已作限制。 1. 生态概览 2026 年 8 月下旬的开源个人 AI 助手领域，正从“聊天机器人套壳”转向持久化个人基础设施：网关（Telegram/Slack）、多配置文件隔离、本...</description>
-      <content:encoded><![CDATA[<h1>OpenClaw 生态日报 2026-08-28</h1>
-<blockquote>
-<p>Issues: 500 | PRs: 500 | 覆盖项目: 5 个 | 生成时间: 2026-08-28 15:10 UTC</p>
-</blockquote>
-<ul>
-<li><a href="https://github.com/openclaw/openclaw">OpenClaw</a></li>
-<li><a href="https://github.com/nousresearch/hermes-agent">Hermes Agent</a></li>
-<li><a href="https://github.com/nearai/ironclaw">IronClaw</a></li>
-<li><a href="https://github.com/agentscope-ai/QwenPaw">QwenPaw</a></li>
-<li><a href="https://github.com/zeroclaw-labs/zeroclaw">ZeroClaw</a></li>
-</ul>
-<hr>
-<h2>OpenClaw 项目深度报告</h2>
-<p>⚠️ 摘要生成失败。</p>
-<hr>
-<h2>横向生态对比</h2>
-<h1>跨项目对比报告 — 个人 AI 助手 / Agent 生态</h1>
-<p><strong>日期：</strong> 2026-08-28 · <strong>范围：</strong> OpenClaw、Hermes Agent、IronClaw、QwenPaw、ZeroClaw</p>
-<blockquote>
-<p>⚠️ <strong>数据可用性说明：</strong> OpenClaw、IronClaw、QwenPaw 和 ZeroClaw 的每日摘要生成失败。今天仅有 <strong>Hermes Agent</strong> 的摘要可用。因此，下文第 2–3 节将唯一的已验证数据集与明确标注的数据缺口结合呈现。为避免无依据的推断，跨项目的结论性陈述已作限制。</p>
-</blockquote>
-<hr>
-<h2>1. 生态概览</h2>
-<p>2026 年 8 月下旬的开源个人 AI 助手领域，正从“聊天机器人套壳”转向<strong>持久化个人基础设施</strong>：网关（Telegram/Slack）、多配置文件隔离、本地模型运行时和定时任务委托如今已是入场标配。Hermes Agent 的摘要反映出一个通过高强度的 issue 快速吸纳（24 小时内 50 个 issue + 50 个 PR）配合纪律性战役式维护来实现规模化的项目。主要的工程战场包括 <strong>Windows 平台对等性</strong>、<strong>会话状态/前缀缓存正确性</strong>（直接影响成本），以及<strong>委托任务的持久性</strong>——鉴于该生态内各项目共享相似的架构模式，这些主题很可能在其他同类项目中同样出现。用户期望的变化也印证了这个领域的成熟：更新可靠性、隐私隔离和 API 成本透明度，如今已比单纯的功能迭代速度更重要。</p>
-<h2>2. 活跃度对比</h2>
-<table>
-<thead>
-<tr>
-<th>项目</th>
-<th>Issues (24h)</th>
-<th>PRs (24h)</th>
-<th>PR 吞吐量</th>
-<th>发布 (24h)</th>
-<th>健康度</th>
-<th>数据状态</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>Hermes Agent</strong></td>
-<td>50</td>
-<td>50</td>
-<td>28%（14/50 已关闭）</td>
-<td>无</td>
-<td>活跃 / 响应及时；热点：Windows、会话状态</td>
-<td>✅ 已验证</td>
-</tr>
-<tr>
-<td>OpenClaw</td>
-<td>—</td>
-<td>—</td>
-<td>—</td>
-<td>—</td>
-<td>—</td>
-<td>❌ 摘要失败</td>
-</tr>
-<tr>
-<td>IronClaw</td>
-<td>—</td>
-<td>—</td>
-<td>—</td>
-<td>—</td>
-<td>—</td>
-<td>❌ 摘要失败</td>
-</tr>
-<tr>
-<td>QwenPaw</td>
-<td>—</td>
-<td>—</td>
-<td>—</td>
-<td>—</td>
-<td>—</td>
-<td>❌ 摘要失败</td>
-</tr>
-<tr>
-<td>ZeroClaw</td>
-<td>—</td>
-<td>—</td>
-<td>—</td>
-<td>—</td>
-<td>—</td>
-<td>❌ 摘要失败</td>
-</tr>
-</tbody></table>
-<p><strong>建议：</strong> 在对四个摘要失败的项目重新生成数据之前，不应据此进行排名；今日报告不可用于跨项目基准对比。</p>
-<h2>3. OpenClaw 的处境</h2>
-<p>2026-08-28 无摘要数据；无法根据今日摘要评估 OpenClaw 的相对优势、技术路线和社区规模。作为本生态指定的“核心参考”项目，建议在数据恢复后优先重新评估。</p>
-<h2>4. 共同的技术关注点</h2>
-<p>今天无法进行跨项目确认，但 Hermes 的数据揭示了值得在其他项目中持续观察的生态级需求：</p>
-<ul>
-<li><strong>更新/安装可靠性</strong>（Hermes）— 更新后代码陈旧偏差（systemd 仪表盘返回 500、SSH 后端状态过期）以及 Windows SCM 服务中止；任何具备自我更新机制的 agent 都会遇到这类故障。</li>
-<li><strong>会话状态与缓存正确性</strong>（Hermes）— <code>null</code> 系统提示词导致前缀缓存失效（P0 #96570）表明状态管理直接影响用户的 API 开销；跨配置文件泄漏（#66887）则涉及隐私问题。</li>
-<li><strong>提供商扩展与本地运行时</strong>（Hermes）— 对 Mistral 提供商的需求（👍27）以及托管的 llama.cpp 运行时，印证了“任意模型、本地优先”的预期。</li>
-<li><strong>跨界面一致性</strong>（Hermes）— 在 CLI/TUI/网关/桌面端统一斜杠命令注册表。</li>
-</ul>
-<h2>5. 差异化分析</h2>
-<p>由于仅有一份数据集，无法从实证角度陈述差异化。Hermes Agent 可观察到的特征是：<strong>以网关为中心的个人助手架构</strong>（多路复用网关、配置文件、Telegram/Slack/cron/SSH），以激进的功能迭代配合战役驱动的稳定性修复。其他项目的差异化待定。</p>
-<h2>6. 社区活跃度与成熟度</h2>
-<ul>
-<li><strong>Hermes Agent — “快速迭代 + 积极稳定化”。</strong> 极高的吸纳量（50/50）搭配 28% 的吞吐率，无发布版本（所有工作直接进 main），完成了 29 个 PR 的桌面端多网关战役，当日问题当日修复。成熟度信号：维护纪律严明，但 Windows/安装类 bug 积压表明平台加固阶段尚未完成。</li>
-<li><strong>OpenClaw、IronClaw、QwenPaw、ZeroClaw — 待分类</strong>，等待数据恢复。</li>
-</ul>
-<h2>7. 趋势信号</h2>
-<p>可提取的、与 agent 开发者相关的趋势（已由 Hermes 数据验证）：</p>
-<ol>
-<li><strong>成本透明度是产品特性。</strong> 单个缓存亲和性 bug（#96570）悄悄推高了用户 API 账单，达到 P0 级严重程度——前缀缓存正确性如今已属 SLA 范畴，而非单纯的优化项。</li>
-<li><strong>Windows 已不再是可选项。</strong> PATH、SCM 服务、Electron 启动、符号链接——Windows 对等性 bug 主导了积压列表；“macOS/Linux 优先”的 agent 正在失去庞大用户群体的信任。</li>
-<li><strong>异步委托需要持久性语义。</strong> 无重试/无呈现机制的孤儿在途任务“感觉就像静默的数据丢失”——agent 需要类似工作流引擎的任务生命周期管理。</li>
-<li><strong>多配置文件隔离 = 隐私需求。</strong> 配置文件间的状态泄漏（#66887）是个人助手领域对应的多租户隔离问题；应将其视为基线预期。</li>
-<li><strong>本地 + 异构模型支持驱动采用。</strong> 对 Mistral 的需求、为低内存 Ollama 放宽上下文最低要求，以及托管的 llama.cpp，都证实了本地优先的灵活性是主要采用驱动力。</li>
-<li><strong>用户将 agent 部署为基础设施，而非玩具。</strong> SSH 远程后端、cron 报告、多路复用消息——可靠性工程（看门狗、更新验证）正在成为超越原始能力的关键差异点。</li>
-</ol>
-<hr>
-<p><strong>分析流水线的行动项：</strong> (1) 调查其他四个项目摘要生成失败的原因；(2) 数据恢复后重新发布本对比报告；(3) 持续关注 Hermes 的 P0 #96570 修复（PR #97158），以此作为全生态会话状态工程成熟度的先行指标。</p>
-<hr>
-<hr>
-<h2>同赛道项目详细报告</h2>
-<details>
-<summary><strong>Hermes Agent</strong> — <a href="https://github.com/nousresearch/hermes-agent">nousresearch/hermes-agent</a></summary>
-
-<h1>Hermes Agent Project Digest — 2026-08-28</h1>
-<h2>1. Today&#39;s Overview</h2>
-<p>Hermes Agent shows <strong>very high activity</strong> with 50 issues and 50 PRs updated in the last 24 hours, though only 14 of 50 PRs reached merged/closed state (28% throughput). No new releases shipped today, so all work landed on the main development line. The project is in an active stabilization phase: a large wave of issues created on 2026-08-28 itself (PRs/issues numbered 96,xxx–97,xxx) indicates rapid issue intake, with strong maintainer-driven campaigns (e.g., the 29-PR Desktop multi-gateway campaign closing out). Dominant themes today are <strong>Windows platform fragility</strong>, <strong>session-state/prefix-cache correctness</strong>, and <strong>delegation durability</strong>. Overall health is good but the bug backlog in Windows/install-update paths is clearly a hotspot.</p>
-<h2>2. Releases</h2>
-<p>No new releases in the last 24 hours. <em>(Omitted per policy.)</em></p>
-<h2>3. Project Progress</h2>
-<ul>
-<li><strong>14 of 50 PRs merged/closed today.</strong> Notable completions:<ul>
-<li><a href="https://github.com/NousResearch/hermes-agent/pull/96862">#96862</a> (CLOSED) — <strong>fix(gateway): skip paused/non-running SCM services instead of aborting update</strong> — directly addresses the Windows update blocker <a href="https://github.com/NousResearch/hermes-agent/issues/96360">#96360</a>/<a href="https://github.com/NousResearch/hermes-agent/issues/96860">#96860</a> (a follow-up duplicate PR <a href="https://github.com/NousResearch/hermes-agent/pull/97238">#97238</a> also appeared).</li>
-<li><strong>Issue #94724</strong> (CLOSED) — Desktop persistent multi-gateway connections campaign declared complete: <strong>29 PRs merged</strong>, 2 same-day regressions fixed, all salvage clusters shipped.</li>
-<li><strong>#24328</strong> (CLOSED) — Tool-message orphaning after message drops causing Moonshot/Kimi 400 errors.</li>
-<li><strong>#94704</strong> (CLOSED, duplicate) — Pre-call sanitizer accepting historical tool results for DeepSeek replay; fix in flight via <a href="https://github.com/NousResearch/hermes-agent/pull/97241">PR #97241</a>.</li>
-<li><strong>#93718</strong> (CLOSED) — Local profile not remembered when switching back from a remote Desktop connection.</li>
-<li><strong>#58357</strong> (CLOSED) — Consolidation of <code>_sanitize_tool_pairs</code> into canonical agent runtime sanitizers.</li>
-</ul>
-</li>
-<li>Active feature engineering: managed llama.cpp local runtime (<a href="https://github.com/NousResearch/hermes-agent/pull/85852">PR #85852</a>), task-scoped async delegation closeout (<a href="https://github.com/NousResearch/hermes-agent/pull/97039">PR #97039</a>), and cross-profile global memory policy (<a href="https://github.com/NousResearch/hermes-agent/pull/97231">PR #97231</a>).</li>
-</ul>
-<h2>4. Community Hot Topics</h2>
-<ul>
-<li><strong><a href="https://github.com/NousResearch/hermes-agent/issues/20859">#20859</a> — Mistral as LLM provider</strong> (13 comments, 👍27, open since May). The highest-engagement item; users want native Mistral LLM support since voice models are already integrated. Signals broad provider-expansion demand.</li>
-<li><strong><a href="https://github.com/NousResearch/hermes-agent/issues/94724">#94724</a> — Desktop multi-gateway campaign tracker</strong> (12 comments) — now closed as complete; showcases an unusually disciplined, campaign-style maintenance workflow.</li>
-<li><strong><a href="https://github.com/NousResearch/hermes-agent/issues/66887">#66887</a> — Multiplexed gateway: secondary-profile Telegram sessions persist in default profile&#39;s state.db</strong> (12 comments, P1). Users running multi-profile gateways need strict config/memory/storage isolation — a correctness/scope-leak issue central to the &quot;personal assistant&quot; use case.</li>
-<li><strong><a href="https://github.com/NousResearch/hermes-agent/issues/60323">#60323</a> — macOS backend misses <code>HERMES_BACKEND_READY</code> and times out</strong> (12 comments, P1). Desktop boot reliability on macOS.</li>
-<li><strong><a href="https://github.com/NousResearch/hermes-agent/issues/96692">#96692</a> — Unified slash-command registry</strong> (7 comments, filed 8/27). Architectural proposal for one versioned command catalog across CLI/TUI/gateway/desktop — signals the community wants cross-surface consistency.</li>
-</ul>
-<h2>5. Bugs &amp; Stability (ranked by severity)</h2>
-<ol>
-<li><strong>P0 — <a href="https://github.com/NousResearch/hermes-agent/issues/96570">#96570</a></strong>: Group-chat sessions store <code>null</code> system prompt every turn → prefix cache always misses (cost impact). Fix path exists: <a href="https://github.com/NousResearch/hermes-agent/pull/97158">PR #97158</a> (P0 cache affinity-key fix). <strong>Highest priority.</strong></li>
-<li><strong>P1 — <a href="https://github.com/NousResearch/hermes-agent/issues/66887">#66887</a></strong>: Cross-profile session-state leakage in multiplexed gateways (privacy/isolation). No fix PR visible.</li>
-<li><strong>P1 — <a href="https://github.com/NousResearch/hermes-agent/issues/60323">#60323</a></strong>: macOS backend-ready race causing desktop boot timeout. No fix PR visible.</li>
-<li><strong>P1 — <a href="https://github.com/NousResearch/hermes-agent/issues/48820">#48820</a></strong>: Windows gateway 3-fragility cluster (no watchdog, env override, aiohttp trust_env). Partially addressed by <a href="https://github.com/NousResearch/hermes-agent/pull/97237">PR #97237</a> (relaunch verification) and closed PR #96862.</li>
-<li><strong>P1 — <a href="https://github.com/NousResearch/hermes-agent/issues/96360">#96360</a></strong> / dup <a href="https://github.com/NousResearch/hermes-agent/issues/96860">#96860</a>: Windows update aborts on any non-running SCM service — fix merged today (#96862).</li>
-<li><strong>P2 — <a href="https://github.com/NousResearch/hermes-agent/issues/92244">#92244</a></strong>: <code>/model</code> picker blocks 25–50s due to serial pricing fetches (perf).</li>
-<li><strong>P2 — <a href="https://github.com/NousResearch/hermes-agent/issues/86207">#86207</a></strong> / <a href="https://github.com/NousResearch/hermes-agent/issues/97046">#97046</a>: post-update stale code-skew (systemd dashboard 500s; SSH backends stale). Fix in <a href="https://github.com/NousResearch/hermes-agent/pull/97062">PR #97062</a>.</li>
-<li><strong>P2 — <a href="https://github.com/NousResearch/hermes-agent/issues/94921">#94921</a></strong>: Ghostty terminal Shift+letter key regression leaking raw escape sequences.</li>
-<li><strong>P2 — <a href="https://github.com/NousResearch/hermes-agent/issues/97202">#97202</a></strong>: Renderer reload orphans in-flight async delegations; no retry/surfacing. Related work: <a href="https://github.com/NousResearch/hermes-agent/pull/97234">PR #97234</a>, <a href="https://github.com/NousResearch/hermes-agent/pull/68499">PR #68499</a>.</li>
-<li><strong>P2 — <a href="https://github.com/NousResearch/hermes-agent/issues/97230">#97230</a></strong>: cron duplicates messages after ambiguous adapter writes.</li>
-<li>Notable new Windows fixes opened today: <a href="https://github.com/NousResearch/hermes-agent/pull/97186">PR #97186</a> (browser PATH), <a href="https://github.com/NousResearch/hermes-agent/pull/97235">PR #97235</a> (Win10 Electron launch).</li>
-</ol>
-<h2>6. Feature Requests &amp; Roadmap Signals</h2>
-<ul>
-<li><strong>Mistral provider</strong> (<a href="https://github.com/NousResearch/hermes-agent/issues/20859">#20859</a>, 👍27) — most likely next provider addition given existing voice integration.</li>
-<li><strong>Lower minimum context_length</strong> (<a href="https://github.com/NousResearch/hermes-agent/issues/53347">#53347</a>) — warn instead of hard 64K failure; enables low-RAM local Ollama setups.</li>
-<li><strong>Unified slash-command registry</strong> (<a href="https://github.com/NousResearch/hermes-agent/issues/96692">#96692</a>) — architectural consolidation candidate for an upcoming minor release.</li>
-<li><strong>In-flight features likely landing soon</strong>: one-click managed llama.cpp local runtime (<a href="https://github.com/NousResearch/hermes-agent/pull/85852">PR #85852</a>), task-scoped async delegation closeout (<a href="https://github.com/NousResearch/hermes-agent/pull/97039">PR #97039</a>), global cross-profile memory policy (<a href="https://github.com/NousResearch/hermes-agent/pull/97231">PR #97231</a>), read_file schema-diet/token optimization (<a href="https://github.com/NousResearch/hermes-agent/pull/97195">PR #97195</a>).</li>
-</ul>
-<h2>7. User Feedback Summary</h2>
-<ul>
-<li><strong>Use case diversity is growing</strong>: Telegram gateway multiplexing with profiles, SSH-remote backends from macOS to Windows, bot-mode shared rooms, cron-driven Slack reports — Hermes is being used as serious personal infrastructure, not a toy.</li>
-<li><strong>Top pain points</strong>: (1) <strong>update/install reliability</strong> — repeated stale-code, launcher, and Windows SCM failures erode trust in <code>hermes update</code>; (2) <strong>Windows as first-class platform</strong> still lags (PATH, services, desktop entry symlinks); (3) <strong>cost/transparency</strong> — prefix-cache misses (#96570) directly hit users&#39; API bills; (4) <strong>durability</strong> — orphaned async delegations with no retry feel like silent data loss.</li>
-<li><strong>Positives</strong>: the completed 29-PR desktop campaign and same-day fixes for freshly reported bugs (multiple issues filed and PRs opened on 8/28) reflect strong maintainer responsiveness.</li>
-</ul>
-<h2>8. Backlog Watch</h2>
-<ul>
-<li><strong><a href="https://github.com/NousResearch/hermes-agent/issues/20859">#20859</a></strong> — Mistral provider: 3.5+ months old, highest 👍 count (27), <code>needs-decision</code> label; overdue for a maintainer ruling.</li>
-<li><strong><a href="https://github.com/NousResearch/hermes-agent/issues/48820">#48820</a></strong> — Windows gateway fragility trio: open since June, still P1; fixes partially landed but issue remains open.</li>
-<li><strong><a href="https://github.com/NousResearch/hermes-agent/issues/66887">#66887</a></strong> — Profile state isolation: open since July, P1 with 12 comments, no fix PR — a privacy-adjacent issue that shouldn&#39;t linger.</li>
-<li><strong><a href="https://github.com/NousResearch/hermes-agent/issues/60323">#60323</a></strong> — macOS boot timeout: open since early July, blocks desktop adoption on macOS.</li>
-<li><strong><a href="https://github.com/NousResearch/hermes-agent/pull/68499">#68499</a></strong> — Delegation lifecycle/outcome separation: open since July 21, P2, tagged blast-broad — needs review priority given delegation bugs keep recurring (#97202, #97234).</li>
-<li><strong><a href="https://github.com/NousResearch/hermes-agent/issues/68033">#68033</a></strong> — Built-in file tools timing out at 420s vs. instant shell <code>rg</code>: regression dating to a July update, still <code>needs-repro</code> — deserves dedicated triage.</li>
-</ul>
-<p><strong>Health verdict:</strong> Active and responsive, but Windows platform hardening and session-state/cache correctness should be the next consolidated campaign targets.</p>
-</details>
-
-<details>
-<summary><strong>IronClaw</strong> — <a href="https://github.com/nearai/ironclaw">nearai/ironclaw</a></summary>
-
-<p>⚠️ 摘要生成失败。</p>
-</details>
-
-<details>
-<summary><strong>QwenPaw</strong> — <a href="https://github.com/agentscope-ai/QwenPaw">agentscope-ai/QwenPaw</a></summary>
-
-<p>⚠️ 摘要生成失败。</p>
-</details>
-
-<details>
-<summary><strong>ZeroClaw</strong> — <a href="https://github.com/zeroclaw-labs/zeroclaw">zeroclaw-labs/zeroclaw</a></summary>
-
-<p>⚠️ 摘要生成失败。</p>
-</details>
-
-<hr>
-<p><em>本日报由 <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a> 自动生成。</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>AI Agents Ecosystem Digest 2026-08-28</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-08-28/ai-agents-en</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-08-28/ai-agents-en</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <description>OpenClaw Ecosystem Digest 2026-08-28 Issues: 500 | PRs: 500 | Projects covered: 5 | Generated: 2026-08-28 15:10 UTC OpenClaw Hermes Agent IronClaw QwenPaw ZeroClaw OpenClaw Deep Dive ⚠️ Summary generation failed. Cross-Ecosystem Comparison Cross-Project Comparison Report — Personal AI Assistant / Agent Ecosystem Date: 2026-08-28 · Scope: OpenClaw, Hermes Agent, IronClaw, QwenPaw, ZeroClaw ⚠️ Data availability note: Daily digest generation failed for OpenClaw, IronClaw, QwenPaw, and ZeroClaw. Onl...</description>
-      <content:encoded><![CDATA[<h1>OpenClaw Ecosystem Digest 2026-08-28</h1>
-<blockquote>
-<p>Issues: 500 | PRs: 500 | Projects covered: 5 | Generated: 2026-08-28 15:10 UTC</p>
-</blockquote>
-<ul>
-<li><a href="https://github.com/openclaw/openclaw">OpenClaw</a></li>
-<li><a href="https://github.com/nousresearch/hermes-agent">Hermes Agent</a></li>
-<li><a href="https://github.com/nearai/ironclaw">IronClaw</a></li>
-<li><a href="https://github.com/agentscope-ai/QwenPaw">QwenPaw</a></li>
-<li><a href="https://github.com/zeroclaw-labs/zeroclaw">ZeroClaw</a></li>
-</ul>
-<hr>
-<h2>OpenClaw Deep Dive</h2>
-<p>⚠️ Summary generation failed.</p>
-<hr>
-<h2>Cross-Ecosystem Comparison</h2>
-<h1>Cross-Project Comparison Report — Personal AI Assistant / Agent Ecosystem</h1>
-<p><strong>Date:</strong> 2026-08-28 · <strong>Scope:</strong> OpenClaw, Hermes Agent, IronClaw, QwenPaw, ZeroClaw</p>
-<blockquote>
-<p>⚠️ <strong>Data availability note:</strong> Daily digest generation failed for OpenClaw, IronClaw, QwenPaw, and ZeroClaw. Only <strong>Hermes Agent</strong> has a usable summary today. Sections 2–3 below therefore combine the single verified dataset with explicit gaps. Cross-project claims are limited to avoid unfounded inference.</p>
-</blockquote>
-<hr>
-<h2>1. Ecosystem Overview</h2>
-<p>The open-source personal AI assistant space in late August 2026 is defined by a shift from &quot;chatbot wrappers&quot; toward <strong>persistent personal infrastructure</strong>: gateways (Telegram/Slack), multi-profile isolation, local model runtimes, and scheduled delegation are now table stakes. Hermes Agent&#39;s digest reflects a project scaling through rapid-issue-intake (50 issues + 50 PRs/24h) with disciplined campaign-style maintenance. The dominant engineering battlegrounds are <strong>Windows platform parity</strong>, <strong>session-state/prefix-cache correctness</strong> (direct cost impact), and <strong>delegation durability</strong> — themes likely echoed across peer projects given shared architectural patterns in this ecosystem. The space&#39;s maturation is visible in user expectations: reliability of updates, privacy isolation, and API-cost transparency now outweigh raw feature velocity.</p>
-<h2>2. Activity Comparison</h2>
-<table>
-<thead>
-<tr>
-<th>Project</th>
-<th>Issues (24h)</th>
-<th>PRs (24h)</th>
-<th>PR Throughput</th>
-<th>Releases (24h)</th>
-<th>Health</th>
-<th>Data Status</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>Hermes Agent</strong></td>
-<td>50</td>
-<td>50</td>
-<td>28% (14/50 closed)</td>
-<td>None</td>
-<td>Active / responsive; hotspots: Windows, session-state</td>
-<td>✅ Verified</td>
-</tr>
-<tr>
-<td>OpenClaw</td>
-<td>—</td>
-<td>—</td>
-<td>—</td>
-<td>—</td>
-<td>—</td>
-<td>❌ Digest failed</td>
-</tr>
-<tr>
-<td>IronClaw</td>
-<td>—</td>
-<td>—</td>
-<td>—</td>
-<td>—</td>
-<td>—</td>
-<td>❌ Digest failed</td>
-</tr>
-<tr>
-<td>QwenPaw</td>
-<td>—</td>
-<td>—</td>
-<td>—</td>
-<td>—</td>
-<td>—</td>
-<td>❌ Digest failed</td>
-</tr>
-<tr>
-<td>ZeroClaw</td>
-<td>—</td>
-<td>—</td>
-<td>—</td>
-<td>—</td>
-<td>—</td>
-<td>❌ Digest failed</td>
-</tr>
-</tbody></table>
-<p><strong>Recommendation:</strong> Re-run digest generation for the four failed projects before drawing rankings; today&#39;s report should not be used for comparative benchmarking.</p>
-<h2>3. OpenClaw&#39;s Position</h2>
-<p>No summary data available for 2026-08-28; OpenClaw&#39;s relative advantages, technical approach, and community size cannot be assessed from today&#39;s digest. As the designated &quot;core reference&quot; project of this ecosystem, it merits priority re-evaluation once data is restored.</p>
-<h2>4. Shared Technical Focus Areas</h2>
-<p>Cross-project confirmation is impossible today, but Hermes&#39;s data reveals ecosystem-level requirements worth monitoring in peer projects:</p>
-<ul>
-<li><strong>Update/install reliability</strong> (Hermes) — stale-code skew post-update (systemd dashboards 500s, SSH backends stale) and Windows SCM-service aborts; any agent with self-update mechanics faces this class of failure.</li>
-<li><strong>Session-state &amp; cache correctness</strong> (Hermes) — <code>null</code> system prompts defeating prefix caching (P0 #96570) shows state management directly affects user API spend; cross-profile leakage (#66887) is privacy-adjacent.</li>
-<li><strong>Provider expansion &amp; local runtimes</strong> (Hermes) — Mistral provider demand (👍27) and a managed llama.cpp runtime signal the &quot;any model, local-first&quot; expectation.</li>
-<li><strong>Cross-surface consistency</strong> (Hermes) — unified slash-command registry across CLI/TUI/gateway/desktop.</li>
-</ul>
-<h2>5. Differentiation Analysis</h2>
-<p>With only one dataset, differentiation cannot be empirically stated. Hermes Agent&#39;s observable profile: <strong>gateway-centric personal-assistant architecture</strong> (multiplexed gateways, profiles, Telegram/Slack/cron/SSH), aggressive feature velocity balanced by campaign-driven stabilization. Peer differentiation TBD.</p>
-<h2>6. Community Momentum &amp; Maturity</h2>
-<ul>
-<li><strong>Hermes Agent — &quot;rapid iteration + active stabilization.&quot;</strong> Very high intake (50/50) with 28% throughput, no releases (all work on main), completed 29-PR Desktop multi-gateway campaign, same-day fixes for same-day reports. Maturity signal: disciplined campaign maintenance, but a Windows/install bug backlog indicates the platform-hardening phase is unfinished.</li>
-<li><strong>OpenClaw, IronClaw, QwenPaw, ZeroClaw — unclassified</strong> pending data recovery.</li>
-</ul>
-<h2>7. Trend Signals</h2>
-<p>Extractable trends relevant to agent developers (Hermes-verified):</p>
-<ol>
-<li><strong>Cost transparency is a product feature.</strong> A single cache-affinity bug (#96570) silently inflated user API bills to P0 severity — prefix-cache correctness is now an SLA concern, not an optimization.</li>
-<li><strong>Windows is no longer optional.</strong> PATH, SCM services, Electron launch, symlinks — Windows parity bugs dominate the backlog; &quot;macOS/Linux-first&quot; agents are losing trust with a large user segment.</li>
-<li><strong>Async delegation needs durability semantics.</strong> Orphaned in-flight tasks with no retry/surfacing &quot;feel like silent data loss&quot; — agents require job-lifecycle management akin to workflow engines.</li>
-<li><strong>Multi-profile isolation = privacy requirement.</strong> State leakage across profiles (#66887) is the personal-assistant analog of multi-tenancy isolation; expect it as a baseline expectation.</li>
-<li><strong>Local + heterogeneous model support drives engagement.</strong> Demand for Mistral, relaxed context minimums for low-RAM Ollama, and managed llama.cpp confirm local-first flexibility as a primary adoption driver.</li>
-<li><strong>Users deploy agents as infrastructure, not toys.</strong> SSH-remote backends, cron reports, multiplexed messaging — reliability engineering (watchdogs, update verification) is becoming the differentiator over raw capability.</li>
-</ol>
-<hr>
-<p><strong>Action items for the analyst pipeline:</strong> (1) investigate digest-generation failures for the four other projects; (2) re-issue this comparison once data is available; (3) monitor Hermes P0 #96570 fix (PR #97158) as a leading indicator of session-state engineering maturity across the ecosystem.</p>
-<hr>
-<h2>Peer Project Reports</h2>
-<details>
-<summary><strong>Hermes Agent</strong> — <a href="https://github.com/nousresearch/hermes-agent">nousresearch/hermes-agent</a></summary>
-
-<h1>Hermes Agent Project Digest — 2026-08-28</h1>
-<h2>1. Today&#39;s Overview</h2>
-<p>Hermes Agent shows <strong>very high activity</strong> with 50 issues and 50 PRs updated in the last 24 hours, though only 14 of 50 PRs reached merged/closed state (28% throughput). No new releases shipped today, so all work landed on the main development line. The project is in an active stabilization phase: a large wave of issues created on 2026-08-28 itself (PRs/issues numbered 96,xxx–97,xxx) indicates rapid issue intake, with strong maintainer-driven campaigns (e.g., the 29-PR Desktop multi-gateway campaign closing out). Dominant themes today are <strong>Windows platform fragility</strong>, <strong>session-state/prefix-cache correctness</strong>, and <strong>delegation durability</strong>. Overall health is good but the bug backlog in Windows/install-update paths is clearly a hotspot.</p>
-<h2>2. Releases</h2>
-<p>No new releases in the last 24 hours. <em>(Omitted per policy.)</em></p>
-<h2>3. Project Progress</h2>
-<ul>
-<li><strong>14 of 50 PRs merged/closed today.</strong> Notable completions:<ul>
-<li><a href="https://github.com/NousResearch/hermes-agent/pull/96862">#96862</a> (CLOSED) — <strong>fix(gateway): skip paused/non-running SCM services instead of aborting update</strong> — directly addresses the Windows update blocker <a href="https://github.com/NousResearch/hermes-agent/issues/96360">#96360</a>/<a href="https://github.com/NousResearch/hermes-agent/issues/96860">#96860</a> (a follow-up duplicate PR <a href="https://github.com/NousResearch/hermes-agent/pull/97238">#97238</a> also appeared).</li>
-<li><strong>Issue #94724</strong> (CLOSED) — Desktop persistent multi-gateway connections campaign declared complete: <strong>29 PRs merged</strong>, 2 same-day regressions fixed, all salvage clusters shipped.</li>
-<li><strong>#24328</strong> (CLOSED) — Tool-message orphaning after message drops causing Moonshot/Kimi 400 errors.</li>
-<li><strong>#94704</strong> (CLOSED, duplicate) — Pre-call sanitizer accepting historical tool results for DeepSeek replay; fix in flight via <a href="https://github.com/NousResearch/hermes-agent/pull/97241">PR #97241</a>.</li>
-<li><strong>#93718</strong> (CLOSED) — Local profile not remembered when switching back from a remote Desktop connection.</li>
-<li><strong>#58357</strong> (CLOSED) — Consolidation of <code>_sanitize_tool_pairs</code> into canonical agent runtime sanitizers.</li>
-</ul>
-</li>
-<li>Active feature engineering: managed llama.cpp local runtime (<a href="https://github.com/NousResearch/hermes-agent/pull/85852">PR #85852</a>), task-scoped async delegation closeout (<a href="https://github.com/NousResearch/hermes-agent/pull/97039">PR #97039</a>), and cross-profile global memory policy (<a href="https://github.com/NousResearch/hermes-agent/pull/97231">PR #97231</a>).</li>
-</ul>
-<h2>4. Community Hot Topics</h2>
-<ul>
-<li><strong><a href="https://github.com/NousResearch/hermes-agent/issues/20859">#20859</a> — Mistral as LLM provider</strong> (13 comments, 👍27, open since May). The highest-engagement item; users want native Mistral LLM support since voice models are already integrated. Signals broad provider-expansion demand.</li>
-<li><strong><a href="https://github.com/NousResearch/hermes-agent/issues/94724">#94724</a> — Desktop multi-gateway campaign tracker</strong> (12 comments) — now closed as complete; showcases an unusually disciplined, campaign-style maintenance workflow.</li>
-<li><strong><a href="https://github.com/NousResearch/hermes-agent/issues/66887">#66887</a> — Multiplexed gateway: secondary-profile Telegram sessions persist in default profile&#39;s state.db</strong> (12 comments, P1). Users running multi-profile gateways need strict config/memory/storage isolation — a correctness/scope-leak issue central to the &quot;personal assistant&quot; use case.</li>
-<li><strong><a href="https://github.com/NousResearch/hermes-agent/issues/60323">#60323</a> — macOS backend misses <code>HERMES_BACKEND_READY</code> and times out</strong> (12 comments, P1). Desktop boot reliability on macOS.</li>
-<li><strong><a href="https://github.com/NousResearch/hermes-agent/issues/96692">#96692</a> — Unified slash-command registry</strong> (7 comments, filed 8/27). Architectural proposal for one versioned command catalog across CLI/TUI/gateway/desktop — signals the community wants cross-surface consistency.</li>
-</ul>
-<h2>5. Bugs &amp; Stability (ranked by severity)</h2>
-<ol>
-<li><strong>P0 — <a href="https://github.com/NousResearch/hermes-agent/issues/96570">#96570</a></strong>: Group-chat sessions store <code>null</code> system prompt every turn → prefix cache always misses (cost impact). Fix path exists: <a href="https://github.com/NousResearch/hermes-agent/pull/97158">PR #97158</a> (P0 cache affinity-key fix). <strong>Highest priority.</strong></li>
-<li><strong>P1 — <a href="https://github.com/NousResearch/hermes-agent/issues/66887">#66887</a></strong>: Cross-profile session-state leakage in multiplexed gateways (privacy/isolation). No fix PR visible.</li>
-<li><strong>P1 — <a href="https://github.com/NousResearch/hermes-agent/issues/60323">#60323</a></strong>: macOS backend-ready race causing desktop boot timeout. No fix PR visible.</li>
-<li><strong>P1 — <a href="https://github.com/NousResearch/hermes-agent/issues/48820">#48820</a></strong>: Windows gateway 3-fragility cluster (no watchdog, env override, aiohttp trust_env). Partially addressed by <a href="https://github.com/NousResearch/hermes-agent/pull/97237">PR #97237</a> (relaunch verification) and closed PR #96862.</li>
-<li><strong>P1 — <a href="https://github.com/NousResearch/hermes-agent/issues/96360">#96360</a></strong> / dup <a href="https://github.com/NousResearch/hermes-agent/issues/96860">#96860</a>: Windows update aborts on any non-running SCM service — fix merged today (#96862).</li>
-<li><strong>P2 — <a href="https://github.com/NousResearch/hermes-agent/issues/92244">#92244</a></strong>: <code>/model</code> picker blocks 25–50s due to serial pricing fetches (perf).</li>
-<li><strong>P2 — <a href="https://github.com/NousResearch/hermes-agent/issues/86207">#86207</a></strong> / <a href="https://github.com/NousResearch/hermes-agent/issues/97046">#97046</a>: post-update stale code-skew (systemd dashboard 500s; SSH backends stale). Fix in <a href="https://github.com/NousResearch/hermes-agent/pull/97062">PR #97062</a>.</li>
-<li><strong>P2 — <a href="https://github.com/NousResearch/hermes-agent/issues/94921">#94921</a></strong>: Ghostty terminal Shift+letter key regression leaking raw escape sequences.</li>
-<li><strong>P2 — <a href="https://github.com/NousResearch/hermes-agent/issues/97202">#97202</a></strong>: Renderer reload orphans in-flight async delegations; no retry/surfacing. Related work: <a href="https://github.com/NousResearch/hermes-agent/pull/97234">PR #97234</a>, <a href="https://github.com/NousResearch/hermes-agent/pull/68499">PR #68499</a>.</li>
-<li><strong>P2 — <a href="https://github.com/NousResearch/hermes-agent/issues/97230">#97230</a></strong>: cron duplicates messages after ambiguous adapter writes.</li>
-<li>Notable new Windows fixes opened today: <a href="https://github.com/NousResearch/hermes-agent/pull/97186">PR #97186</a> (browser PATH), <a href="https://github.com/NousResearch/hermes-agent/pull/97235">PR #97235</a> (Win10 Electron launch).</li>
-</ol>
-<h2>6. Feature Requests &amp; Roadmap Signals</h2>
-<ul>
-<li><strong>Mistral provider</strong> (<a href="https://github.com/NousResearch/hermes-agent/issues/20859">#20859</a>, 👍27) — most likely next provider addition given existing voice integration.</li>
-<li><strong>Lower minimum context_length</strong> (<a href="https://github.com/NousResearch/hermes-agent/issues/53347">#53347</a>) — warn instead of hard 64K failure; enables low-RAM local Ollama setups.</li>
-<li><strong>Unified slash-command registry</strong> (<a href="https://github.com/NousResearch/hermes-agent/issues/96692">#96692</a>) — architectural consolidation candidate for an upcoming minor release.</li>
-<li><strong>In-flight features likely landing soon</strong>: one-click managed llama.cpp local runtime (<a href="https://github.com/NousResearch/hermes-agent/pull/85852">PR #85852</a>), task-scoped async delegation closeout (<a href="https://github.com/NousResearch/hermes-agent/pull/97039">PR #97039</a>), global cross-profile memory policy (<a href="https://github.com/NousResearch/hermes-agent/pull/97231">PR #97231</a>), read_file schema-diet/token optimization (<a href="https://github.com/NousResearch/hermes-agent/pull/97195">PR #97195</a>).</li>
-</ul>
-<h2>7. User Feedback Summary</h2>
-<ul>
-<li><strong>Use case diversity is growing</strong>: Telegram gateway multiplexing with profiles, SSH-remote backends from macOS to Windows, bot-mode shared rooms, cron-driven Slack reports — Hermes is being used as serious personal infrastructure, not a toy.</li>
-<li><strong>Top pain points</strong>: (1) <strong>update/install reliability</strong> — repeated stale-code, launcher, and Windows SCM failures erode trust in <code>hermes update</code>; (2) <strong>Windows as first-class platform</strong> still lags (PATH, services, desktop entry symlinks); (3) <strong>cost/transparency</strong> — prefix-cache misses (#96570) directly hit users&#39; API bills; (4) <strong>durability</strong> — orphaned async delegations with no retry feel like silent data loss.</li>
-<li><strong>Positives</strong>: the completed 29-PR desktop campaign and same-day fixes for freshly reported bugs (multiple issues filed and PRs opened on 8/28) reflect strong maintainer responsiveness.</li>
-</ul>
-<h2>8. Backlog Watch</h2>
-<ul>
-<li><strong><a href="https://github.com/NousResearch/hermes-agent/issues/20859">#20859</a></strong> — Mistral provider: 3.5+ months old, highest 👍 count (27), <code>needs-decision</code> label; overdue for a maintainer ruling.</li>
-<li><strong><a href="https://github.com/NousResearch/hermes-agent/issues/48820">#48820</a></strong> — Windows gateway fragility trio: open since June, still P1; fixes partially landed but issue remains open.</li>
-<li><strong><a href="https://github.com/NousResearch/hermes-agent/issues/66887">#66887</a></strong> — Profile state isolation: open since July, P1 with 12 comments, no fix PR — a privacy-adjacent issue that shouldn&#39;t linger.</li>
-<li><strong><a href="https://github.com/NousResearch/hermes-agent/issues/60323">#60323</a></strong> — macOS boot timeout: open since early July, blocks desktop adoption on macOS.</li>
-<li><strong><a href="https://github.com/NousResearch/hermes-agent/pull/68499">#68499</a></strong> — Delegation lifecycle/outcome separation: open since July 21, P2, tagged blast-broad — needs review priority given delegation bugs keep recurring (#97202, #97234).</li>
-<li><strong><a href="https://github.com/NousResearch/hermes-agent/issues/68033">#68033</a></strong> — Built-in file tools timing out at 420s vs. instant shell <code>rg</code>: regression dating to a July update, still <code>needs-repro</code> — deserves dedicated triage.</li>
-</ul>
-<p><strong>Health verdict:</strong> Active and responsive, but Windows platform hardening and session-state/cache correctness should be the next consolidated campaign targets.</p>
-</details>
-
-<details>
-<summary><strong>IronClaw</strong> — <a href="https://github.com/nearai/ironclaw">nearai/ironclaw</a></summary>
-
-<p>⚠️ Summary generation failed.</p>
-</details>
-
-<details>
-<summary><strong>QwenPaw</strong> — <a href="https://github.com/agentscope-ai/QwenPaw">agentscope-ai/QwenPaw</a></summary>
-
-<p>⚠️ Summary generation failed.</p>
-</details>
-
-<details>
-<summary><strong>ZeroClaw</strong> — <a href="https://github.com/zeroclaw-labs/zeroclaw">zeroclaw-labs/zeroclaw</a></summary>
-
-<p>⚠️ Summary generation failed.</p>
-</details>
-
-<hr>
-<p><em>This digest is auto-generated by <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a>.</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>AI 基础设施日报 2026-08-28</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-08-28/ai-infra</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-08-28/ai-infra</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <description>AI 基础设施日报 2026-08-28 生成时间: 2026-08-28 15:10 UTC | 覆盖项目: 6 个 vLLM SGLang llama.cpp Ollama LiteLLM Unsloth 横向对比 跨项目 AI 基础设施摘要 — 2026-08-28 数据告警： 今日摘要的所有自动化总结生成均已失败（见上方 ⚠️ 标记）。因此本报告中无法提供定量指标（issue/PR 数量、发布状态）。以下分析为定性分析，基于分析师截至报告日期对该生态系统的结构性认知。通常引用数字之处均标注为 N/A。 1. 生态系统概览 2026 年年中的 AI 推理基础设施技术栈已成熟为层次分明的几个层级：高吞吐服务引擎（vLLM、SGLang）、消费级本地运行时（llama.cpp、Ollama）、统一 LLM 网关（LiteLLM）以及微调框架（Unsloth）。服务层的竞争在长上下文工作负载和智能体流量模式上愈演愈烈，这类负载对 KV-cache 管理和多轮解码效率的压力远超传统聊天场景。本地运行时细分领域则持续乘着开放权重前沿级模型（Llama、Qwen、DeepSeek、Gemma...</description>
-      <content:encoded><![CDATA[<h1>AI 基础设施日报 2026-08-28</h1>
-<blockquote>
-<p>生成时间: 2026-08-28 15:10 UTC | 覆盖项目: 6 个</p>
-</blockquote>
-<ul>
-<li><a href="https://github.com/vllm-project/vllm">vLLM</a></li>
-<li><a href="https://github.com/sgl-project/sglang">SGLang</a></li>
-<li><a href="https://github.com/ggml-org/llama.cpp">llama.cpp</a></li>
-<li><a href="https://github.com/ollama/ollama">Ollama</a></li>
-<li><a href="https://github.com/BerriAI/litellm">LiteLLM</a></li>
-<li><a href="https://github.com/unslothai/unsloth">Unsloth</a></li>
-</ul>
-<hr>
-<h2>横向对比</h2>
-<h1>跨项目 AI 基础设施摘要 — 2026-08-28</h1>
-<blockquote>
-<p><strong>数据告警：</strong> 今日摘要的所有自动化总结生成均已失败（见上方 ⚠️ 标记）。因此本报告中无法提供定量指标（issue/PR 数量、发布状态）。以下分析为定性分析，基于分析师截至报告日期对该生态系统的结构性认知。通常引用数字之处均标注为 N/A。</p>
-</blockquote>
-<hr>
-<h2>1. 生态系统概览</h2>
-<p>2026 年年中的 AI 推理基础设施技术栈已成熟为层次分明的几个层级：高吞吐服务引擎（vLLM、SGLang）、消费级本地运行时（llama.cpp、Ollama）、统一 LLM 网关（LiteLLM）以及微调框架（Unsloth）。服务层的竞争在长上下文工作负载和智能体流量模式上愈演愈烈，这类负载对 KV-cache 管理和多轮解码效率的压力远超传统聊天场景。本地运行时细分领域则持续乘着开放权重前沿级模型（Llama、Qwen、DeepSeek、Gemma 系列家族）的浪潮，推动了快速量化与硬件可移植性方面的工作。与此同时，智能体走向生产环境意味着 LiteLLM 这类网关越来越多地被视为关键控制平面——承担可观测性、故障回退和预算管控职能——而非简单的代理。</p>
-<hr>
-<h2>2. 活跃度对比</h2>
-<table>
-<thead>
-<tr>
-<th>项目</th>
-<th>Issue（24 小时）</th>
-<th>PR（24 小时）</th>
-<th>发布状态</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>vLLM</td>
-<td>N/A（生成失败）</td>
-<td>N/A</td>
-<td>N/A</td>
-</tr>
-<tr>
-<td>SGLang</td>
-<td>N/A</td>
-<td>N/A</td>
-<td>N/A</td>
-</tr>
-<tr>
-<td>llama.cpp</td>
-<td>N/A</td>
-<td>N/A</td>
-<td>N/A</td>
-</tr>
-<tr>
-<td>Ollama</td>
-<td>N/A</td>
-<td>N/A</td>
-<td>N/A</td>
-</tr>
-<tr>
-<td>LiteLLM</td>
-<td>N/A</td>
-<td>N/A</td>
-<td>N/A</td>
-</tr>
-<tr>
-<td>Unsloth</td>
-<td>N/A</td>
-<td>N/A</td>
-<td>N/A</td>
-</tr>
-</tbody></table>
-<p><em>建议在基于活跃度差异数据做决策之前重新生成摘要。从历史数据看，llama.cpp 和 vLLM 的原始 PR 数量领先；Ollama 和 LiteLLM 的 issue 数量领先。</em></p>
-<hr>
-<h2>3. 模型支持竞赛</h2>
-<p><strong>典型模式（基于历史节奏，今日确认数据尚待获取）：</strong></p>
-<ul>
-<li><strong>llama.cpp / Ollama</strong> 是新开放权重模型发布的第一响应者——GGUF 转换、分词器修复以及架构支持（例如滑动窗口/混合模式等新注意力变体）通常在模型发布后数天内落地。它们在<em>消费端可及架构的广度</em>上领先。</li>
-<li><strong>vLLM 和 SGLang</strong> 在数天至数周内跟进，提供完整的服务级支持——面向新架构（DeepSeek 式 MLA、Qwen MoE 变体等）的正确批处理、前缀缓存和 CUDA-graph 兼容性。它们在<em>生产可用支持</em>上领先。</li>
-<li><strong>Unsloth</strong> 聚焦可微调性：只有在 LoRA/QLoRA 补丁和量化训练支持落地后，新模型才对其用户有用。</li>
-</ul>
-<p><strong>结论：</strong> 虽然缺少今日数据，但结构性结论依然成立——llama.cpp 在 day-0 可用性上胜出；vLLM/SGLang 在 day-30 生产就绪度上胜出。</p>
-<hr>
-<h2>4. 性能前沿</h2>
-<p>整个生态系统的优化工作集中在五个方向：</p>
-<ol>
-<li><strong>KV cache 管理</strong> — 前缀/前缀感知缓存（SGLang 的 RadixAttention 谱系、vLLM 的 APC）、KV-cache 卸载到 CPU/SSD 以及多级缓存是主要战场，原因在于智能体多轮流量的兴起。</li>
-<li><strong>连续批处理与调度</strong> — chunked prefill、分离式 prefill/decode，以及面向混合工作负载的优先级感知调度。</li>
-<li><strong>量化</strong> — FP8/INT4 推理服务（GPTQ、AWQ、GGUF K-quants），以及 W4A8/FP8 KV cache；llama.cpp 和 Unsloth 将低位宽量化推向消费级 GPU 和 Apple Silicon。</li>
-<li><strong>内核与硬件广度</strong> — FlashAttention 变体、融合 MoE 内核、CUDA-graph 捕获，以及不断扩展的非 NVIDIA 后端（ROCm、Metal、CPU、TPU/Intel 方向）。</li>
-<li><strong>分布式推理服务</strong> — 张量/流水线并行的成熟、数据并行的 radix-cache 共享，以及多节点 MoE 服务。</li>
-</ol>
-<hr>
-<h2>5. 层级定位</h2>
-<table>
-<thead>
-<tr>
-<th>层级</th>
-<th>项目</th>
-<th>角色</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>服务引擎（数据中心）</strong></td>
-<td>vLLM, SGLang</td>
-<td>基于 PagedAttention/radix-cache 的高吞吐 OpenAI 兼容服务；生产 API 背后的计算骨干</td>
-</tr>
-<tr>
-<td><strong>本地运行时（边缘/客户端）</strong></td>
-<td>llama.cpp, Ollama</td>
-<td>设备端推理、量化 GGUF 执行、零运维体验（Ollama 通过模型仓库和 CLI 封装 llama.cpp）</td>
-</tr>
-<tr>
-<td><strong>网关 / 控制平面</strong></td>
-<td>LiteLLM</td>
-<td>跨提供商统一 API、路由、故障回退、速率限制、成本追踪、可观测性</td>
-</tr>
-<tr>
-<td><strong>训练 / 微调</strong></td>
-<td>Unsloth</td>
-<td>内存高效的 LoRA/QLoRA 微调，在单张消费级 GPU 上进行量化训练</td>
-</tr>
-</tbody></table>
-<p>这些层级是互补关系，并非直接竞争——除了接缝处：llama.cpp 的 server 模式日益与 vLLM 的低端定位重叠，而网关也越来越多地内嵌触及服务决策的缓存/路由逻辑。</p>
-<hr>
-<h2>6. 趋势信号</h2>
-<ol>
-<li><strong>智能体工作负载正在重塑推理服务的优先级。</strong> 长上下文、重复前缀和大量工具调用解码模式，使 KV-cache 复用与调度智能成为最主要的差异化因素。智能体开发者应优先选择拥有成熟前缀缓存的引擎（SGLang/vLLM）。</li>
-<li><strong>开放权重模型的发布速度是整个生态的节奏设定者。</strong> 每次重要的开放权重模型发布都会引发所有四个层级间的支持竞赛；基础设施团队应预留约每周一次的集成适配成本。</li>
-<li><strong>量化如今已成为推理服务的功能特性，而不仅是省内存的技巧。</strong> FP8/W4A8 推理服务正在成为数据中心边缘单位美元吞吐量的基本门槛。</li>
-<li><strong>网关正在演变为治理层。</strong> 随着多模型路由成为标配，LiteLLM 式网关正在吸收可观测性、预算和合规职能——智能体平台团队应将网关视为一等架构组件。</li>
-<li><strong>边缘—数据中心融合。</strong> GGUF 运行时不断获得服务端特性，服务引擎的单 GPU 效率不断提升，这意味着部署边界正在模糊；值得关注的混合拓扑（边缘预处理、云端推理）。</li>
-</ol>
-<p><strong>⚠️ 建议：</strong> 在对外传播本报告之前，请重新生成今日各项目的摘要，以恢复定量数据支撑。</p>
-<hr>
-<hr>
-<h2>各项目详细报告</h2>
-<details>
-<summary><strong>vLLM</strong> — <a href="https://github.com/vllm-project/vllm">vllm-project/vllm</a></summary>
-
-<p>⚠️ 摘要生成失败。</p>
-</details>
-
-<details>
-<summary><strong>SGLang</strong> — <a href="https://github.com/sgl-project/sglang">sgl-project/sglang</a></summary>
-
-<p>⚠️ 摘要生成失败。</p>
-</details>
-
-<details>
-<summary><strong>llama.cpp</strong> — <a href="https://github.com/ggml-org/llama.cpp">ggml-org/llama.cpp</a></summary>
-
-<p>⚠️ 摘要生成失败。</p>
-</details>
-
-<details>
-<summary><strong>Ollama</strong> — <a href="https://github.com/ollama/ollama">ollama/ollama</a></summary>
-
-<p>⚠️ 摘要生成失败。</p>
-</details>
-
-<details>
-<summary><strong>LiteLLM</strong> — <a href="https://github.com/BerriAI/litellm">BerriAI/litellm</a></summary>
-
-<p>⚠️ 摘要生成失败。</p>
-</details>
-
-<details>
-<summary><strong>Unsloth</strong> — <a href="https://github.com/unslothai/unsloth">unslothai/unsloth</a></summary>
-
-<p>⚠️ 摘要生成失败。</p>
-</details>
-
-<hr>
-<p><em>本日报由 <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a> 自动生成。</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>AI Infrastructure Digest 2026-08-28</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-08-28/ai-infra-en</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-08-28/ai-infra-en</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <description>AI Infrastructure Digest 2026-08-28 Generated: 2026-08-28 15:10 UTC | Projects covered: 6 vLLM SGLang llama.cpp Ollama LiteLLM Unsloth Cross-Project Comparison Cross-Project AI Infrastructure Digest — 2026-08-28 Data caveat: All automated summary generation for today&amp;#39;s digest failed (see ⚠️ markers above). Quantitative metrics (issue/PR counts, release status) are therefore unavailable in this report. The analysis below is qualitative, based on the analyst&amp;#39;s structural knowledge of the e...</description>
-      <content:encoded><![CDATA[<h1>AI Infrastructure Digest 2026-08-28</h1>
-<blockquote>
-<p>Generated: 2026-08-28 15:10 UTC | Projects covered: 6</p>
-</blockquote>
-<ul>
-<li><a href="https://github.com/vllm-project/vllm">vLLM</a></li>
-<li><a href="https://github.com/sgl-project/sglang">SGLang</a></li>
-<li><a href="https://github.com/ggml-org/llama.cpp">llama.cpp</a></li>
-<li><a href="https://github.com/ollama/ollama">Ollama</a></li>
-<li><a href="https://github.com/BerriAI/litellm">LiteLLM</a></li>
-<li><a href="https://github.com/unslothai/unsloth">Unsloth</a></li>
-</ul>
-<hr>
-<h2>Cross-Project Comparison</h2>
-<h1>Cross-Project AI Infrastructure Digest — 2026-08-28</h1>
-<blockquote>
-<p><strong>Data caveat:</strong> All automated summary generation for today&#39;s digest failed (see ⚠️ markers above). Quantitative metrics (issue/PR counts, release status) are therefore unavailable in this report. The analysis below is qualitative, based on the analyst&#39;s structural knowledge of the ecosystem as of the report date. Where numbers would normally be cited, they are marked as N/A.</p>
-</blockquote>
-<hr>
-<h2>1. Ecosystem Overview</h2>
-<p>The AI inference infrastructure stack in mid-2026 has matured into clearly delineated layers: high-throughput serving engines (vLLM, SGLang), consumer-grade local runtimes (llama.cpp, Ollama), unified LLM gateways (LiteLLM), and fine-tuning frameworks (Unsloth). Competition at the serving layer has intensified around long-context workloads and agentic traffic patterns, which stress KV-cache management and multi-turn decode efficiency far more than classic chat workloads. The local runtime segment continues to ride the wave of open-weight frontier-adjacent models (Llama, Qwen, DeepSeek, Gemma families), driving rapid quantization and hardware-portability work. Meanwhile, the convergence of agents into production means gateways like LiteLLM are increasingly treated as critical control planes — handling observability, fallback, and budget enforcement — rather than simple proxies.</p>
-<hr>
-<h2>2. Activity Comparison</h2>
-<table>
-<thead>
-<tr>
-<th>Project</th>
-<th>Issues (24h)</th>
-<th>PRs (24h)</th>
-<th>Release Status</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>vLLM</td>
-<td>N/A (generation failed)</td>
-<td>N/A</td>
-<td>N/A</td>
-</tr>
-<tr>
-<td>SGLang</td>
-<td>N/A</td>
-<td>N/A</td>
-<td>N/A</td>
-</tr>
-<tr>
-<td>llama.cpp</td>
-<td>N/A</td>
-<td>N/A</td>
-<td>N/A</td>
-</tr>
-<tr>
-<td>Ollama</td>
-<td>N/A</td>
-<td>N/A</td>
-<td>N/A</td>
-</tr>
-<tr>
-<td>LiteLLM</td>
-<td>N/A</td>
-<td>N/A</td>
-<td>N/A</td>
-</tr>
-<tr>
-<td>Unsloth</td>
-<td>N/A</td>
-<td>N/A</td>
-<td>N/A</td>
-</tr>
-</tbody></table>
-<p><em>Regenerating the digest is recommended before making decisions based on activity deltas. Historically, llama.cpp and vLLM lead in raw PR volume; Ollama and LiteLLM in issue volume.</em></p>
-<hr>
-<h2>3. Model Support Race</h2>
-<p><strong>Typical pattern (per historical cadence, pending today&#39;s confirmed data):</strong></p>
-<ul>
-<li><strong>llama.cpp / Ollama</strong> are first responders to new open-weight releases — GGUF conversion, tokenizer fixes, and architecture support (e.g., new attention variants like sliding-window/hybrid patterns) usually land within days of model drops. They lead on <em>breadth of consumer-accessible architectures</em>.</li>
-<li><strong>vLLM and SGLang</strong> follow within days-to-weeks with full serving-grade support — correct batching, prefix caching, and CUDA-graph compatibility for new architectures (DeepSeek-style MLA, Qwen MoE variants, etc.). They lead on <em>production-ready support</em>.</li>
-<li><strong>Unsloth</strong> targets fine-tunability: new models are useful to its users only once LoRA/QLoRA patches and quantized training support land.</li>
-</ul>
-<p><strong>Verdict:</strong> Without today&#39;s data, the structural takeaway stands — llama.cpp wins day-0 availability; vLLM/SGLang win day-30 production readiness.</p>
-<hr>
-<h2>4. Performance Frontier</h2>
-<p>Optimization effort across the ecosystem concentrates on five fronts:</p>
-<ol>
-<li><strong>KV cache management</strong> — prefix/prefix-aware caching (SGLang&#39;s RadixAttention lineage, vLLM&#39;s APC), KV-cache offloading to CPU/SSD, and multi-tier caching are the dominant battlegrounds due to agentic multi-turn traffic.</li>
-<li><strong>Continuous batching &amp; scheduling</strong> — chunked prefill, disaggregated prefill/decode, and priority-aware scheduling for mixed workloads.</li>
-<li><strong>Quantization</strong> — FP8/INT4 serving (GPTQ, AWQ, GGUF K-quants), plus W4A8/FP8 KV cache; llama.cpp and Unsloth push low-bit quantization into consumer GPUs and Apple Silicon.</li>
-<li><strong>Kernel &amp; hardware breadth</strong> — FlashAttention variants, fused MoE kernels, CUDA-graph capture, and expanding non-NVIDIA backends (ROCm, Metal, CPU, TPU/Intel efforts).</li>
-<li><strong>Distributed serving</strong> — tensor/pipeline parallelism maturation, data-parallel radix-cache sharing, and multi-node MoE serving.</li>
-</ol>
-<hr>
-<h2>5. Layer Positioning</h2>
-<table>
-<thead>
-<tr>
-<th>Layer</th>
-<th>Projects</th>
-<th>Role</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>Serving engine (datacenter)</strong></td>
-<td>vLLM, SGLang</td>
-<td>High-throughput, PagedAttention/radix-cache-backed OpenAI-compatible serving; the compute backbone behind production APIs</td>
-</tr>
-<tr>
-<td><strong>Local runtime (edge/client)</strong></td>
-<td>llama.cpp, Ollama</td>
-<td>On-device inference, quantized GGUF execution, zero-ops UX (Ollama wraps llama.cpp with a model registry and CLI)</td>
-</tr>
-<tr>
-<td><strong>Gateway / control plane</strong></td>
-<td>LiteLLM</td>
-<td>Unified API across providers, routing, fallback, rate limits, cost tracking, observability</td>
-</tr>
-<tr>
-<td><strong>Training / fine-tuning</strong></td>
-<td>Unsloth</td>
-<td>Memory-efficient LoRA/QLoRA fine-tuning, quantized training on single consumer GPUs</td>
-</tr>
-</tbody></table>
-<p>These layers are complementary, not directly competitive — except at the seams: llama.cpp increasingly offers server mode overlapping vLLM&#39;s low-end niche, and gateways increasingly embed caching/routing logic that touches serving decisions.</p>
-<hr>
-<h2>6. Trend Signals</h2>
-<ol>
-<li><strong>Agentic workloads are reshaping serving priorities.</strong> Long contexts, repeated prefixes, and tool-call-heavy decode patterns make KV-cache reuse and scheduling intelligence the top differentiators. Agent developers should prefer engines with mature prefix caching (SGLang/vLLM).</li>
-<li><strong>Open-weight model velocity is the cadence-setter.</strong> Every major open-weight drop triggers a support race across all four layers; infrastructure teams should budget for ~weekly integration churn.</li>
-<li><strong>Quantization is now a serving feature, not just a memory trick.</strong> FP8/W4A8 serving is becoming table stakes for throughput-per-dollar at the datacenter edge.</li>
-<li><strong>Gateways are becoming governance layers.</strong> As multi-model routing becomes standard, LiteLLM-style gateways absorb observability, budgeting, and compliance functions — agent platform teams should treat the gateway as a first-class architectural component.</li>
-<li><strong>Edge–datacenter convergence.</strong> GGUF runtimes gaining server features and serving engines improving single-GPU efficiency mean the deployment boundary is blurring; watch hybrid topologies (edge pre-processing, cloud inference).</li>
-</ol>
-<p><strong>⚠️ Recommendation:</strong> Regenerate today&#39;s per-project summaries to restore quantitative backing before circulating this report externally.</p>
 <hr>
 <h2>Per-Project Reports</h2>
 <details>
