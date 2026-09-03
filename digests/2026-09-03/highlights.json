@@ -1,0 +1,86 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Codex 发布两个 alpha：0.153.0-alpha.5 和 .6",
+      "Gemini CLI 一天合并六个安全 PR",
+      "Copilot CLI 收紧 Linux 沙箱出站规则",
+      "Qwen Code 因全仓库 CVE 审计失败受挫",
+      "Qwen Code 发布 live-host-v0.2.0",
+      "跨工具主题：智能体虚报成功"
+    ],
+    "ai-agents": [
+      "QwenPaw 发布 v2.2.0-beta.7 版本",
+      "QwenPaw：24 小时更新 40 个 PR，合并 13 个",
+      "安全加固主导智能体生态",
+      "MCP 成为基础标准，A2A/ACP 成新战场",
+      "本地 LLM 支持成为一等需求",
+      "数据缺口阻碍 5 个项目中 4 个的排名"
+    ],
+    "ai-infra": [
+      "Ollama MLX 新增 Gemma4 视觉与音频支持",
+      "Ollama 新增缓存 token 与单设备显存报告",
+      "llama.cpp b10760 升级经 Ollama #18199 落地",
+      "llama.cpp main 分支被报告 CPU 回归",
+      "Ollama Cloud 代理 API 是稳定性最大挑战",
+      "6 个基础设施项目中 5 个未进摘要"
+    ],
+    "ai-web": [
+      "Anthropic 推出 Enterprise Frontier Safeguards (EFS)",
+      "EFS 结合零数据保留与滥用检测",
+      "EFS 由 AWS、谷歌云、Azure 共同构建",
+      "Anthropic 发布员工再培训证据审查",
+      "OpenAI 今日零新文章",
+      "Anthropic 站点地图增至 439 篇文章"
+    ],
+    "ai-community": [
+      "ShrekOS 为 AI 智能体提供操作系统级沙箱",
+      "文章警告：超时并不能真正取消 LLM 调用",
+      "AI 加速漏洞发现登上 Lobste.rs 热议",
+      "智能体需要刹车，不只是大脑——Dev.to 热帖",
+      "Anthropic 削减 Claude Code 系统提示 80%",
+      "提出用执行树取代扁平智能体日志"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Codex ships two alphas: 0.153.0-alpha.5 and .6",
+      "Gemini CLI merges six security PRs in one day",
+      "Copilot CLI tightens Linux sandbox egress rules",
+      "Qwen Code hit by repo-wide CVE audit failure",
+      "Qwen Code releases live-host-v0.2.0",
+      "Cross-tool theme: agents falsely reporting success"
+    ],
+    "ai-agents": [
+      "QwenPaw publishes v2.2.0-beta.7 release",
+      "QwenPaw: 40 PRs updated in 24h, 13 merged",
+      "Security hardening dominates agent ecosystem",
+      "MCP becomes baseline; A2A/ACP the next battleground",
+      "Local LLM support now a first-class requirement",
+      "Data gaps block ranking 4 of 5 agent projects"
+    ],
+    "ai-infra": [
+      "Ollama MLX adds Gemma4 vision and audio support",
+      "Ollama adds cached-token and per-device VRAM reporting",
+      "llama.cpp b10760 bump lands via Ollama #18199",
+      "CPU regression reported against llama.cpp main",
+      "Ollama Cloud proxying APIs is top stability fight",
+      "5 of 6 tracked infra projects failed digest"
+    ],
+    "ai-web": [
+      "Anthropic launches Enterprise Frontier Safeguards (EFS)",
+      "EFS pairs zero data retention with misuse detection",
+      "EFS co-built with AWS, Google Cloud, Azure",
+      "Anthropic releases worker retraining evidence review",
+      "OpenAI publishes zero new articles today",
+      "Anthropic sitemap grows to 439 articles"
+    ],
+    "ai-community": [
+      "ShrekOS brings OS-level sandboxing for AI agents",
+      "Timeouts don't actually cancel LLM calls, post warns",
+      "AI-accelerated exploit discovery tops Lobste.rs debate",
+      "Agents need brakes, not just brains — top Dev.to post",
+      "Anthropic cut 80% of Claude Code's system prompt",
+      "Execution trees proposed over flat agent logs"
+    ]
+  }
+}
