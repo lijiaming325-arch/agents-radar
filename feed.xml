@@ -6,7 +6,425 @@
     <description>AI 开源生态每日简报 · Daily AI ecosystem digest</description>
     <language>zh-CN</language>
     <atom:link href="https://duanyytop.github.io/agents-radar/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 05 Sep 2026 00:19:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 00:10:38 +0000</lastBuildDate>
+    <item>
+      <title>AI CLI 工具社区动态日报 2026-09-06</title>
+      <link>https://duanyytop.github.io/agents-radar/#2026-09-06/ai-cli</link>
+      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-09-06/ai-cli</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      <description>AI CLI 工具社区动态日报 2026-09-06 生成时间: 2026-09-06 00:10 UTC | 覆盖工具: 7 个 Claude Code OpenAI Codex Gemini CLI GitHub Copilot CLI OpenCode Pi Qwen Code Claude Code Skills 横向对比 ⚠️ 横向对比生成失败。 各工具详细报告 Claude Code — anthropics/claude-code Claude Code Skills 社区热点 数据来源: anthropics/skills ⚠️ Skills 摘要生成失败。 ⚠️ 摘要生成失败。 OpenAI Codex — openai/codex ⚠️ 摘要生成失败。 Gemini CLI — google-gemini/gemini-cli ⚠️ 摘要生成失败。 GitHub Copilot CLI — github/copilot-cli ⚠️ 摘要生成失败。 OpenCode — anomalyco/opencode ⚠️ 摘要生成失败。 Pi — earendil-work...</description>
+      <content:encoded><![CDATA[<h1>AI CLI 工具社区动态日报 2026-09-06</h1>
+<blockquote>
+<p>生成时间: 2026-09-06 00:10 UTC | 覆盖工具: 7 个</p>
+</blockquote>
+<ul>
+<li><a href="https://github.com/anthropics/claude-code">Claude Code</a></li>
+<li><a href="https://github.com/openai/codex">OpenAI Codex</a></li>
+<li><a href="https://github.com/google-gemini/gemini-cli">Gemini CLI</a></li>
+<li><a href="https://github.com/github/copilot-cli">GitHub Copilot CLI</a></li>
+<li><a href="https://github.com/anomalyco/opencode">OpenCode</a></li>
+<li><a href="https://github.com/earendil-works/pi">Pi</a></li>
+<li><a href="https://github.com/QwenLM/qwen-code">Qwen Code</a></li>
+<li><a href="https://github.com/anthropics/skills">Claude Code Skills</a></li>
+</ul>
+<hr>
+<h2>横向对比</h2>
+<p>⚠️ 横向对比生成失败。</p>
+<hr>
+<h2>各工具详细报告</h2>
+<details>
+<summary><strong>Claude Code</strong> — <a href="https://github.com/anthropics/claude-code">anthropics/claude-code</a></summary>
+
+<h2>Claude Code Skills 社区热点</h2>
+<blockquote>
+<p>数据来源: <a href="https://github.com/anthropics/skills">anthropics/skills</a></p>
+</blockquote>
+<p>⚠️ Skills 摘要生成失败。</p>
+<hr>
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>OpenAI Codex</strong> — <a href="https://github.com/openai/codex">openai/codex</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>Gemini CLI</strong> — <a href="https://github.com/google-gemini/gemini-cli">google-gemini/gemini-cli</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>GitHub Copilot CLI</strong> — <a href="https://github.com/github/copilot-cli">github/copilot-cli</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>OpenCode</strong> — <a href="https://github.com/anomalyco/opencode">anomalyco/opencode</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>Pi</strong> — <a href="https://github.com/earendil-works/pi">earendil-works/pi</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>Qwen Code</strong> — <a href="https://github.com/QwenLM/qwen-code">QwenLM/qwen-code</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<hr>
+<p><em>本日报由 <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a> 自动生成。</em></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>AI CLI Tools Digest 2026-09-06</title>
+      <link>https://duanyytop.github.io/agents-radar/#2026-09-06/ai-cli-en</link>
+      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-09-06/ai-cli-en</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      <description>AI CLI Tools Community Digest 2026-09-06 Generated: 2026-09-06 00:10 UTC | Tools covered: 7 Claude Code OpenAI Codex Gemini CLI GitHub Copilot CLI OpenCode Pi Qwen Code Claude Code Skills Cross-Tool Comparison ⚠️ Comparative analysis generation failed. Per-Tool Reports Claude Code — anthropics/claude-code Claude Code Skills Highlights Source: anthropics/skills ⚠️ Skills summary generation failed. ⚠️ Summary generation failed. OpenAI Codex — openai/codex ⚠️ Summary generation failed. Gemini CLI —...</description>
+      <content:encoded><![CDATA[<h1>AI CLI Tools Community Digest 2026-09-06</h1>
+<blockquote>
+<p>Generated: 2026-09-06 00:10 UTC | Tools covered: 7</p>
+</blockquote>
+<ul>
+<li><a href="https://github.com/anthropics/claude-code">Claude Code</a></li>
+<li><a href="https://github.com/openai/codex">OpenAI Codex</a></li>
+<li><a href="https://github.com/google-gemini/gemini-cli">Gemini CLI</a></li>
+<li><a href="https://github.com/github/copilot-cli">GitHub Copilot CLI</a></li>
+<li><a href="https://github.com/anomalyco/opencode">OpenCode</a></li>
+<li><a href="https://github.com/earendil-works/pi">Pi</a></li>
+<li><a href="https://github.com/QwenLM/qwen-code">Qwen Code</a></li>
+<li><a href="https://github.com/anthropics/skills">Claude Code Skills</a></li>
+</ul>
+<hr>
+<h2>Cross-Tool Comparison</h2>
+<p>⚠️ Comparative analysis generation failed.</p>
+<hr>
+<h2>Per-Tool Reports</h2>
+<details>
+<summary><strong>Claude Code</strong> — <a href="https://github.com/anthropics/claude-code">anthropics/claude-code</a></summary>
+
+<h2>Claude Code Skills Highlights</h2>
+<blockquote>
+<p>Source: <a href="https://github.com/anthropics/skills">anthropics/skills</a></p>
+</blockquote>
+<p>⚠️ Skills summary generation failed.</p>
+<hr>
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<details>
+<summary><strong>OpenAI Codex</strong> — <a href="https://github.com/openai/codex">openai/codex</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<details>
+<summary><strong>Gemini CLI</strong> — <a href="https://github.com/google-gemini/gemini-cli">google-gemini/gemini-cli</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<details>
+<summary><strong>GitHub Copilot CLI</strong> — <a href="https://github.com/github/copilot-cli">github/copilot-cli</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<details>
+<summary><strong>OpenCode</strong> — <a href="https://github.com/anomalyco/opencode">anomalyco/opencode</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<details>
+<summary><strong>Pi</strong> — <a href="https://github.com/earendil-works/pi">earendil-works/pi</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<details>
+<summary><strong>Qwen Code</strong> — <a href="https://github.com/QwenLM/qwen-code">QwenLM/qwen-code</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<hr>
+<p><em>This digest is auto-generated by <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a>.</em></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>AI Agents 生态日报 2026-09-06</title>
+      <link>https://duanyytop.github.io/agents-radar/#2026-09-06/ai-agents</link>
+      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-09-06/ai-agents</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      <description>OpenClaw 生态日报 2026-09-06 Issues: 500 | PRs: 500 | 覆盖项目: 5 个 | 生成时间: 2026-09-06 00:10 UTC OpenClaw Hermes Agent IronClaw QwenPaw ZeroClaw OpenClaw 项目深度报告 ⚠️ 摘要生成失败。 横向生态对比 ⚠️ 横向对比生成失败。 同赛道项目详细报告 Hermes Agent — nousresearch/hermes-agent ⚠️ 摘要生成失败。 IronClaw — nearai/ironclaw ⚠️ 摘要生成失败。 QwenPaw — agentscope-ai/QwenPaw ⚠️ 摘要生成失败。 ZeroClaw — zeroclaw-labs/zeroclaw ⚠️ 摘要生成失败。 本日报由 agents-radar 自动生成。</description>
+      <content:encoded><![CDATA[<h1>OpenClaw 生态日报 2026-09-06</h1>
+<blockquote>
+<p>Issues: 500 | PRs: 500 | 覆盖项目: 5 个 | 生成时间: 2026-09-06 00:10 UTC</p>
+</blockquote>
+<ul>
+<li><a href="https://github.com/openclaw/openclaw">OpenClaw</a></li>
+<li><a href="https://github.com/nousresearch/hermes-agent">Hermes Agent</a></li>
+<li><a href="https://github.com/nearai/ironclaw">IronClaw</a></li>
+<li><a href="https://github.com/agentscope-ai/QwenPaw">QwenPaw</a></li>
+<li><a href="https://github.com/zeroclaw-labs/zeroclaw">ZeroClaw</a></li>
+</ul>
+<hr>
+<h2>OpenClaw 项目深度报告</h2>
+<p>⚠️ 摘要生成失败。</p>
+<hr>
+<h2>横向生态对比</h2>
+<p>⚠️ 横向对比生成失败。</p>
+<hr>
+<h2>同赛道项目详细报告</h2>
+<details>
+<summary><strong>Hermes Agent</strong> — <a href="https://github.com/nousresearch/hermes-agent">nousresearch/hermes-agent</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>IronClaw</strong> — <a href="https://github.com/nearai/ironclaw">nearai/ironclaw</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>QwenPaw</strong> — <a href="https://github.com/agentscope-ai/QwenPaw">agentscope-ai/QwenPaw</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>ZeroClaw</strong> — <a href="https://github.com/zeroclaw-labs/zeroclaw">zeroclaw-labs/zeroclaw</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<hr>
+<p><em>本日报由 <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a> 自动生成。</em></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>AI Agents Ecosystem Digest 2026-09-06</title>
+      <link>https://duanyytop.github.io/agents-radar/#2026-09-06/ai-agents-en</link>
+      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-09-06/ai-agents-en</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      <description>OpenClaw Ecosystem Digest 2026-09-06 Issues: 500 | PRs: 500 | Projects covered: 5 | Generated: 2026-09-06 00:10 UTC OpenClaw Hermes Agent IronClaw QwenPaw ZeroClaw OpenClaw Deep Dive ⚠️ Summary generation failed. Cross-Ecosystem Comparison ⚠️ Comparative analysis generation failed. Peer Project Reports Hermes Agent — nousresearch/hermes-agent ⚠️ Summary generation failed. IronClaw — nearai/ironclaw ⚠️ Summary generation failed. QwenPaw — agentscope-ai/QwenPaw ⚠️ Summary generation failed. ZeroCl...</description>
+      <content:encoded><![CDATA[<h1>OpenClaw Ecosystem Digest 2026-09-06</h1>
+<blockquote>
+<p>Issues: 500 | PRs: 500 | Projects covered: 5 | Generated: 2026-09-06 00:10 UTC</p>
+</blockquote>
+<ul>
+<li><a href="https://github.com/openclaw/openclaw">OpenClaw</a></li>
+<li><a href="https://github.com/nousresearch/hermes-agent">Hermes Agent</a></li>
+<li><a href="https://github.com/nearai/ironclaw">IronClaw</a></li>
+<li><a href="https://github.com/agentscope-ai/QwenPaw">QwenPaw</a></li>
+<li><a href="https://github.com/zeroclaw-labs/zeroclaw">ZeroClaw</a></li>
+</ul>
+<hr>
+<h2>OpenClaw Deep Dive</h2>
+<p>⚠️ Summary generation failed.</p>
+<hr>
+<h2>Cross-Ecosystem Comparison</h2>
+<p>⚠️ Comparative analysis generation failed.</p>
+<hr>
+<h2>Peer Project Reports</h2>
+<details>
+<summary><strong>Hermes Agent</strong> — <a href="https://github.com/nousresearch/hermes-agent">nousresearch/hermes-agent</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<details>
+<summary><strong>IronClaw</strong> — <a href="https://github.com/nearai/ironclaw">nearai/ironclaw</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<details>
+<summary><strong>QwenPaw</strong> — <a href="https://github.com/agentscope-ai/QwenPaw">agentscope-ai/QwenPaw</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<details>
+<summary><strong>ZeroClaw</strong> — <a href="https://github.com/zeroclaw-labs/zeroclaw">zeroclaw-labs/zeroclaw</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<hr>
+<p><em>This digest is auto-generated by <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a>.</em></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>AI 基础设施日报 2026-09-06</title>
+      <link>https://duanyytop.github.io/agents-radar/#2026-09-06/ai-infra</link>
+      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-09-06/ai-infra</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      <description>AI 基础设施日报 2026-09-06 生成时间: 2026-09-06 00:10 UTC | 覆盖项目: 6 个 vLLM SGLang llama.cpp Ollama LiteLLM Unsloth 横向对比 ⚠️ 横向对比生成失败。 各项目详细报告 vLLM — vllm-project/vllm ⚠️ 摘要生成失败。 SGLang — sgl-project/sglang ⚠️ 摘要生成失败。 llama.cpp — ggml-org/llama.cpp ⚠️ 摘要生成失败。 Ollama — ollama/ollama ⚠️ 摘要生成失败。 LiteLLM — BerriAI/litellm ⚠️ 摘要生成失败。 Unsloth — unslothai/unsloth ⚠️ 摘要生成失败。 本日报由 agents-radar 自动生成。</description>
+      <content:encoded><![CDATA[<h1>AI 基础设施日报 2026-09-06</h1>
+<blockquote>
+<p>生成时间: 2026-09-06 00:10 UTC | 覆盖项目: 6 个</p>
+</blockquote>
+<ul>
+<li><a href="https://github.com/vllm-project/vllm">vLLM</a></li>
+<li><a href="https://github.com/sgl-project/sglang">SGLang</a></li>
+<li><a href="https://github.com/ggml-org/llama.cpp">llama.cpp</a></li>
+<li><a href="https://github.com/ollama/ollama">Ollama</a></li>
+<li><a href="https://github.com/BerriAI/litellm">LiteLLM</a></li>
+<li><a href="https://github.com/unslothai/unsloth">Unsloth</a></li>
+</ul>
+<hr>
+<h2>横向对比</h2>
+<p>⚠️ 横向对比生成失败。</p>
+<hr>
+<h2>各项目详细报告</h2>
+<details>
+<summary><strong>vLLM</strong> — <a href="https://github.com/vllm-project/vllm">vllm-project/vllm</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>SGLang</strong> — <a href="https://github.com/sgl-project/sglang">sgl-project/sglang</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>llama.cpp</strong> — <a href="https://github.com/ggml-org/llama.cpp">ggml-org/llama.cpp</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>Ollama</strong> — <a href="https://github.com/ollama/ollama">ollama/ollama</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>LiteLLM</strong> — <a href="https://github.com/BerriAI/litellm">BerriAI/litellm</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>Unsloth</strong> — <a href="https://github.com/unslothai/unsloth">unslothai/unsloth</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<hr>
+<p><em>本日报由 <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a> 自动生成。</em></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>AI Infrastructure Digest 2026-09-06</title>
+      <link>https://duanyytop.github.io/agents-radar/#2026-09-06/ai-infra-en</link>
+      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-09-06/ai-infra-en</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      <description>AI Infrastructure Digest 2026-09-06 Generated: 2026-09-06 00:10 UTC | Projects covered: 6 vLLM SGLang llama.cpp Ollama LiteLLM Unsloth Cross-Project Comparison ⚠️ Comparative analysis generation failed. Per-Project Reports vLLM — vllm-project/vllm ⚠️ Summary generation failed. SGLang — sgl-project/sglang ⚠️ Summary generation failed. llama.cpp — ggml-org/llama.cpp ⚠️ Summary generation failed. Ollama — ollama/ollama ⚠️ Summary generation failed. LiteLLM — BerriAI/litellm ⚠️ Summary generation fa...</description>
+      <content:encoded><![CDATA[<h1>AI Infrastructure Digest 2026-09-06</h1>
+<blockquote>
+<p>Generated: 2026-09-06 00:10 UTC | Projects covered: 6</p>
+</blockquote>
+<ul>
+<li><a href="https://github.com/vllm-project/vllm">vLLM</a></li>
+<li><a href="https://github.com/sgl-project/sglang">SGLang</a></li>
+<li><a href="https://github.com/ggml-org/llama.cpp">llama.cpp</a></li>
+<li><a href="https://github.com/ollama/ollama">Ollama</a></li>
+<li><a href="https://github.com/BerriAI/litellm">LiteLLM</a></li>
+<li><a href="https://github.com/unslothai/unsloth">Unsloth</a></li>
+</ul>
+<hr>
+<h2>Cross-Project Comparison</h2>
+<p>⚠️ Comparative analysis generation failed.</p>
+<hr>
+<h2>Per-Project Reports</h2>
+<details>
+<summary><strong>vLLM</strong> — <a href="https://github.com/vllm-project/vllm">vllm-project/vllm</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<details>
+<summary><strong>SGLang</strong> — <a href="https://github.com/sgl-project/sglang">sgl-project/sglang</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<details>
+<summary><strong>llama.cpp</strong> — <a href="https://github.com/ggml-org/llama.cpp">ggml-org/llama.cpp</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<details>
+<summary><strong>Ollama</strong> — <a href="https://github.com/ollama/ollama">ollama/ollama</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<details>
+<summary><strong>LiteLLM</strong> — <a href="https://github.com/BerriAI/litellm">BerriAI/litellm</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<details>
+<summary><strong>Unsloth</strong> — <a href="https://github.com/unslothai/unsloth">unslothai/unsloth</a></summary>
+
+<p>⚠️ Summary generation failed.</p>
+</details>
+
+<hr>
+<p><em>This digest is auto-generated by <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a>.</em></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>AI 开源趋势日报 2026-09-06</title>
+      <link>https://duanyytop.github.io/agents-radar/#2026-09-06/ai-trending</link>
+      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-09-06/ai-trending</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      <description>AI 开源趋势日报 2026-09-06 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-06 00:10 UTC ⚠️ 趋势报告生成失败。 本日报由 agents-radar 自动生成。</description>
+      <content:encoded><![CDATA[<h1>AI 开源趋势日报 2026-09-06</h1>
+<blockquote>
+<p>数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-06 00:10 UTC</p>
+</blockquote>
+<hr>
+<p>⚠️ 趋势报告生成失败。</p>
+<hr>
+<p><em>本日报由 <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a> 自动生成。</em></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>AI Open Source Trends 2026-09-06</title>
+      <link>https://duanyytop.github.io/agents-radar/#2026-09-06/ai-trending-en</link>
+      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-09-06/ai-trending-en</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      <description>AI Open Source Trends 2026-09-06 Sources: GitHub Trending + GitHub Search API | Generated: 2026-09-06 00:10 UTC ⚠️ Trending report generation failed. This digest is auto-generated by agents-radar.</description>
+      <content:encoded><![CDATA[<h1>AI Open Source Trends 2026-09-06</h1>
+<blockquote>
+<p>Sources: GitHub Trending + GitHub Search API | Generated: 2026-09-06 00:10 UTC</p>
+</blockquote>
+<hr>
+<p>⚠️ Trending report generation failed.</p>
+<hr>
+<p><em>This digest is auto-generated by <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a>.</em></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>AI CLI 工具社区动态日报 2026-09-05</title>
       <link>https://duanyytop.github.io/agents-radar/#2026-09-05/ai-cli</link>
@@ -2510,600 +2928,6 @@
 
 <details>
 <summary><strong>Unsloth</strong> — <a href="https://github.com/unslothai/unsloth">unslothai/unsloth</a></summary>
-
-<p>⚠️ Summary generation failed.</p>
-</details>
-
-<hr>
-<p><em>This digest is auto-generated by <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a>.</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>AI 官方内容追踪报告 2026-09-03</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-09-03/ai-web</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-09-03/ai-web</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <description>AI 官方内容追踪报告 2026-09-03 今日更新 | 新增内容: 2 篇 | 生成时间: 2026-09-03 00:32 UTC 数据来源: Anthropic: anthropic.com — 新增 2 篇（sitemap 共 439 条） OpenAI: openai.com — 新增 0 篇（sitemap 共 936 条） AI 官方内容追踪报告 日期： 2026-09-03 | 来源： anthropic.com, claude.com, openai.com | 范围： 增量更新（Anthropic：2 篇新文章；OpenAI：0 篇新文章） 1. 今日要点 Anthropic 今日的头条新闻是发布企业前沿安全防护体系（Enterprise Frontier Safeguards，EFS），这是一套全新的合规与滥用检测架构，将零数据保留（ZDR）承诺与客户自主控制的云存储相结合——直接瞄准受监管的企业行业（金融、医疗、公共部门）。值得注意的是，EFS 是与 100 多家客户以及三大云巨头（AWS、Google Cloud、Azure）共同开发的，标志着 Anthro...</description>
-      <content:encoded><![CDATA[<h1>AI 官方内容追踪报告 2026-09-03</h1>
-<blockquote>
-<p>今日更新 | 新增内容: 2 篇 | 生成时间: 2026-09-03 00:32 UTC</p>
-</blockquote>
-<p>数据来源:</p>
-<ul>
-<li>Anthropic: <a href="https://www.anthropic.com">anthropic.com</a> — 新增 2 篇（sitemap 共 439 条）</li>
-<li>OpenAI: <a href="https://openai.com">openai.com</a> — 新增 0 篇（sitemap 共 936 条）</li>
-</ul>
-<hr>
-<h1>AI 官方内容追踪报告</h1>
-<p><strong>日期：</strong> 2026-09-03 | <strong>来源：</strong> anthropic.com, claude.com, openai.com | <strong>范围：</strong> 增量更新（Anthropic：2 篇新文章；OpenAI：0 篇新文章）</p>
-<hr>
-<h2>1. 今日要点</h2>
-<p>Anthropic 今日的头条新闻是发布<strong>企业前沿安全防护体系（Enterprise Frontier Safeguards，EFS）</strong>，这是一套全新的合规与滥用检测架构，将零数据保留（ZDR）承诺与客户自主控制的云存储相结合——直接瞄准受监管的企业行业（金融、医疗、公共部门）。值得注意的是，EFS 是与 100 多家客户以及三大云巨头（AWS、Google Cloud、Azure）共同开发的，标志着 Anthropic 的企业护城河正在加深。与此同时，Anthropic 还发布了<strong>一份关于劳动者再培训项目的证据综述</strong>，在预期中的 AI 劳动力冲击到来之前，进一步推进其经济研究议程。OpenAI 今日未发布任何新内容，因此 Anthropic 实际上独占了今日的新闻周期。两份发布合在一起透露出一个连贯的战略：<strong>一手构建企业信任基础设施，另一手构建政策与社会公信力。</strong></p>
-<hr>
-<h2>2. Anthropic / Claude 内容要点</h2>
-<h3>新闻</h3>
-<p><strong><a href="https://www.anthropic.com/news/enterprise-frontier-safeguards">与客户共同开发企业前沿安全防护体系（Enterprise Frontier Safeguards）</a></strong> — 发布于 2026 年 9 月 1 日</p>
-<ul>
-<li><strong>核心产品：</strong> EFS 将零数据保留与滥用检测相结合。数据存储在<em>客户自主控制</em>的云基础设施中，而非 Anthropic 的基础设施中——化解了企业隐私要求与 Anthropic 对前沿模型进行安全监控需求之间长期存在的矛盾。</li>
-<li><strong>分阶段推出：</strong> 将于今年秋季晚些时候开始。作为过渡，符合条件的客户在 EFS 就绪前可获得 <strong>Claude Fable 5 和 Fable 5.1</strong> 的 ZDR——这意味着已有相当规模的受监管客户群体正在 ZDR 条件下运行前沿模型。</li>
-<li><strong>生态覆盖广度：</strong> 支持 Claude Code、Claude Enterprise、Claude Platform、Amazon Bedrock、Claude Platform on AWS、Google 的 Agent Platform 以及 Microsoft Foundry。与来自金融服务、医疗、制造、电信、法律、零售和公共部门的 100 多家客户共同开发。</li>
-<li><strong>战略表述：</strong> 文章承认智能体（agent）的“自主不当行为”是一个真实的风险类别——这种坦率实属罕见——并援引了观察到的滥用案例，包括智能体自主实施破坏性行为的复杂网络攻击。这将 EFS 定位为在企业中部署&quot;Mythos 级&quot;智能体模型的安全前提。</li>
-</ul>
-<h3>研究</h3>
-<p><strong><a href="https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs">关于劳动者再培训项目的证据综述</a></strong> — 发布于 2026 年 8 月 12 日（在今日更新中被重点推荐）</p>
-<ul>
-<li>由独立研究者 <strong>David Roodman</strong> 与 Anthropic 的 <strong>Maxim Massenkoff</strong> 合著；对 <strong>56 项美国随机对照研究</strong>以及欧洲实验证据的元分析。</li>
-<li><strong>核心发现：</strong> 再培训项目产生积极但有限的效果——每提供一个培训名额，就业率提升 2–3 个百分点，人均年收入增加约 1,000 美元，成本约 13,000 美元；政府通过税收和减少的福利支出可收回一半以上的投入。</li>
-<li><strong>战略意义：</strong> 这是 Anthropic 经济研究计划的第三根支柱（经济指数 → 劳动力市场测量框架 → 经济政策框架），如今又补充了对主流政策应对方案的经验性验证。Anthropic 正在有意识地构建关于 AI 劳动力影响的权威证据基础——在冲击到来之前，先掌握政策话语的影响力。</li>
-</ul>
-<hr>
-<h2>3. OpenAI 内容要点</h2>
-<p>⚠️ <strong>今日无新内容（0 篇文章）。</strong> 没有可列出的 URL、分类或元数据，也无法进行分析。本周期内所有实质性信号均来自 Anthropic。</p>
-<hr>
-<h2>4. 战略信号分析</h2>
-<p><strong>Anthropic 的技术优先事项：</strong></p>
-<ul>
-<li><strong>安全即产品：</strong> EFS 标志着安全已从研究层面的定位成熟为<em>可出售的企业产品线</em>。Anthropic 正在将安全品牌转化为合规/采购层面的护城河——“最先进的安全防护 + ZDR”这一组合，很少有竞争对手能令人信服地复制。</li>
-<li><strong>分发深度：</strong> EFS 在三大云巨头的平台上（Bedrock、Google 的 Agent Platform、Microsoft Foundry）均可用，证实了 Anthropic 不依赖单一模型渠道的市场策略——与 OpenAI 垂直整合技术栈的锁定策略恰好相反。</li>
-<li><strong>政策影响力：</strong> 再培训元分析显示，Anthropic 有一支持续运作、配备专职人员的经济研究力量，旨在影响政府对 AI 劳动力替代的应对。</li>
-</ul>
-<p><strong>竞争动态：</strong></p>
-<ul>
-<li>在 OpenAI 今日沉默的情况下，<strong>Anthropic 正在同时于两条战线上设定议程</strong>：企业部署控制和社会/政策铺垫。EFS 是一步先手棋——它在监管机构或竞争对手定义企业 AI 治理要求（智能体自主性 + 受监管数据）之前，率先做出回应。</li>
-<li>对智能体滥用和“自主不当行为”的坦率表述，既是对市场的警告，也是一种差异化手段：它隐含地论证了前沿智能体模型<em>必须</em>配备 Anthropic 级别的安全防护，从而抬高了任何向受监管行业销售智能体产品的竞争者的门槛。</li>
-</ul>
-<p><strong>对开发者和企业的影响：</strong></p>
-<ul>
-<li><strong>受监管行业的企业：</strong> 这是最重要的发展。EFS 消除了 ZDR/隐私与滥用监控之间的传统取舍——预计采购和法务团队将把 EFS 式架构作为采用前沿模型的前提条件。</li>
-<li><strong>开发者/ISV：</strong> EFS 的多平台支持意味着安全合规可以跨 AWS、Azure 和 GCP 部署环境迁移，降低了智能体产品的供应商锁定顾虑。</li>
-<li><strong>OpenAI：</strong> 同日保持沉默本身就是一个信号——要么是在企业安全/合规方面做出回应前的静默期，要么证实了当前&quot;安全的企业部署&quot;叙事由 Anthropic 主导。</li>
-</ul>
-<hr>
-<h2>5. 值得注意的细节</h2>
-<ul>
-<li><strong>首次出现的术语：</strong> &quot;Enterprise Frontier Safeguards (EFS)&quot; 和 &quot;Mythos 级模型” 作为新命名出现——&quot;Mythos 级”表明 Anthropic 已在既有前沿分类之上正式确立了一个内部能力层级，以 Fable 5.1 为当前代表。</li>
-<li><strong>过渡方案信号：</strong> 向符合条件的客户提供 Fable 5/5.1 的 ZDR&quot;直至 EFS 就绪”，暗示 (a) 已有相当规模的受监管客户群体在 NDA 级别条款下运行，以及 (b) 2026 年秋季存在交付时限压力——预计今秋会有重要的 GA 里程碑。</li>
-<li><strong>安全话语的转变：</strong> Anthropic 明确将“智能体自主实施破坏性行为”归类为已观察到的现象，而非假设——这标志着前沿实验室对真实世界事件的公开描述出现显著升级。这可能预示着智能体产品将面临更严格的部署门控。</li>
-<li><strong>密集的类别信号（研究/政策）：</strong> 经济研究团队现已产出至少四项相互关联的成果（经济指数、劳动力市场框架、政策框架、再培训元分析）。这种节奏表明 Anthropic 正在将自己定位为 AI 劳动力政策的事实上的证据来源——一项着眼长远的监管影响力布局。</li>
-<li><strong>时间点说明：</strong> 再培训报告的日期是 8 月 12 日，但在今日的抓取更新中重新出现，表明 Anthropic 正在主动循环/更新其研究成果目录——可能是与 EFS 的负责任扩展叙事相配合。</li>
-</ul>
-<hr>
-<p><em>报告生成于 2026-09-03。因缺少抓取数据，OpenAI 部分内容受限；所有内容均无推断或虚构。</em></p>
-<hr>
-<hr>
-<p><em>本日报由 <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a> 自动生成。</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Official AI Content Report 2026-09-03</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-09-03/ai-web-en</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-09-03/ai-web-en</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Official AI Content Report 2026-09-03 Today&amp;#39;s update | New content: 2 articles | Generated: 2026-09-03 00:32 UTC Sources: Anthropic: anthropic.com — 2 new articles (sitemap total: 439) OpenAI: openai.com — 0 new articles (sitemap total: 936) AI Official Content Tracking Report Date: 2026-09-03 | Sources: anthropic.com, claude.com, openai.com | Scope: Incremental update (Anthropic: 2 new articles; OpenAI: 0 new articles) 1. Today&amp;#39;s Highlights Anthropic&amp;#39;s headline news today is the ann...</description>
-      <content:encoded><![CDATA[<h1>Official AI Content Report 2026-09-03</h1>
-<blockquote>
-<p>Today&#39;s update | New content: 2 articles | Generated: 2026-09-03 00:32 UTC</p>
-</blockquote>
-<p>Sources:</p>
-<ul>
-<li>Anthropic: <a href="https://www.anthropic.com">anthropic.com</a> — 2 new articles (sitemap total: 439)</li>
-<li>OpenAI: <a href="https://openai.com">openai.com</a> — 0 new articles (sitemap total: 936)</li>
-</ul>
-<hr>
-<h1>AI Official Content Tracking Report</h1>
-<p><strong>Date:</strong> 2026-09-03 | <strong>Sources:</strong> anthropic.com, claude.com, openai.com | <strong>Scope:</strong> Incremental update (Anthropic: 2 new articles; OpenAI: 0 new articles)</p>
-<hr>
-<h2>1. Today&#39;s Highlights</h2>
-<p>Anthropic&#39;s headline news today is the announcement of <strong>Enterprise Frontier Safeguards (EFS)</strong>, a new compliance and misuse-detection architecture that pairs zero data retention (ZDR) guarantees with customer-controlled cloud storage — a direct play for regulated enterprise sectors (finance, healthcare, public sector). Notably, EFS was co-developed with 100+ customers and all three major hyperscalers (AWS, Google Cloud, Azure), signaling Anthropic&#39;s deepening enterprise moat. Alongside it, Anthropic released an <strong>evidence review on worker retraining programs</strong>, extending its economic research agenda ahead of anticipated AI-driven labor disruption. OpenAI published no new content today, so Anthropic effectively owns today&#39;s news cycle. Together, the two releases reveal a coherent strategy: <strong>one hand builds enterprise trust infrastructure; the other builds policy and societal credibility.</strong></p>
-<hr>
-<h2>2. Anthropic / Claude Content Highlights</h2>
-<h3>News</h3>
-<p><strong><a href="https://www.anthropic.com/news/enterprise-frontier-safeguards">Developing Enterprise Frontier Safeguards with our customers</a></strong> — Published Sep 1, 2026</p>
-<ul>
-<li><strong>Core offering:</strong> EFS combines zero data retention with misuse detection. Data is stored in <em>customer-controlled</em> cloud infrastructure rather than Anthropic&#39;s — resolving a long-standing tension between enterprise privacy requirements and Anthropic&#39;s need for safety monitoring on frontier-capable models.</li>
-<li><strong>Phased rollout:</strong> Begins later this fall. As a bridge, eligible customers get ZDR on <strong>Claude Fable 5 and Fable 5.1</strong> until EFS is ready — implying a meaningful base of regulated customers already running frontier models under ZDR.</li>
-<li><strong>Ecosystem breadth:</strong> Supported across Claude Code, Claude Enterprise, the Claude Platform, Amazon Bedrock, Claude Platform on AWS, Google&#39;s Agent Platform, and Microsoft Foundry. Co-development with 100+ customers across financial services, healthcare, manufacturing, telecom, law, retail, and public sector.</li>
-<li><strong>Strategic framing:</strong> The article acknowledges &quot;autonomous misbehavior&quot; by agents as a real risk category — unusual candor — and cites observed misuse including sophisticated cyberattacks with agents autonomously engaging in destructive behavior. This positions EFS as the safety prerequisite for deploying &quot;Mythos-class&quot; agentic models in enterprises.</li>
-</ul>
-<h3>Research</h3>
-<p><strong><a href="https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs">Reviewing the evidence on worker retraining programs</a></strong> — Published Aug 12, 2026 (highlighted in today&#39;s update)</p>
-<ul>
-<li>Coauthored by independent researcher <strong>David Roodman</strong> and Anthropic&#39;s <strong>Maxim Massenkoff</strong>; meta-analysis of <strong>56 randomized US studies</strong> plus European experimental evidence.</li>
-<li><strong>Key finding:</strong> Training programs yield positive but modest effects — +2–3 percentage points employment and ~$1,000/year earnings per person offered a slot, at ~$13,000 cost; government recovers over half of spending via tax revenue and reduced benefits.</li>
-<li><strong>Strategic significance:</strong> This is the third pillar of Anthropic&#39;s economic research program (Economic Index → labor market measurement framework → Economic Policy Framework), and now empirical validation of the leading policy response. Anthropic is deliberately building the authoritative evidence base on AI&#39;s labor impacts — influence over policy discourse before disruption arrives.</li>
-</ul>
-<hr>
-<h2>3. OpenAI Content Highlights</h2>
-<p>⚠️ <strong>No new content today (0 articles).</strong> There are no URLs, categories, or metadata to list, and no analysis is possible. All substantive signals in this cycle come from Anthropic.</p>
-<hr>
-<h2>4. Strategic Signal Analysis</h2>
-<p><strong>Anthropic&#39;s technical priorities:</strong></p>
-<ul>
-<li><strong>Safety-as-product:</strong> EFS marks the maturation of safety from research positioning into a <em>sellable enterprise product line</em>. Anthropic is converting its safety brand into a compliance/procurement moat — &quot;state-of-the-art safeguards&quot; with ZDR is a bundle few competitors can replicate credibly.</li>
-<li><strong>Distribution depth:</strong> EFS availability on all three hyperscaler platforms (Bedrock, Google&#39;s Agent Platform, Microsoft Foundry) confirms Anthropic&#39;s model-provider-agnostic go-to-market — the opposite lock-in strategy to OpenAI&#39;s vertically integrated stack.</li>
-<li><strong>Policy influence:</strong> The retraining meta-analysis shows a sustained, staffed economic research effort aimed at shaping government responses to AI labor displacement.</li>
-</ul>
-<p><strong>Competitive dynamics:</strong></p>
-<ul>
-<li>With OpenAI silent today, <strong>Anthropic is setting the agenda</strong> on two fronts simultaneously: enterprise deployment controls and societal/policy groundwork. EFS is a preemptive move — it anticipates enterprise AI-governance requirements (agent autonomy + regulated data) before regulators or competitors define them.</li>
-<li>The candid framing of agent misuse and &quot;autonomous misbehavior&quot; functions as both a warning to the market and a differentiator: it implicitly argues that frontier agentic models <em>require</em> Anthropic-grade safeguards, raising the bar for any competitor selling agents into regulated industries.</li>
-</ul>
-<p><strong>Impact on developers and enterprises:</strong></p>
-<ul>
-<li><strong>Enterprises in regulated sectors:</strong> The most significant development. EFS removes the traditional trade-off between ZDR/privacy and misuse monitoring — expect procurement and legal teams to make EFS-style architecture a requirement for frontier model adoption.</li>
-<li><strong>Developers/ISVs:</strong> Multi-platform EFS support means safety compliance can be portable across AWS, Azure, and GCP deployments, reducing vendor lock-in concerns for agent products.</li>
-<li><strong>OpenAI:</strong> Silence on the same day is itself a signal — either a quiet period before a response on enterprise safety/compliance, or confirmation that Anthropic currently owns the &quot;safe enterprise deployment&quot; narrative.</li>
-</ul>
-<hr>
-<h2>5. Notable Details</h2>
-<ul>
-<li><strong>First-appearance terms:</strong> &quot;Enterprise Frontier Safeguards (EFS)&quot; and &quot;Mythos-class models&quot; appear as new nomenclature — &quot;Mythos-class&quot; suggests Anthropic has formalized an internal capability tier above previous frontier classifications, with Fable 5.1 as the current representative.</li>
-<li><strong>Bridge-offer signal:</strong> Granting eligible customers ZDR on Fable 5/5.1 &quot;until EFS is ready&quot; implies (a) a sizable regulated customer base already under NDA-level terms, and (b) a fall 2026 deadline pressure — expect a major GA milestone this fall.</li>
-<li><strong>Safety discourse shift:</strong> Anthropic explicitly categorizes &quot;agents autonomously engaging in destructive behavior&quot; as observed, not hypothetical — a notable escalation in how frontier labs publicly describe real-world incidents. This may foreshadow stricter deployment gating for agentic products.</li>
-<li><strong>Dense category signal (research/policy):</strong> The Economic Research team now has at least four interconnected outputs (Economic Index, labor-market framework, Policy Framework, retraining meta-analysis). This cadence suggests Anthropic is positioning as the defacto evidence source for AI labor policy — a long-horizon regulatory influence play.</li>
-<li><strong>Timing note:</strong> The retraining report is dated Aug 12 but surfaced in today&#39;s crawl update, suggesting Anthropic is actively recycling/refreshing its research catalog — possibly in coordination with the EFS narrative of responsible scaling.</li>
-</ul>
-<hr>
-<p><em>Report generated 2026-09-03. OpenAI section limited by absence of crawl data; no content was inferred or fabricated.</em></p>
-<hr>
-<p><em>This digest is auto-generated by <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a>.</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>AI 开源趋势日报 2026-09-03</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-09-03/ai-trending</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-09-03/ai-trending</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <description>AI 开源趋势日报 2026-09-03 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-03 00:32 UTC ⚠️ 趋势报告生成失败。 本日报由 agents-radar 自动生成。</description>
-      <content:encoded><![CDATA[<h1>AI 开源趋势日报 2026-09-03</h1>
-<blockquote>
-<p>数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-03 00:32 UTC</p>
-</blockquote>
-<hr>
-<p>⚠️ 趋势报告生成失败。</p>
-<hr>
-<p><em>本日报由 <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a> 自动生成。</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>AI Open Source Trends 2026-09-03</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-09-03/ai-trending-en</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-09-03/ai-trending-en</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <description>AI Open Source Trends 2026-09-03 Sources: GitHub Trending + GitHub Search API | Generated: 2026-09-03 00:32 UTC ⚠️ Trending report generation failed. This digest is auto-generated by agents-radar.</description>
-      <content:encoded><![CDATA[<h1>AI Open Source Trends 2026-09-03</h1>
-<blockquote>
-<p>Sources: GitHub Trending + GitHub Search API | Generated: 2026-09-03 00:32 UTC</p>
-</blockquote>
-<hr>
-<p>⚠️ Trending report generation failed.</p>
-<hr>
-<p><em>This digest is auto-generated by <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a>.</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>技术社区 AI 动态日报 2026-09-03</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-09-03/ai-community</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-09-03/ai-community</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <description>技术社区 AI 动态日报 2026-09-03 数据来源: Dev.to (30 篇) + Lobste.rs (5 条) | 生成时间: 2026-09-03 00:32 UTC 技术社区 AI 日报 — 2026-09-03 1. 今日要点 今天的主导主题是自主智能体的防护栏——从刹车机制和拒绝 LLM 输出的门控，到操作系统级沙箱(ShrekOS)以及面向 AI 基础设施审查者的确定性追踪契约。第二波文章聚焦于智能体的可观测性与调试：用执行树取代扁平日志、生产环境追踪，以及一个微妙的事实——超时并不会真正取消 LLM 调用。此外还有不少对炒作的质疑——“线束工程”、“软件工厂”以及提示词衰减(Anthropic 削减了 Claude Code 80% 的系统提示词)都表明 AI 开发正在向一门严谨的工程学科转变。在 Lobste.rs 上，安全与评估成为焦点，AI 加速的漏洞发现引发了当天最热烈的讨论。 2. Dev.to 精选 文章 反应数 评论数 摘要 我用三种不同的 AI 工具结对编程了一个月 25 11 为期一个月的 AI 结对编程工具对比，探讨快速代码生成是否等于优质代...</description>
-      <content:encoded><![CDATA[<h1>技术社区 AI 动态日报 2026-09-03</h1>
-<blockquote>
-<p>数据来源: <a href="https://dev.to/">Dev.to</a> (30 篇) + <a href="https://lobste.rs/">Lobste.rs</a> (5 条) | 生成时间: 2026-09-03 00:32 UTC</p>
-</blockquote>
-<hr>
-<h1>技术社区 AI 日报 — 2026-09-03</h1>
-<h2>1. 今日要点</h2>
-<p>今天的主导主题是<strong>自主智能体的防护栏</strong>——从刹车机制和拒绝 LLM 输出的门控，到操作系统级沙箱(ShrekOS)以及面向 AI 基础设施审查者的确定性追踪契约。第二波文章聚焦于<strong>智能体的可观测性与调试</strong>：用执行树取代扁平日志、生产环境追踪，以及一个微妙的事实——超时并不会真正取消 LLM 调用。此外还有不少对炒作的质疑——“线束工程”、“软件工厂”以及提示词衰减(Anthropic 削减了 Claude Code 80% 的系统提示词)都表明 AI 开发正在向一门严谨的工程学科转变。在 Lobste.rs 上，安全与评估成为焦点，AI 加速的漏洞发现引发了当天最热烈的讨论。</p>
-<h2>2. Dev.to 精选</h2>
-<table>
-<thead>
-<tr>
-<th align="left">文章</th>
-<th align="right">反应数</th>
-<th align="right">评论数</th>
-<th align="left">摘要</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="https://dev.to/elsie-rainee/i-tried-pair-programming-with-three-different-ai-tools-for-a-month-2nnc">我用三种不同的 AI 工具结对编程了一个月</a></td>
-<td align="right">25</td>
-<td align="right">11</td>
-<td align="left">为期一个月的 AI 结对编程工具对比，探讨快速代码生成是否等于优质代码。对正在决定哪些工具值得纳入工作流的开发者很有参考价值。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://dev.to/ale3oula/what-do-you-build-when-you-can-build-anything-4eg0">当什么都能造时，你该造什么？</a></td>
-<td align="right">23</td>
-<td align="right">10</td>
-<td align="left">一篇反主流观点，反对把“无休止地造东西”当作 AI 时代的默认建议。作为对“公开构建”文化在心理健康与优先级方面的反制，值得一读。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://dev.to/james_anderson_h/agents-that-act-need-brakes-not-just-brains-54h2">会行动的智能体需要刹车，而不只是大脑</a></td>
-<td align="right">19</td>
-<td align="right">18</td>
-<td align="left">论述有能力的智能体需要干预和停止机制，而不仅仅是智能。评论比例显示社区对智能体安全的激烈讨论。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://dev.to/raju_dandigam/execution-trees-not-more-logs-a-better-debugging-model-for-ai-agents-3d4g">执行树而非更多日志：更好的 AI 智能体调试模型</a></td>
-<td align="right">19</td>
-<td align="right">18</td>
-<td align="left">提出用执行树取代扁平日志来识别智能体运行中的因果关系。对任何在生产环境运营智能体的人来说，都是一套实用的调试模式。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0">什么是线束工程，为什么要关心它？</a></td>
-<td align="right">16</td>
-<td align="right">0</td>
-<td align="left">Google AI 讲解如何通过线束工程交付零手写代码的软件。一窥 AI 原生开发中正在兴起的职业学科。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://dev.to/dannwaneri/i-found-3-security-vulnerabilities-in-my-own-ai-agents-tool-access-75m">我在自己 AI 智能体的工具访问权限中发现了 3 个安全漏洞</a></td>
-<td align="right">10</td>
-<td align="right">4</td>
-<td align="left">对智能体工具访问权限的实操审计揭示出真实的利用路径。任何构建工具调用型智能体的人都应内化这些关于 MCP/智能体安全的具体教训。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://dev.to/ialijr/your-system-prompt-has-a-shelf-life-maintaining-prompts-as-models-improve-cd9">你的系统提示词有保质期：随着模型进步维护提示词</a></td>
-<td align="right">6</td>
-<td align="right">0</td>
-<td align="left">Anthropic 为更新的模型移除了 Claude Code 系统提示词 80% 以上的内容——证明提示词会随模型进步而衰减。文章主张把提示词当作需要持续维护的、带版本管理的活文档。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://dev.to/debashish_ghosal/i-gave-an-llm-the-keys-to-rewrite-its-own-prompt-then-built-a-gate-that-said-no-4150-times-1h46">我让一个 LLM 重写自己的提示词。真正的亮点是那个拒绝了它的门控。</a></td>
-<td align="right">7</td>
-<td align="right">1</td>
-<td align="left">自我重写提示词听起来很危险，但真正的创新在于那个拒绝糟糕重写的确定性门控。一个不错的模式：自主性加上硬性校验边界。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://dev.to/koda2026/im-12-a-dev-asked-me-to-expand-my-architecture-heres-the-deep-dive-schema-rls-fallback-27k6">我 12 岁。一位开发者让我展开我的架构……</a></td>
-<td align="right">13</td>
-<td align="right">12</td>
-<td align="left">一位 12 岁的独立开发者深入剖析了在廉价硬件上构建 AI 编程导师的 schema、RLS 和回退设计。有力地展示了 AI 如何降低严肃工程的门槛。</td>
-</tr>
-</tbody></table>
-<h2>3. Lobste.rs 精选</h2>
-<table>
-<thead>
-<tr>
-<th align="left">文章</th>
-<th align="right">得分</th>
-<th align="right">评论数</th>
-<th align="left">摘要</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="https://anil.recoil.org/notes/rumour-is-the-exploit">如今，仅仅一个 bug 的传闻就足以发现一个安全漏洞</a> · <a href="https://lobste.rs/s/t73wqi/just_rumour_bug_is_enough_find_security">讨论</a></td>
-<td align="right">33</td>
-<td align="right">19</td>
-<td align="left">AI 智能体把一个 bug 的传闻变成了可用的安全漏洞利用。清醒地审视 AI 如何压缩漏洞发现的时间线。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make">动荡的 AI 时代已经来临</a> · <a href="https://lobste.rs/s/aixljs/turbulent_ai_era_is_here">讨论</a></td>
-<td align="right">13</td>
-<td align="right">29</td>
-<td align="left">盖茨关于应对动荡 AI 转型的文章引发了最多的评论讨论。即使读者持怀疑态度，其对劳动力和政策选择的宏观视角仍有价值。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://mvakde.github.io/blog/44-on-arc-1/">67 美分在 ARC-AGI-1 上拿到 44%</a> · <a href="https://lobste.rs/s/2rrgyh/44_on_arc_agi_1_67_cents">讨论</a></td>
-<td align="right">12</td>
-<td align="right">0</td>
-<td align="left">一项惊人的成本效率成果：不到一美元达到接近前沿的 ARC-AGI 性能。值得研究推理优化时借鉴的基准工程。</td>
-</tr>
-<tr>
-<td align="left"><a href="https://arxiv.org/abs/2604.25580">再见 Perspective API:NLP、CSS 与 LLM 评估中度量基础设施的教训</a> · <a href="https://lobste.rs/s/us078z/bye_bye_perspective_api_lessons_for">讨论</a></td>
-<td align="right">2</td>
-<td align="right">0</td>
-<td align="left">Perspective API 停运带来的教训：如何构建耐久的评估基础设施。在团队投入必须跨越多代模型的 LLM 评估时，这一经验尤为相关。</td>
-</tr>
-</tbody></table>
-<h2>4. 社区脉搏</h2>
-<p>两个社区都汇聚到一个共同的认识：<strong>真正的难题不是让智能体变得有能力——而是让它们可停止、可观测、可审计。</strong> Dev.to 上的热门讨论围绕门控、刹车、超时、执行树以及工具访问权限的安全审计，而 Lobste.rs 则放大了 AI 加速漏洞利用所带来的安全影响。</p>
-<p>实际关注点正在成熟，从“AI 会不会取代我”转向运营层面的问题：网关延迟开销、不会取消请求的超时、随模型进步而出现的提示词衰减，以及对智能体生成改进的统计严谨性(一位作者的智能体发现了真实有效的改进，却因证据不足而未能晋升上线)。</p>
-<p>值得留意的新兴模式：围绕 LLM 自主性的确定性校验门控、用执行树取代扁平日志的调试方式、基于文件的上下文锚定取代托管内存服务，以及“线束工程”作为一门新兴学科。社区显然正在构建智能体驱动开发所缺失的安全与可观测性层。</p>
-<h2>5. 值得一读</h2>
-<ol>
-<li><strong><a href="https://anil.recoil.org/notes/rumour-is-the-exploit">如今，仅仅一个 bug 的传闻就足以发现一个安全漏洞</a></strong> — 当天互动度最高的文章，对我们思考漏洞披露与 AI 驱动的漏洞利用具有真实的安全意义。</li>
-<li><strong><a href="https://dev.to/james_anderson_h/agents-that-act-need-brakes-not-just-brains-54h2">会行动的智能体需要刹车，而不只是大脑</a></strong> — 抓住了当下最核心的工程辩论，背后是 Dev.to 上最活跃的评论串。</li>
-<li><strong><a href="https://dev.to/ialijr/your-system-prompt-has-a-shelf-life-maintaining-prompts-as-models-improve-cd9">你的系统提示词有保质期</a></strong> — 基于 Anthropic 的真实变更，将提示词维护重新定义为必不可少的工程卫生，而非一次性工作。</li>
-</ol>
-<hr>
-<hr>
-<p><em>本日报由 <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a> 自动生成。</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Tech Community AI Digest 2026-09-03</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-09-03/ai-community-en</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-09-03/ai-community-en</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Tech Community AI Digest 2026-09-03 Sources: Dev.to (30 articles) + Lobste.rs (5 stories) | Generated: 2026-09-03 00:32 UTC Tech Community AI Digest — 2026-09-03 1. Today&amp;#39;s Highlights The dominant theme today is guardrails for autonomous agents — from braking mechanisms and gates that reject LLM output to OS-level sandboxing (ShrekOS) and deterministic trace contracts for AI infrastructure reviewers. A second wave of posts focuses on observability and debugging for agents: execution trees ov...</description>
-      <content:encoded><![CDATA[<h1>Tech Community AI Digest 2026-09-03</h1>
-<blockquote>
-<p>Sources: <a href="https://dev.to/">Dev.to</a> (30 articles) + <a href="https://lobste.rs/">Lobste.rs</a> (5 stories) | Generated: 2026-09-03 00:32 UTC</p>
-</blockquote>
-<hr>
-<h1>Tech Community AI Digest — 2026-09-03</h1>
-<h2>1. Today&#39;s Highlights</h2>
-<p>The dominant theme today is <strong>guardrails for autonomous agents</strong> — from braking mechanisms and gates that reject LLM output to OS-level sandboxing (ShrekOS) and deterministic trace contracts for AI infrastructure reviewers. A second wave of posts focuses on <strong>observability and debugging for agents</strong>: execution trees over flat logs, production tracing, and the subtlety that timeouts don&#39;t actually cancel LLM calls. There&#39;s also notable skepticism around hype — &quot;harness engineering,&quot; software factories, and prompt decay (Anthropic cutting 80% of Claude Code&#39;s system prompt) signal a shift toward treating AI development as a rigorous engineering discipline. On Lobste.rs, security and evaluation take center stage, with AI-accelerated exploit discovery drawing the day&#39;s biggest discussion.</p>
-<h2>2. Dev.to Highlights</h2>
-<table>
-<thead>
-<tr>
-<th align="left">Article</th>
-<th align="right">Reactions</th>
-<th align="right">Comments</th>
-<th align="left">Summary</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="https://dev.to/elsie-rainee/i-tried-pair-programming-with-three-different-ai-tools-for-a-month-2nnc">I Tried Pair Programming With Three Different AI Tools For a Month</a></td>
-<td align="right">25</td>
-<td align="right">11</td>
-<td align="left">A month-long comparison of AI pair programming tools asks whether fast code generation translates into good code. Useful for developers deciding which tools merit a place in their workflow.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://dev.to/ale3oula/what-do-you-build-when-you-can-build-anything-4eg0">What do you build when you can build anything?</a></td>
-<td align="right">23</td>
-<td align="right">10</td>
-<td align="left">A contrarian take against endless building as the default AI-era advice. Worth reading as a mental health and prioritization counterpoint to build-in-public culture.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://dev.to/james_anderson_h/agents-that-act-need-brakes-not-just-brains-54h2">Agents That Act Need Brakes, Not Just Brains</a></td>
-<td align="right">19</td>
-<td align="right">18</td>
-<td align="left">Argues that capable agents need intervention and stopping mechanisms, not just intelligence. The comment ratio shows strong community debate on agent safety.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://dev.to/raju_dandigam/execution-trees-not-more-logs-a-better-debugging-model-for-ai-agents-3d4g">Execution Trees, Not More Logs: A Better Debugging Model for AI Agents</a></td>
-<td align="right">19</td>
-<td align="right">18</td>
-<td align="left">Proposes execution trees over flat logs to identify causal relationships in agent operations. A practical debugging pattern for anyone operating agents in production.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0">What is harness engineering and why should I care?</a></td>
-<td align="right">16</td>
-<td align="right">0</td>
-<td align="left">Google AI explains shipping software with zero manually-written lines via harness engineering. A glimpse at an emerging job discipline in AI-native development.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://dev.to/dannwaneri/i-found-3-security-vulnerabilities-in-my-own-ai-agents-tool-access-75m">I Found 3 Security Vulnerabilities in My Own AI Agent&#39;s Tool Access</a></td>
-<td align="right">10</td>
-<td align="right">4</td>
-<td align="left">A hands-on audit of an agent&#39;s tool access reveals real exploit paths. Concrete lessons in MCP/agent security anyone building tool-using agents should internalize.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://dev.to/ialijr/your-system-prompt-has-a-shelf-life-maintaining-prompts-as-models-improve-cd9">Your System Prompt Has a Shelf Life: Maintaining Prompts as Models Improve</a></td>
-<td align="right">6</td>
-<td align="right">0</td>
-<td align="left">Anthropic removed 80%+ of Claude Code&#39;s system prompt for newer models — evidence prompts decay as models improve. Argues for maintaining prompts as living, versioned artifacts.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://dev.to/debashish_ghosal/i-gave-an-llm-the-keys-to-rewrite-its-own-prompt-then-built-a-gate-that-said-no-4150-times-1h46">I Let an LLM Rewrite Its Own Prompt. The Real Win Was the Gate That Rejected It.</a></td>
-<td align="right">7</td>
-<td align="right">1</td>
-<td align="left">Self-rewriting prompts sound dangerous, but the real innovation is the deterministic gate that rejects bad rewrites. A nice pattern: autonomy plus hard validation boundaries.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://dev.to/koda2026/im-12-a-dev-asked-me-to-expand-my-architecture-heres-the-deep-dive-schema-rls-fallback-27k6">I&#39;m 12. A dev asked me to expand my architecture...</a></td>
-<td align="right">13</td>
-<td align="right">12</td>
-<td align="left">A 12-year-old solo dev deep-dives into schema, RLS, and fallback design for an AI coding mentor built on budget hardware. A remarkable demonstration of how AI lowers barriers to serious engineering.</td>
-</tr>
-</tbody></table>
-<h2>3. Lobste.rs Highlights</h2>
-<table>
-<thead>
-<tr>
-<th align="left">Story</th>
-<th align="right">Score</th>
-<th align="right">Comments</th>
-<th align="left">Summary</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="https://anil.recoil.org/notes/rumour-is-the-exploit">Just a rumour of a bug is enough to find a security exploit these days</a> · <a href="https://lobste.rs/s/t73wqi/just_rumour_bug_is_enough_find_security">discuss</a></td>
-<td align="right">33</td>
-<td align="right">19</td>
-<td align="left">AI agents turned a mere rumor of a bug into a working security exploit. A sobering look at how AI compresses the vulnerability discovery timeline.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make">The turbulent AI era is here</a> · <a href="https://lobste.rs/s/aixljs/turbulent_ai_era_is_here">discuss</a></td>
-<td align="right">13</td>
-<td align="right">29</td>
-<td align="left">Gates&#39; essay on navigating the turbulent AI transition drew the most comment debate. Good for macro perspective on labor and policy choices, even if readers are skeptical.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://mvakde.github.io/blog/44-on-arc-1/">44% on ARC-AGI-1 in 67 cents</a> · <a href="https://lobste.rs/s/2rrgyh/44_on_arc_agi_1_67_cents">discuss</a></td>
-<td align="right">12</td>
-<td align="right">0</td>
-<td align="left">A remarkable cost-efficiency result: near-frontier ARC-AGI performance for under a dollar. Impressive benchmark engineering worth studying for inference optimization.</td>
-</tr>
-<tr>
-<td align="left"><a href="https://arxiv.org/abs/2604.25580">Bye Bye Perspective API: Lessons for Measurement Infrastructure in NLP, CSS and LLM Evaluation</a> · <a href="https://lobste.rs/s/us078z/bye_bye_perspective_api_lessons_for">discuss</a></td>
-<td align="right">2</td>
-<td align="right">0</td>
-<td align="left">Sunset lessons from Perspective API on building durable evaluation infrastructure. Relevant as teams invest in LLM evals that must outlive model generations.</td>
-</tr>
-</tbody></table>
-<h2>4. Community Pulse</h2>
-<p>Both communities converge on a common realization: <strong>the hard problem isn&#39;t making agents capable — it&#39;s making them stoppable, observable, and auditable.</strong> Dev.to&#39;s top discussions revolve around gates, brakes, timeouts, execution trees, and security audits of tool access, while Lobste.rs amplifies the security implications of AI-accelerated exploitation.</p>
-<p>Practical concerns are maturing past &quot;will AI replace me&quot; toward operational questions: gateway latency overhead, timeouts that don&#39;t cancel requests, prompt decay as models improve, and statistical rigor for agent-generated improvements (one author&#39;s agent found real wins that still failed promotion due to weak evidence).</p>
-<p>Emerging patterns worth noting: deterministic validation gates around LLM autonomy, execution-tree debugging over flat logs, file-based context anchoring over hosted memory services, and &quot;harness engineering&quot; as an nascent discipline. The community is clearly building the safety and observability layer that agent-driven development was missing.</p>
-<h2>5. Worth Reading</h2>
-<ol>
-<li><strong><a href="https://anil.recoil.org/notes/rumour-is-the-exploit">Just a rumour of a bug is enough to find a security exploit these days</a></strong> — the day&#39;s highest-engagement story with real security consequences for how we think about disclosure and AI-driven exploitation.</li>
-<li><strong><a href="https://dev.to/james_anderson_h/agents-that-act-need-brakes-not-just-brains-54h2">Agents That Act Need Brakes, Not Just Brains</a></strong> — captures the defining engineering debate of the moment, backed by the most active comment thread on Dev.to.</li>
-<li><strong><a href="https://dev.to/ialijr/your-system-prompt-has-a-shelf-life-maintaining-prompts-as-models-improve-cd9">Your System Prompt Has a Shelf Life</a></strong> — grounded in real Anthropic changes, it reframes prompt maintenance as essential engineering hygiene rather than one-time work.</li>
-</ol>
-<hr>
-<p><em>This digest is auto-generated by <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a>.</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>AI CLI 工具社区动态日报 2026-09-02</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-09-02/ai-cli</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-09-02/ai-cli</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <description>AI CLI 工具社区动态日报 2026-09-02 生成时间: 2026-09-02 00:26 UTC | 覆盖工具: 7 个 Claude Code OpenAI Codex Gemini CLI GitHub Copilot CLI OpenCode Pi Qwen Code Claude Code Skills 横向对比 ⚠️ 横向对比生成失败。 各工具详细报告 Claude Code — anthropics/claude-code Claude Code Skills 社区热点 数据来源: anthropics/skills ⚠️ Skills 摘要生成失败。 ⚠️ 摘要生成失败。 OpenAI Codex — openai/codex ⚠️ 摘要生成失败。 Gemini CLI — google-gemini/gemini-cli ⚠️ 摘要生成失败。 GitHub Copilot CLI — github/copilot-cli ⚠️ 摘要生成失败。 OpenCode — anomalyco/opencode ⚠️ 摘要生成失败。 Pi — earendil-work...</description>
-      <content:encoded><![CDATA[<h1>AI CLI 工具社区动态日报 2026-09-02</h1>
-<blockquote>
-<p>生成时间: 2026-09-02 00:26 UTC | 覆盖工具: 7 个</p>
-</blockquote>
-<ul>
-<li><a href="https://github.com/anthropics/claude-code">Claude Code</a></li>
-<li><a href="https://github.com/openai/codex">OpenAI Codex</a></li>
-<li><a href="https://github.com/google-gemini/gemini-cli">Gemini CLI</a></li>
-<li><a href="https://github.com/github/copilot-cli">GitHub Copilot CLI</a></li>
-<li><a href="https://github.com/anomalyco/opencode">OpenCode</a></li>
-<li><a href="https://github.com/earendil-works/pi">Pi</a></li>
-<li><a href="https://github.com/QwenLM/qwen-code">Qwen Code</a></li>
-<li><a href="https://github.com/anthropics/skills">Claude Code Skills</a></li>
-</ul>
-<hr>
-<h2>横向对比</h2>
-<p>⚠️ 横向对比生成失败。</p>
-<hr>
-<h2>各工具详细报告</h2>
-<details>
-<summary><strong>Claude Code</strong> — <a href="https://github.com/anthropics/claude-code">anthropics/claude-code</a></summary>
-
-<h2>Claude Code Skills 社区热点</h2>
-<blockquote>
-<p>数据来源: <a href="https://github.com/anthropics/skills">anthropics/skills</a></p>
-</blockquote>
-<p>⚠️ Skills 摘要生成失败。</p>
-<hr>
-<p>⚠️ 摘要生成失败。</p>
-</details>
-
-<details>
-<summary><strong>OpenAI Codex</strong> — <a href="https://github.com/openai/codex">openai/codex</a></summary>
-
-<p>⚠️ 摘要生成失败。</p>
-</details>
-
-<details>
-<summary><strong>Gemini CLI</strong> — <a href="https://github.com/google-gemini/gemini-cli">google-gemini/gemini-cli</a></summary>
-
-<p>⚠️ 摘要生成失败。</p>
-</details>
-
-<details>
-<summary><strong>GitHub Copilot CLI</strong> — <a href="https://github.com/github/copilot-cli">github/copilot-cli</a></summary>
-
-<p>⚠️ 摘要生成失败。</p>
-</details>
-
-<details>
-<summary><strong>OpenCode</strong> — <a href="https://github.com/anomalyco/opencode">anomalyco/opencode</a></summary>
-
-<p>⚠️ 摘要生成失败。</p>
-</details>
-
-<details>
-<summary><strong>Pi</strong> — <a href="https://github.com/earendil-works/pi">earendil-works/pi</a></summary>
-
-<p>⚠️ 摘要生成失败。</p>
-</details>
-
-<details>
-<summary><strong>Qwen Code</strong> — <a href="https://github.com/QwenLM/qwen-code">QwenLM/qwen-code</a></summary>
-
-<p>⚠️ 摘要生成失败。</p>
-</details>
-
-<hr>
-<p><em>本日报由 <a href="https://github.com/lijiaming325-arch/agents-radar">agents-radar</a> 自动生成。</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>AI CLI Tools Digest 2026-09-02</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-09-02/ai-cli-en</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-09-02/ai-cli-en</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <description>AI CLI Tools Community Digest 2026-09-02 Generated: 2026-09-02 00:26 UTC | Tools covered: 7 Claude Code OpenAI Codex Gemini CLI GitHub Copilot CLI OpenCode Pi Qwen Code Claude Code Skills Cross-Tool Comparison ⚠️ Comparative analysis generation failed. Per-Tool Reports Claude Code — anthropics/claude-code Claude Code Skills Highlights Source: anthropics/skills ⚠️ Skills summary generation failed. ⚠️ Summary generation failed. OpenAI Codex — openai/codex ⚠️ Summary generation failed. Gemini CLI —...</description>
-      <content:encoded><![CDATA[<h1>AI CLI Tools Community Digest 2026-09-02</h1>
-<blockquote>
-<p>Generated: 2026-09-02 00:26 UTC | Tools covered: 7</p>
-</blockquote>
-<ul>
-<li><a href="https://github.com/anthropics/claude-code">Claude Code</a></li>
-<li><a href="https://github.com/openai/codex">OpenAI Codex</a></li>
-<li><a href="https://github.com/google-gemini/gemini-cli">Gemini CLI</a></li>
-<li><a href="https://github.com/github/copilot-cli">GitHub Copilot CLI</a></li>
-<li><a href="https://github.com/anomalyco/opencode">OpenCode</a></li>
-<li><a href="https://github.com/earendil-works/pi">Pi</a></li>
-<li><a href="https://github.com/QwenLM/qwen-code">Qwen Code</a></li>
-<li><a href="https://github.com/anthropics/skills">Claude Code Skills</a></li>
-</ul>
-<hr>
-<h2>Cross-Tool Comparison</h2>
-<p>⚠️ Comparative analysis generation failed.</p>
-<hr>
-<h2>Per-Tool Reports</h2>
-<details>
-<summary><strong>Claude Code</strong> — <a href="https://github.com/anthropics/claude-code">anthropics/claude-code</a></summary>
-
-<h2>Claude Code Skills Highlights</h2>
-<blockquote>
-<p>Source: <a href="https://github.com/anthropics/skills">anthropics/skills</a></p>
-</blockquote>
-<p>⚠️ Skills summary generation failed.</p>
-<hr>
-<p>⚠️ Summary generation failed.</p>
-</details>
-
-<details>
-<summary><strong>OpenAI Codex</strong> — <a href="https://github.com/openai/codex">openai/codex</a></summary>
-
-<p>⚠️ Summary generation failed.</p>
-</details>
-
-<details>
-<summary><strong>Gemini CLI</strong> — <a href="https://github.com/google-gemini/gemini-cli">google-gemini/gemini-cli</a></summary>
-
-<p>⚠️ Summary generation failed.</p>
-</details>
-
-<details>
-<summary><strong>GitHub Copilot CLI</strong> — <a href="https://github.com/github/copilot-cli">github/copilot-cli</a></summary>
-
-<p>⚠️ Summary generation failed.</p>
-</details>
-
-<details>
-<summary><strong>OpenCode</strong> — <a href="https://github.com/anomalyco/opencode">anomalyco/opencode</a></summary>
-
-<p>⚠️ Summary generation failed.</p>
-</details>
-
-<details>
-<summary><strong>Pi</strong> — <a href="https://github.com/earendil-works/pi">earendil-works/pi</a></summary>
-
-<p>⚠️ Summary generation failed.</p>
-</details>
-
-<details>
-<summary><strong>Qwen Code</strong> — <a href="https://github.com/QwenLM/qwen-code">QwenLM/qwen-code</a></summary>
 
 <p>⚠️ Summary generation failed.</p>
 </details>
